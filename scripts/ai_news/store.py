@@ -66,11 +66,18 @@ def load_feed() -> dict:
     return {"generated_at": None, "runs": [], "items": []}
 
 
-def merge_items(existing: list[dict], incoming: list[dict]) -> tuple[list[dict], int]:
+def merge_items(existing: list[dict], incoming: list[dict],
+                active_source_ids: set[str] | None = None) -> tuple[list[dict], int]:
     """
     既存フィードに新着をマージする。
     重複はURL正規化 → 見出しキーの順で判定し、新着数を返す。
+
+    active_source_ids を渡すと、収集対象から外したソースの記事を掃除する。
+    （ノイズ源を削除しても、保持期間の14日間は残り続けてしまうため）
     """
+    if active_source_ids is not None:
+        existing = [it for it in existing
+                    if it.get("source_id") in active_source_ids]
     by_id = {it["id"]: it for it in existing}
     seen_titles = {title_key(it.get("title_original") or it.get("title", "")): it["id"]
                    for it in existing}

@@ -162,7 +162,8 @@ GLOBAL_SOURCES = [
     {
         "id": "microsoft_ai",
         "name": "Microsoft AI Blog",
-        "url": "https://blogs.microsoft.com/ai/feed/",
+        # /ai/feed/ は HTTP 410 Gone。本体ブログのフィードに切り替える。
+        "url": "https://blogs.microsoft.com/feed/",
         "lang": "en", "region": "global", "tier": 2,
         "tags": ["企業導入"],
     },

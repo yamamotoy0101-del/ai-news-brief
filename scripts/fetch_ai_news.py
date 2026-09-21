@@ -11,10 +11,12 @@ RSS/Atomを巡回 → AI関連記事を抽出 → 重要度スコアリング �
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
@@ -60,16 +62,20 @@ def parse_published(entry, fallback: datetime) -> datetime:
     return fallback
 
 
-def fetch_source(source: dict, now: datetime) -> tuple[list[dict], str, bool]:
-    """
-    1ソースを取得して (記事リスト, 状態文字列, フィードが生きているか) を返す。
+# <link rel="alternate" type="application/rss+xml" href="..."> を拾う
+FEED_LINK_RE = re.compile(
+    r"""<link[^>]+?(?=[^>]*\brel=["']?alternate)"""
+    r"""(?=[^>]*\btype=["']?application/(?:rss|atom)\+xml)"""
+    r"""[^>]*?\bhref=["']([^"']+)["']""",
+    re.I,
+)
 
-    状態文字列は「ソース状況」タブにそのまま出るので、原因が切り分けられる
-    粒度にする（HTTPステータス、フィードの総件数など）。
-    """
+
+def _load_feed(url: str):
+    """URLを取得してパースする。(parsed, 件数, 失敗理由) を返す。"""
     try:
         response = requests.get(
-            source["url"],
+            url,
             headers={
                 "User-Agent": USER_AGENT,
                 "Accept": "application/rss+xml, application/xml, text/xml, */*",
@@ -80,14 +86,69 @@ def fetch_source(source: dict, now: datetime) -> tuple[list[dict], str, bool]:
         response.raise_for_status()
     except requests.HTTPError as exc:
         code = exc.response.status_code if exc.response is not None else "不明"
-        return [], f"取得失敗 (HTTP {code})", False
+        return None, 0, f"取得失敗 (HTTP {code})"
     except requests.RequestException as exc:
-        return [], f"取得失敗 ({type(exc).__name__})", False
+        return None, 0, f"取得失敗 ({type(exc).__name__})"
 
     parsed = feedparser.parse(response.content)
-    total = len(parsed.entries)
+    return parsed, len(parsed.entries), None
+
+
+def discover_feed_url(page_url: str) -> str | None:
+    """
+    フィードURLが404などで死んでいるとき、サイトのトップページから
+    RSS/Atom の自動検出リンクを探す。
+
+    媒体側のURL変更に自動で追随するための保険であり、
+    見つかった場合は状態文字列に出して sources.py に反映できるようにする。
+    """
+    parts = urlsplit(page_url)
+    if not parts.scheme or not parts.netloc:
+        return None
+    home = urlunsplit((parts.scheme, parts.netloc, "/", "", ""))
+    try:
+        response = requests.get(
+            home,
+            headers={"User-Agent": USER_AGENT, "Accept": "text/html,*/*"},
+            timeout=TIMEOUT,
+        )
+        response.raise_for_status()
+    except requests.RequestException:
+        return None
+
+    # <head> だけ見れば足りる。本文まで正規表現を走らせない。
+    html = response.text[:200_000]
+    for href in FEED_LINK_RE.findall(html):
+        candidate = urljoin(home, href.strip())
+        if candidate.rstrip("/") != page_url.rstrip("/"):
+            return candidate
+    return None
+
+
+def fetch_source(source: dict, now: datetime) -> tuple[list[dict], str, bool]:
+    """
+    1ソースを取得して (記事リスト, 状態文字列, フィードが生きているか) を返す。
+
+    状態文字列は「ソース状況」タブにそのまま出るので、原因が切り分けられる
+    粒度にする（HTTPステータス、フィードの総件数など）。
+    """
+    parsed, total, failure = _load_feed(source["url"])
+
+    # URLが死んでいる／フィードでない場合は、サイトから正しいURLを探す
+    note = ""
+    if parsed is None or total == 0:
+        discovered = discover_feed_url(source["url"])
+        if discovered:
+            alt_parsed, alt_total, alt_failure = _load_feed(discovered)
+            if alt_parsed is not None and alt_total > 0:
+                parsed, total, failure = alt_parsed, alt_total, None
+                note = f" ※要URL更新→{discovered}"
+            elif failure is None:
+                failure = alt_failure
+    if parsed is None:
+        return [], f"{failure}{note}", False
     if total == 0:
-        return [], "フィードが空（URLの形式を確認）", False
+        return [], f"フィードが空（URLの形式を確認）{note}", False
 
     cutoff = now - timedelta(hours=MAX_AGE_HOURS)
     collected: list[dict] = []
@@ -139,8 +200,8 @@ def fetch_source(source: dict, now: datetime) -> tuple[list[dict], str, bool]:
 
     # フィード自体は取れているがAI記事が無い日もある。障害と区別できるようにする。
     if not collected:
-        return [], f"AI関連なし（全{total}件）", True
-    return collected, f"{len(collected)}件 / 全{total}件", True
+        return [], f"AI関連なし（全{total}件）{note}", True
+    return collected, f"{len(collected)}件 / 全{total}件{note}", True
 
 
 def main() -> int:
@@ -171,8 +232,13 @@ def main() -> int:
     print(f"\nAI関連記事 {len(incoming)} 件を取得")
 
     feed = store.load_feed()
-    merged, added = store.merge_items(feed.get("items", []), incoming)
+    before = len(feed.get("items", []))
+    active_ids = {s["id"] for s in SOURCES}
+    merged, added = store.merge_items(feed.get("items", []), incoming, active_ids)
+    dropped = before + added - len(merged)
     print(f"重複除去後の新着: {added} 件 / フィード総数 {len(merged)} 件")
+    if dropped > 0:
+        print(f"（収集対象外・保持期間切れの記事 {dropped} 件を削除）")
 
     if not args.no_enrich:
         merged, enrich_stats = enrich.enrich(merged)
