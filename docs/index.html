@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI News Brief</title>
+<meta name="description" content="PwCコンサルティングのマネージャー向けに、国内外のAIニュースを1日3回収集し日本語で整理するフィード。">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <div class="brand">
+      <h1>AI News Brief</h1>
+      <p class="tagline">国内外のAIニュースを1日3回収集 ／ コンサルタント視点で整理</p>
+    </div>
+    <div class="status" id="status">
+      <span class="status-dot" aria-hidden="true"></span>
+      <span id="status-text">読み込み中…</span>
+    </div>
+  </div>
+  <nav class="wrap tabs" role="tablist">
+    <button class="tab is-active" role="tab" data-view="feed" aria-selected="true">フィード</button>
+    <button class="tab" role="tab" data-view="digest" aria-selected="false">サマリノート</button>
+    <button class="tab" role="tab" data-view="sources" aria-selected="false">ソース状況</button>
+  </nav>
+</header>
+
+<main class="wrap">
+
+  <!-- ───────── フィード ───────── -->
+  <section id="view-feed" class="view">
+    <div class="digest-teaser" id="digest-teaser" hidden></div>
+
+    <div class="controls">
+      <div class="search-row">
+        <input type="search" id="q" placeholder="キーワードで絞り込む（例：規制、導入、OpenAI）" aria-label="キーワード検索">
+        <button type="button" class="ghost-btn" id="reset">条件をリセット</button>
+      </div>
+      <div class="chip-row" id="cat-chips" role="group" aria-label="カテゴリで絞り込み"></div>
+      <div class="chip-row secondary">
+        <div class="chip-group" role="group" aria-label="重要度で絞り込み">
+          <button class="chip is-active" data-priority="all">すべて</button>
+          <button class="chip" data-priority="must-read">要チェックのみ</button>
+        </div>
+        <div class="chip-group" role="group" aria-label="地域で絞り込み">
+          <button class="chip is-active" data-region="all">国内＋海外</button>
+          <button class="chip" data-region="domestic">国内</button>
+          <button class="chip" data-region="global">海外</button>
+        </div>
+      </div>
+      <p class="result-count" id="count"></p>
+    </div>
+
+    <div id="feed"></div>
+  </section>
+
+  <!-- ───────── サマリノート ───────── -->
+  <section id="view-digest" class="view" hidden>
+    <div class="digest-picker">
+      <label for="digest-date">日付</label>
+      <select id="digest-date"></select>
+    </div>
+    <div id="digest-body"></div>
+  </section>
+
+  <!-- ───────── ソース状況 ───────── -->
+  <section id="view-sources" class="view" hidden>
+    <p class="note">
+      各RSSの直近の取得結果です。「取得失敗」が続くソースはURLが変更・廃止された可能性があります。
+      <code>scripts/ai_news/sources.py</code> を修正してください。
+    </p>
+    <div id="sources-body"></div>
+    <h2 class="section-title">実行履歴</h2>
+    <div id="runs-body"></div>
+  </section>
+
+</main>
+
+<footer class="wrap site-footer">
+  <p>収集: 朝7:00 ／ 昼12:30 ／ 夜21:00（JST） ・ サマリノート: 22:30（JST）</p>
+  <p class="muted">見出し・要約は各媒体の記事に基づく自動生成です。判断の前に必ず原文を確認してください。</p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+name: AIニュース収集（朝・昼・夜）
+
+on:
+  schedule:
+    # cron は UTC 指定。JST = UTC+9
+    - cron: '0 22 * * *'   # 07:00 JST（朝）
+    - cron: '30 3 * * *'   # 12:30 JST（昼）
+    - cron: '0 12 * * *'   # 21:00 JST（夜）
+  workflow_dispatch:
+
+# 収集が重なってもデータを壊さないよう直列化する
+concurrency:
+  group: ai-news-data
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 依存パッケージのインストール
+        run: pip install feedparser requests anthropic
+
+      - name: 分類・スコアリングの回帰テスト
+        run: python scripts/test_ai_news.py
+
+      - name: ニュース収集
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/fetch_ai_news.py
+
+      - name: 結果をコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if git diff --cached --quiet; then
+            echo "新着なし。コミットは行いません。"
+            exit 0
+          fi
+          git commit -m "AIニュース更新 $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')"
+          # 収集ジョブ同士が競合した場合に備えてリトライする
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              echo "push 成功"
+              exit 0
+            fi
+            echo "push 失敗。rebase して再試行します（${attempt}回目）"
+            sleep $((2 ** attempt))
+            git pull --rebase origin main
+          done
+          echo "::error::4回試行しても push できませんでした"
+          exit 1

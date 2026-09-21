@@ -1,0 +1,97 @@
+name: AIニュース サマリノート（1日1回）
+
+on:
+  schedule:
+    - cron: '30 13 * * *'  # 22:30 JST（夜の収集後）
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '対象日 (YYYY-MM-DD)。空なら今日'
+        required: false
+
+concurrency:
+  group: ai-news-data
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 依存パッケージのインストール
+        run: pip install anthropic
+
+      - name: サマリノート生成
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            python scripts/build_ai_digest.py --date "${{ inputs.date }}"
+          else
+            python scripts/build_ai_digest.py
+          fi
+
+      - name: 結果をコミット
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/ reports_ai/
+          if git diff --cached --quiet; then
+            echo "変更なし。"
+            exit 0
+          fi
+          git commit -m "AIニュース サマリノート $(TZ=Asia/Tokyo date +'%Y-%m-%d')"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((2 ** attempt))
+            git pull --rebase origin main
+          done
+          echo "::error::4回試行しても push できませんでした"
+          exit 1
+
+      # リポジトリ変数 AI_NEWS_EMAIL_TO を設定した場合だけメール送信する。
+      # 未設定なら何もしない（既存のGmailシークレットを勝手に使わない）。
+      - name: サマリノートをメール送信（任意）
+        if: vars.AI_NEWS_EMAIL_TO != ''
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ vars.AI_NEWS_EMAIL_TO }}
+        run: |
+          python - <<'EOF'
+          import os
+          import smtplib
+          from datetime import datetime, timedelta, timezone
+          from email.mime.text import MIMEText
+
+          JST = timezone(timedelta(hours=9))
+          today = datetime.now(JST).strftime("%Y-%m-%d")
+          path = f"reports_ai/{today}.md"
+
+          try:
+              with open(path, encoding="utf-8") as f:
+                  body = f.read()
+          except FileNotFoundError:
+              print(f"{path} が無いためメールは送信しません。")
+              raise SystemExit(0)
+
+          msg = MIMEText(body, "plain", "utf-8")
+          msg["From"] = os.environ["GMAIL_USER"]
+          msg["To"] = os.environ["MAIL_TO"]
+          msg["Subject"] = f"【AIニュース】サマリノート {today}"
+
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+              server.login(os.environ["GMAIL_USER"], os.environ["GMAIL_APP_PASSWORD"])
+              server.send_message(msg)
+          print(f"送信しました: {os.environ['MAIL_TO']}")
+          EOF
