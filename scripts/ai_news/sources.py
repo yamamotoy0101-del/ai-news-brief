@@ -58,14 +58,14 @@ DOMESTIC_SOURCES = [
     {
         "id": "zdnet_jp",
         "name": "ZDNET Japan",
-        "url": "https://japan.zdnet.com/rss/index.rdf",
+        "url": "https://feed.japan.zdnet.com/rss/index.rdf",
         "lang": "ja", "region": "domestic", "tier": 2,
         "tags": ["企業導入"],
     },
     {
         "id": "cnet_jp",
         "name": "CNET Japan",
-        "url": "https://japan.cnet.com/rss/index.rdf",
+        "url": "https://feed.japan.cnet.com/rss/index.rdf",
         "lang": "ja", "region": "domestic", "tier": 2,
         "tags": [],
     },
@@ -98,13 +98,6 @@ DOMESTIC_SOURCES = [
         "tags": ["企業導入"],
     },
     {
-        "id": "ledge_ai",
-        "name": "Ledge.ai",
-        "url": "https://ledge.ai/feed/",
-        "lang": "ja", "region": "domestic", "tier": 2,
-        "tags": ["企業導入"],
-    },
-    {
         "id": "meti",
         "name": "経済産業省 ニュースリリース",
         "url": "https://www.meti.go.jp/ml_index_release_atom.xml",
@@ -117,13 +110,6 @@ DOMESTIC_SOURCES = [
         "url": "https://www.digital.go.jp/rss/news.xml",
         "lang": "ja", "region": "domestic", "tier": 1,
         "tags": ["政策・規制"],
-    },
-    {
-        "id": "ppc_japan",
-        "name": "個人情報保護委員会",
-        "url": "https://www.ppc.go.jp/rss/news.xml",
-        "lang": "ja", "region": "domestic", "tier": 1,
-        "tags": ["政策・規制", "リスク・ガバナンス"],
     },
 ]
 
@@ -142,13 +128,6 @@ GLOBAL_SOURCES = [
         "id": "deepmind",
         "name": "Google DeepMind",
         "url": "https://deepmind.google/blog/rss.xml",
-        "lang": "en", "region": "global", "tier": 1,
-        "tags": ["技術・モデル"],
-    },
-    {
-        "id": "anthropic",
-        "name": "Anthropic News",
-        "url": "https://www.anthropic.com/news/rss.xml",
         "lang": "en", "region": "global", "tier": 1,
         "tags": ["技術・モデル"],
     },
@@ -203,13 +182,6 @@ GLOBAL_SOURCES = [
         "tags": [],
     },
     {
-        "id": "stanford_hai",
-        "name": "Stanford HAI",
-        "url": "https://hai.stanford.edu/news/rss.xml",
-        "lang": "en", "region": "global", "tier": 2,
-        "tags": ["政策・規制"],
-    },
-    {
         "id": "sloan_review",
         "name": "MIT Sloan Management Review",
         "url": "https://sloanreview.mit.edu/feed/",
@@ -227,3 +199,20 @@ GLOBAL_SOURCES = [
 
 SOURCES = DOMESTIC_SOURCES + GLOBAL_SOURCES
 SOURCES_BY_ID = {s["id"]: s for s in SOURCES}
+
+# ──────────────────────────────────────────
+# 収集対象から外したソース（再登録しないための記録）
+# ──────────────────────────────────────────
+# ASCII.jp (https://ascii.jp/rss.xml)
+#   全体フィードが企業の広報リリース配信。初回収集で8件中6件がリリースだった。
+# Harvard Business Review (https://feeds.hbr.org/harvardbusiness)
+#   SSLError で取得不可。本文も有料。
+# Ledge.ai (https://ledge.ai/feed/)
+#   HTTP 404。トップページにフィードの自動検出リンクも無い。
+# 個人情報保護委員会 (https://www.ppc.go.jp/rss/news.xml)
+#   HTTP 404。RSSを提供していない模様。規制動向としては有用なので、
+#   Google ニュースの検索フィード等での代替を検討する余地がある。
+# Anthropic News (https://www.anthropic.com/news/rss.xml)
+#   HTTP 404。公開RSSが見当たらない。
+# Stanford HAI (https://hai.stanford.edu/news/rss.xml)
+#   RSSではない内容が返る。自動検出リンクも無い。
