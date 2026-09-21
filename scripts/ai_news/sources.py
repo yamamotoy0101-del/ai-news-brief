@@ -58,14 +58,17 @@ DOMESTIC_SOURCES = [
     {
         "id": "zdnet_jp",
         "name": "ZDNET Japan",
-        "url": "https://feed.japan.zdnet.com/rss/index.rdf",
+        # 配信元は feed.japan.zdnet.com。https は提供されていないため http。
+        # 取得するのは公開済みのニュース見出しのみで、認証情報は送らない。
+        "url": "http://feed.japan.zdnet.com/rss/index.rdf",
         "lang": "ja", "region": "domestic", "tier": 2,
         "tags": ["企業導入"],
     },
     {
         "id": "cnet_jp",
         "name": "CNET Japan",
-        "url": "https://feed.japan.cnet.com/rss/index.rdf",
+        # 同上（ZDNET Japan と同じ配信基盤）
+        "url": "http://feed.japan.cnet.com/rss/index.rdf",
         "lang": "ja", "region": "domestic", "tier": 2,
         "tags": [],
     },

@@ -105,23 +105,32 @@ def discover_feed_url(page_url: str) -> str | None:
     parts = urlsplit(page_url)
     if not parts.scheme or not parts.netloc:
         return None
-    home = urlunsplit((parts.scheme, parts.netloc, "/", "", ""))
-    try:
-        response = requests.get(
-            home,
-            headers={"User-Agent": USER_AGENT, "Accept": "text/html,*/*"},
-            timeout=TIMEOUT,
-        )
-        response.raise_for_status()
-    except requests.RequestException:
-        return None
 
-    # <head> だけ見れば足りる。本文まで正規表現を走らせない。
-    html = response.text[:200_000]
-    for href in FEED_LINK_RE.findall(html):
-        candidate = urljoin(home, href.strip())
-        if candidate.rstrip("/") != page_url.rstrip("/"):
-            return candidate
+    # 配信専用ホスト（feed.example.com など）はトップページを持たないことが
+    # 多いので、そのホストで駄目なら親ドメインも試す。
+    hosts = [parts.netloc]
+    labels = parts.netloc.split(".")
+    if len(labels) > 2:
+        hosts.append(".".join(labels[1:]))
+
+    for host in hosts:
+        for scheme in ("https", "http"):
+            home = urlunsplit((scheme, host, "/", "", ""))
+            try:
+                response = requests.get(
+                    home,
+                    headers={"User-Agent": USER_AGENT, "Accept": "text/html,*/*"},
+                    timeout=TIMEOUT,
+                )
+                response.raise_for_status()
+            except requests.RequestException:
+                continue
+
+            # <head> だけ見れば足りる。本文まで正規表現を走らせない。
+            for href in FEED_LINK_RE.findall(response.text[:200_000]):
+                candidate = urljoin(home, href.strip())
+                if candidate.rstrip("/") != page_url.rstrip("/"):
+                    return candidate
     return None
 
 
