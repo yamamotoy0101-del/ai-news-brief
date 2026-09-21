@@ -85,14 +85,22 @@ def merge_items(existing: list[dict], incoming: list[dict],
 
     for item in incoming:
         if item["id"] in by_id:
-            # 既出：判定結果だけ最新に更新する（記事は増やさない）。
-            # 分類ルールを直した際に、古い記事の表示も追随させるため。
-            by_id[item["id"]].update({
+            # 既出：記事は増やさず、判定結果と原文だけ最新に更新する。
+            # 分類ルールや本文の整形処理を直したとき、既存の記事にも
+            # 反映させるため。
+            current = by_id[item["id"]]
+            current.update({
                 "score": item["score"],
                 "priority": item["priority"],
                 "category": item["category"],
                 "reasons": item["reasons"],
+                "title_original": item["title_original"],
+                "summary_original": item["summary_original"],
             })
+            # 日本語化済みの見出し・要約は上書きしない（生成物を捨てない）
+            if not current.get("translated"):
+                current["title"] = item["title"]
+                current["summary"] = item["summary"]
             continue
         tkey = title_key(item.get("title_original") or item.get("title", ""))
         if tkey and tkey in seen_titles:

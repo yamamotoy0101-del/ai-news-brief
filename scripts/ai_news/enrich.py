@@ -8,6 +8,7 @@ UI 側で「原文」バッジが付く（黙って欠落させない）。
 
 from __future__ import annotations
 
+import html
 import json
 import os
 import re
@@ -73,7 +74,11 @@ def _client():
 
 
 def _strip_html(text: str, limit: int = 700) -> str:
+    """RSSの説明文からタグを落とし、実体参照を文字に戻す。"""
     text = re.sub(r"<[^>]+>", " ", text or "")
+    # &#8230; や &amp; がそのまま画面に出ないよう、2段階まで復号する
+    # （媒体によっては &amp;#8230; のように二重エスケープされている）
+    text = html.unescape(html.unescape(text))
     text = re.sub(r"\s+", " ", text).strip()
     return text[:limit]
 

@@ -27,25 +27,41 @@ function parseDate(iso) {
   return Number.isNaN(d.getTime()) ? null : d;
 }
 
-function formatTime(iso) {
+// 日本のニュースを日本時間の区切りで読むアプリなので、閲覧端末の
+// タイムゾーンによらず JST で表示する。サマリノートの日付（JST基準で
+// 生成）とフィードの日付見出しが食い違わないようにする狙いもある。
+const JST = 'Asia/Tokyo';
+
+function jstParts(iso) {
   const d = parseDate(iso);
-  if (!d) return '';
-  return `${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`;
+  if (!d) return null;
+  const f = new Intl.DateTimeFormat('ja-JP', {
+    timeZone: JST, year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', weekday: 'short', hour12: false,
+  });
+  const parts = {};
+  for (const p of f.formatToParts(d)) parts[p.type] = p.value;
+  return parts;
+}
+
+function formatTime(iso) {
+  const p = jstParts(iso);
+  return p ? `${p.hour}:${p.minute}` : '';
 }
 
 function dayKey(iso) {
-  const d = parseDate(iso);
-  if (!d) return '不明';
-  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  const p = jstParts(iso);
+  return p ? `${p.year}-${p.month}-${p.day}` : '不明';
 }
 
 function formatDayHeading(key) {
-  const d = parseDate(`${key}T00:00:00`);
-  if (!d) return key;
-  const today = new Date();
-  const diff = Math.round((today.setHours(0, 0, 0, 0) - d.getTime()) / 86400000);
-  const wd = ['日', '月', '火', '水', '木', '金', '土'][d.getDay()];
-  const base = `${d.getMonth() + 1}月${d.getDate()}日（${wd}）`;
+  const p = jstParts(`${key}T12:00:00+09:00`);
+  if (!p) return key;
+  const todayKey = dayKey(new Date().toISOString());
+  const diff = Math.round(
+    (Date.parse(`${todayKey}T00:00:00+09:00`) - Date.parse(`${key}T00:00:00+09:00`)) / 86400000,
+  );
+  const base = `${Number(p.month)}月${Number(p.day)}日（${p.weekday}）`;
   if (diff === 0) return `今日 ・ ${base}`;
   if (diff === 1) return `昨日 ・ ${base}`;
   return base;
@@ -109,8 +125,9 @@ function renderStatus() {
   const el = $('#status');
   // 収集は最長でも9時間間隔。12時間を超えたら停止を疑う。
   el.className = hoursOld > 12 ? 'status is-stale' : 'status';
+  const p = jstParts(state.generatedAt);
   $('#status-text').textContent =
-    `最終更新 ${d.getMonth() + 1}/${d.getDate()} ${formatTime(state.generatedAt)}（${relativeTime(state.generatedAt)}）`;
+    `最終更新 ${Number(p.month)}/${Number(p.day)} ${p.hour}:${p.minute}（${relativeTime(state.generatedAt)}）`;
 }
 
 /* ───────── 絞り込み ───────── */
@@ -343,8 +360,8 @@ function renderSources() {
   const runs = $('#runs-body');
   runs.innerHTML = state.runs.length
     ? state.runs.slice(0, 12).map((r) => {
-        const d = parseDate(r.at);
-        const when = d ? `${d.getMonth() + 1}/${d.getDate()} ${formatTime(r.at)}` : '';
+        const p = jstParts(r.at);
+        const when = p ? `${Number(p.month)}/${Number(p.day)} ${p.hour}:${p.minute}` : '';
         return `<div class="run-row">
           <span class="slot">${escapeHtml(r.slot)}</span>
           <span class="rt">${escapeHtml(when)}</span>
