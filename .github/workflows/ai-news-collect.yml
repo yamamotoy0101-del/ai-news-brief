@@ -7,6 +7,13 @@ on:
     - cron: '30 3 * * *'   # 12:30 JST（昼）
     - cron: '0 12 * * *'   # 21:00 JST（夜）
   workflow_dispatch:
+  # 収集ロジックを変更したら、その場で再収集して結果を確認できるようにする。
+  # 収集結果の書き込み先は docs/data/ のみなので、自身を再起動するループにはならない。
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/ai-news-collect.yml'
 
 # 収集が重なってもデータを壊さないよう直列化する
 concurrency:

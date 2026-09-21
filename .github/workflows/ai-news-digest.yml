@@ -8,6 +8,12 @@ on:
       date:
         description: '対象日 (YYYY-MM-DD)。空なら今日'
         required: false
+  # 生成ロジックを変更したら再生成する（書き込み先は docs/data/ と reports_ai/ のみ）
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_ai_digest.py'
+      - '.github/workflows/ai-news-digest.yml'
 
 concurrency:
   group: ai-news-data
