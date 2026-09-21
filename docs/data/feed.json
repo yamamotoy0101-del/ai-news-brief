@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T00:12:24.972869+09:00",
+ "generated_at": "2026-09-22T00:14:23.559833+09:00",
  "runs": [
+  {
+   "at": "2026-09-22T00:14:23.559833+09:00",
+   "slot": "夜",
+   "fetched": 30,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-09-22T00:12:24.972869+09:00",
    "slot": "夜",
@@ -757,15 +764,15 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "取得失敗 (ConnectionError)",
-   "ok": false
+   "status": "1件 / 全30件",
+   "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "取得失敗 (ConnectionError)",
-   "ok": false
+   "status": "AI関連なし（全30件）",
+   "ok": true
   },
   {
    "id": "impress_cloud",
@@ -869,7 +876,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "5件 / 全10件",
+   "status": "6件 / 全10件",
    "ok": true
   },
   {
