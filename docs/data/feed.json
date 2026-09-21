@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T00:00:55.501148+09:00",
+ "generated_at": "2026-09-22T00:07:18.458715+09:00",
  "runs": [
+  {
+   "at": "2026-09-22T00:07:18.458715+09:00",
+   "slot": "夜",
+   "fetched": 29,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-09-22T00:00:55.501148+09:00",
    "slot": "夜",
@@ -857,211 +864,197 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "8件",
+   "status": "8件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "2件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "2件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "0件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "取得失敗 (HTTPError)",
+   "status": "取得失敗 (HTTP 404)",
    "ok": false
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "取得失敗 (HTTPError)",
+   "status": "取得失敗 (HTTP 404)",
    "ok": false
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "0件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "0件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "0件",
-   "ok": true
-  },
-  {
-   "id": "ascii_biz",
-   "name": "ASCII.jp",
-   "region": "domestic",
-   "status": "8件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "2件",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
    "id": "ledge_ai",
    "name": "Ledge.ai",
    "region": "domestic",
-   "status": "取得失敗 (HTTPError)",
+   "status": "取得失敗 (HTTP 404)",
    "ok": false
   },
   {
    "id": "meti",
    "name": "経済産業省 ニュースリリース",
    "region": "domestic",
-   "status": "0件",
+   "status": "AI関連なし（全25件）",
    "ok": true
   },
   {
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "0件",
+   "status": "AI関連なし（全33件）",
    "ok": true
   },
   {
    "id": "ppc_japan",
    "name": "個人情報保護委員会",
    "region": "domestic",
-   "status": "取得失敗 (HTTPError)",
+   "status": "取得失敗 (HTTP 404)",
    "ok": false
   },
   {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件",
+   "status": "1件 / 全1211件",
    "ok": true
   },
   {
    "id": "deepmind",
    "name": "Google DeepMind",
    "region": "global",
-   "status": "0件",
+   "status": "AI関連なし（全100件）",
    "ok": true
   },
   {
    "id": "anthropic",
    "name": "Anthropic News",
    "region": "global",
-   "status": "取得失敗 (HTTPError)",
+   "status": "取得失敗 (HTTP 404)",
    "ok": false
   },
   {
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "0件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "microsoft_ai",
    "name": "Microsoft AI Blog",
    "region": "global",
-   "status": "取得失敗 (HTTPError)",
+   "status": "取得失敗 (HTTP 410)",
    "ok": false
   },
   {
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "2件",
+   "status": "2件 / 全18件",
    "ok": true
   },
   {
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "2件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
    "id": "venturebeat_ai",
    "name": "VentureBeat (AI)",
    "region": "global",
-   "status": "取得失敗 (HTTPError)",
+   "status": "取得失敗 (HTTP 429)",
    "ok": false
   },
   {
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件",
+   "status": "6件 / 全10件",
    "ok": true
   },
   {
    "id": "stanford_hai",
    "name": "Stanford HAI",
    "region": "global",
-   "status": "記事0件（フィード形式を確認）",
+   "status": "フィードが空（URLの形式を確認）",
    "ok": false
   },
   {
    "id": "sloan_review",
    "name": "MIT Sloan Management Review",
    "region": "global",
-   "status": "0件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "1件",
+   "status": "1件 / 全50件",
    "ok": true
-  },
-  {
-   "id": "hbr",
-   "name": "Harvard Business Review",
-   "region": "global",
-   "status": "取得失敗 (SSLError)",
-   "ok": false
   }
  ]
 }
