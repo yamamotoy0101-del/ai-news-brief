@@ -328,15 +328,12 @@ function renderSources() {
     ];
     body.innerHTML = groups.map(([label, list]) => {
       if (!list.length) return '';
-      const rows = list.map((s) => {
-        const bad = s.status.startsWith('取得失敗') || s.status.startsWith('記事0件');
-        return `<div class="src-row${bad ? ' is-bad' : ''}">
+      const rows = list.map((s) => `<div class="src-row${s.ok ? '' : ' is-bad'}">
           <span class="dot"></span>
           <span class="nm">${escapeHtml(s.name)}</span>
           <span class="st">${escapeHtml(s.status)}</span>
-        </div>`;
-      }).join('');
-      const bad = list.filter((s) => s.status.startsWith('取得失敗') || s.status.startsWith('記事0件')).length;
+        </div>`).join('');
+      const bad = list.filter((s) => !s.ok).length;
       return `<div class="src-group">
         <h3>${escapeHtml(label)}　${list.length}件中 ${bad}件に問題</h3>${rows}
       </div>`;

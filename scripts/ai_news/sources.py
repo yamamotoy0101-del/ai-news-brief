@@ -91,13 +91,6 @@ DOMESTIC_SOURCES = [
         "tags": ["技術・モデル"],
     },
     {
-        "id": "ascii_biz",
-        "name": "ASCII.jp",
-        "url": "https://ascii.jp/rss.xml",
-        "lang": "ja", "region": "domestic", "tier": 3,
-        "tags": [],
-    },
-    {
         "id": "sbbit",
         "name": "ビジネス+IT",
         "url": "https://www.sbbit.jp/rss/HotTopics.rss",
@@ -227,13 +220,6 @@ GLOBAL_SOURCES = [
         "name": "McKinsey Insights",
         "url": "https://www.mckinsey.com/insights/rss",
         "lang": "en", "region": "global", "tier": 1,
-        "tags": ["コンサル・組織"],
-    },
-    {
-        "id": "hbr",
-        "name": "Harvard Business Review",
-        "url": "https://feeds.hbr.org/harvardbusiness",
-        "lang": "en", "region": "global", "tier": 3,
         "tags": ["コンサル・組織"],
     },
 ]

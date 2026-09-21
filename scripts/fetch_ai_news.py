@@ -24,9 +24,12 @@ import requests
 from ai_news import enrich, scoring, store
 from ai_news.sources import SOURCES
 
+# 一部の媒体（ZDNET/CNET Japan、VentureBeat 等）はボット系のUAを拒否するため、
+# 通常のブラウザと同じUAを送る。
 USER_AGENT = (
-    "Mozilla/5.0 (compatible; ai-news-collector/1.0; "
-    "+https://github.com/yamamotoy0101-del/desktop-tutorial)"
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/120.0.0.0 Safari/537.36"
 )
 TIMEOUT = 25
 REQUEST_INTERVAL = 1.0
@@ -57,21 +60,34 @@ def parse_published(entry, fallback: datetime) -> datetime:
     return fallback
 
 
-def fetch_source(source: dict, now: datetime) -> tuple[list[dict], str]:
-    """1ソースを取得して記事リストと状態文字列を返す。"""
+def fetch_source(source: dict, now: datetime) -> tuple[list[dict], str, bool]:
+    """
+    1ソースを取得して (記事リスト, 状態文字列, フィードが生きているか) を返す。
+
+    状態文字列は「ソース状況」タブにそのまま出るので、原因が切り分けられる
+    粒度にする（HTTPステータス、フィードの総件数など）。
+    """
     try:
         response = requests.get(
             source["url"],
-            headers={"User-Agent": USER_AGENT, "Accept-Language": "ja,en;q=0.8"},
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "application/rss+xml, application/xml, text/xml, */*",
+                "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+            },
             timeout=TIMEOUT,
         )
         response.raise_for_status()
+    except requests.HTTPError as exc:
+        code = exc.response.status_code if exc.response is not None else "不明"
+        return [], f"取得失敗 (HTTP {code})", False
     except requests.RequestException as exc:
-        return [], f"取得失敗 ({type(exc).__name__})"
+        return [], f"取得失敗 ({type(exc).__name__})", False
 
     parsed = feedparser.parse(response.content)
-    if not parsed.entries:
-        return [], "記事0件（フィード形式を確認）"
+    total = len(parsed.entries)
+    if total == 0:
+        return [], "フィードが空（URLの形式を確認）", False
 
     cutoff = now - timedelta(hours=MAX_AGE_HOURS)
     collected: list[dict] = []
@@ -121,7 +137,10 @@ def fetch_source(source: dict, now: datetime) -> tuple[list[dict], str]:
         item["reasons"] = reasons
         collected.append(item)
 
-    return collected, f"{len(collected)}件"
+    # フィード自体は取れているがAI記事が無い日もある。障害と区別できるようにする。
+    if not collected:
+        return [], f"AI関連なし（全{total}件）", True
+    return collected, f"{len(collected)}件 / 全{total}件", True
 
 
 def main() -> int:
@@ -138,11 +157,11 @@ def main() -> int:
     source_status: list[dict] = []
 
     for source in SOURCES:
-        items, status = fetch_source(source, now)
+        items, status, alive = fetch_source(source, now)
         source_status.append({
             "id": source["id"], "name": source["name"],
             "region": source["region"], "status": status,
-            "ok": bool(items) or status.startswith("0件"),
+            "ok": alive,
         })
         marker = "OK " if items else "-- "
         print(f"{marker}{source['name']:<28} {status}")
