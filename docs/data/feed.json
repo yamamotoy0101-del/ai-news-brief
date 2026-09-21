@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T00:10:18.481757+09:00",
+ "generated_at": "2026-09-22T00:12:24.972869+09:00",
  "runs": [
+  {
+   "at": "2026-09-22T00:12:24.972869+09:00",
+   "slot": "夜",
+   "fetched": 28,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-09-22T00:10:18.481757+09:00",
    "slot": "夜",
@@ -750,15 +757,15 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "1件 / 全30件 ※要URL更新→http://feed.japan.zdnet.com/rss/index.rdf",
-   "ok": true
+   "status": "取得失敗 (ConnectionError)",
+   "ok": false
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "AI関連なし（全30件） ※要URL更新→http://feed.japan.cnet.com/rss/index.rdf",
-   "ok": true
+   "status": "取得失敗 (ConnectionError)",
+   "ok": false
   },
   {
    "id": "impress_cloud",
@@ -789,13 +796,6 @@
    "ok": true
   },
   {
-   "id": "ledge_ai",
-   "name": "Ledge.ai",
-   "region": "domestic",
-   "status": "取得失敗 (HTTP 404)",
-   "ok": false
-  },
-  {
    "id": "meti",
    "name": "経済産業省 ニュースリリース",
    "region": "domestic",
@@ -810,13 +810,6 @@
    "ok": true
   },
   {
-   "id": "ppc_japan",
-   "name": "個人情報保護委員会",
-   "region": "domestic",
-   "status": "取得失敗 (HTTP 404)",
-   "ok": false
-  },
-  {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
@@ -829,13 +822,6 @@
    "region": "global",
    "status": "AI関連なし（全100件）",
    "ok": true
-  },
-  {
-   "id": "anthropic",
-   "name": "Anthropic News",
-   "region": "global",
-   "status": "取得失敗 (HTTP 404)",
-   "ok": false
   },
   {
    "id": "aws_ml",
@@ -883,15 +869,8 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
-  },
-  {
-   "id": "stanford_hai",
-   "name": "Stanford HAI",
-   "region": "global",
-   "status": "フィードが空（URLの形式を確認）",
-   "ok": false
   },
   {
    "id": "sloan_review",
