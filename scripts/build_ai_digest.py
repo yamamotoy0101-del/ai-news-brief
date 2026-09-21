@@ -26,6 +26,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from ai_news import store
 
 MODEL = os.environ.get("AI_NEWS_DIGEST_MODEL", "claude-opus-5")
+# 1日の候補上限。フィードが薄い日は select_candidates が48時間まで広げる。
 MAX_CANDIDATES = 28
 MAX_HIGHLIGHTS = 6
 
