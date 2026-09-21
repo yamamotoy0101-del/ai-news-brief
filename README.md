@@ -29,8 +29,13 @@ PwCコンサルティング合同会社のマネージャーが見るべきAIニ
 
 ### 1-2. 画面を公開する（GitHub Pages）
 
-**Settings の操作は不要**。`main` に push されると
-`.github/workflows/pages.yml` が自動で Pages を有効化して公開する。
+**Settings → Pages** を開き、`Build and deployment` を次のように設定して Save。
+
+- Source: `Deploy from a branch`
+- Branch: `main` / フォルダ `/docs`
+
+これで `main` に push されるたびに自動で再公開される。
+収集ワークフローが `docs/data/` を更新するので、記事の更新も自動で反映される。
 
 公開URL:
 
@@ -39,9 +44,6 @@ https://yamamotoy0101-del.github.io/ai-news-brief/
 ```
 
 スマホのホーム画面に追加しておくと、通常のアプリのように使える。
-
-> 初回だけ **Actions → 「サイト公開（GitHub Pages）」→ Run workflow** を手動で
-> 実行する必要がある場合がある（Pages の初期化のため）。
 
 ### 1-3. 最初のデータを入れる
 
@@ -163,6 +165,7 @@ python -m http.server 8000 --directory docs    # http://localhost:8000 で画面
 | 海外記事が英語のまま | `ANTHROPIC_API_KEY` が未設定か、APIがエラーを返している。Actions のログを見る |
 | サマリが「自動要約なし」 | 同上。`generated_by: score-only` と表示される |
 | 画面が「フィード未生成」のまま | 収集ワークフローをまだ実行していない。手動実行する |
+| URLが404になる | Settings → Pages の設定がまだ。上記 1-2 を行う |
 
 ---
 
@@ -188,5 +191,4 @@ reports_ai/               サマリノートのMarkdown版
 .github/workflows/
   ai-news-collect.yml    収集（朝・昼・夜）
   ai-news-digest.yml     サマリノート（1日1回）
-  pages.yml              サイト公開
 ```
