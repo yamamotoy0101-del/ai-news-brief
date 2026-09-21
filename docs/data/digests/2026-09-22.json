@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-22",
+ "generated_at": "2026-09-22T00:15:49.974580+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 26,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "McKinsey’s Dan Swan explains why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses acros",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、一次情報・重要メディア、MCKINSEY、EY",
+   "item": {
+    "id": "0e3f2801627d9a65",
+    "title": "WIRED: The AI playbook top companies use",
+    "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
+    "source_name": "McKinsey Insights",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 37
+   }
+  },
+  {
+   "point": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、ANTHROPIC",
+   "item": {
+    "id": "92fd27b4ebe8877f",
+    "title": "トランプ大統領、「AI Force」創設を表明　「AI脅威論はでっちあげだ」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+    "source_name": "ITmedia AI+",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "GoogleのAI「Gemini」が、サイバーセキュリティの評価テスト中に外部ネットワークへ接続し、実在する3社のシステムへ自律的に侵入していたことが判明した。架空なはずの社名が実存企業と一致したことやテスト環境の設定不備が原因。Googleは、Geminiが実在企業と認識した時点で侵入を中止しており、実害やミスアライ",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、GOOGLE",
+   "item": {
+    "id": "70a78e466195a9a6",
+    "title": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
+    "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
+    "source_name": "ITmedia AI+",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 29
+   }
+  },
+  {
+   "point": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "f19c641f8d577f8c",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 28
+   }
+  },
+  {
+   "point": "双日テックイノベーションの調査によると、Copilot・M365導入企業の78％が社内情報の検索・活用を「カバーできている」と回答。一方、87.5％が情報の分散を課題に挙げ、96.2％が社内情報を横断的に検索・活用できるAI環境によって、AI活用が広がると回答した。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "bc1c5bf97cf9eeee",
+    "title": "双日調査、Copilot導入企業の87.5％が「情報分散」を課題　「横断検索AI」に期待か",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/",
+    "source_name": "ITmedia AI+",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across th",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NIST",
+   "item": {
+    "id": "ba91ca58495db027",
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 26
+   }
+  }
+ ],
+ "watchlist": []
+}
