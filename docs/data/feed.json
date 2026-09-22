@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-22T09:41:09.708226+09:00",
+ "generated_at": "2026-09-22T17:46:16.884692+09:00",
  "runs": [
+  {
+   "at": "2026-09-22T17:46:16.884692+09:00",
+   "slot": "夜",
+   "fetched": 65,
+   "added": 5,
+   "enriched": 0
+  },
   {
    "at": "2026-09-22T09:41:09.708226+09:00",
    "slot": "朝",
@@ -59,6 +66,130 @@
   }
  ],
  "items": [
+  {
+   "id": "e119cb57ee43463a",
+   "title": "7割が“知っているだけ”の総務省AIセキュリティガイドライン　“放置リスク”を避ける第一歩とは？",
+   "title_original": "7割が“知っているだけ”の総務省AIセキュリティガイドライン　“放置リスク”を避ける第一歩とは？",
+   "summary": "AIが普及する一方、そのセキュリティリスクも顕在化しています。総務省は対策のガイドラインを公開したものの、その活用は十分に広がっていないようです。AIセキュリティ対策をどこから始めればよいのでしょうか。",
+   "summary_original": "AIが普及する一方、そのセキュリティリスクも顕在化しています。総務省は対策のガイドラインを公開したものの、その活用は十分に広がっていないようです。AIセキュリティ対策をどこから始めればよいのでしょうか。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news011.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-09-22T13:00:00+09:00",
+   "collected_at": "2026-09-22T17:46:16.884692+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "総務省"
+   ]
+  },
+  {
+   "id": "8cb603cffdc390f1",
+   "title": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
+   "title_original": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
+   "summary": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+   "summary_original": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+   "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-22T11:49:24+09:00",
+   "collected_at": "2026-09-22T17:46:16.884692+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 28,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "07629093ef77ea7d",
+   "title": "「そのソフトウェア、もう買う必要ない？」――AIで内製開発、企業の32％が“購入しない”",
+   "title_original": "「そのソフトウェア、もう買う必要ない？」――AIで内製開発、企業の32％が“購入しない”",
+   "summary": "AIコーディングの普及によって変わるのは、ソフトウェア開発の効率だけではないかもしれない。これまで外部から購入していたソフトウェアを「自社で作る」という選択肢が現実味を帯びる中、企業のソフトウェア調達に変化が表れ始めている。",
+   "summary_original": "AIコーディングの普及によって変わるのは、ソフトウェア開発の効率だけではないかもしれない。これまで外部から購入していたソフトウェアを「自社で作る」という選択肢が現実味を帯びる中、企業のソフトウェア調達に変化が表れ始めている。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news010.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-09-22T11:00:00+09:00",
+   "collected_at": "2026-09-22T17:46:16.884692+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "36f8b9b04b1604c9",
+   "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
+   "title_original": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
+   "summary": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
+   "summary_original": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
+   "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-22T10:51:09+09:00",
+   "collected_at": "2026-09-22T17:46:16.884692+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "2575633b61bd5c1e",
+   "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック　Shopifyは全店舗で対応へ",
+   "title_original": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック　Shopifyは全店舗で対応へ",
+   "summary": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている。",
+   "summary_original": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。自社サイトでのAIエージェント排除を強めるAmazonとの対立が鮮明になっている。",
+   "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-09-22T09:43:43+09:00",
+   "collected_at": "2026-09-22T17:46:16.884692+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "META",
+    "AMAZON"
+   ]
+  },
   {
    "id": "67903f8ac2cf0cb5",
    "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
@@ -1447,13 +1578,13 @@
    ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "11件 / 全20件",
+   "status": "14件 / 全20件",
    "ok": true
   },
   {
@@ -1467,14 +1598,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "5件 / 全50件",
+   "status": "8件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
@@ -1586,7 +1717,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "7件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
@@ -1600,7 +1731,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件 / 全10件",
+   "status": "4件 / 全10件",
    "ok": true
   },
   {
