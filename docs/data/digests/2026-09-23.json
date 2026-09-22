@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-23",
+ "generated_at": "2026-09-23T02:43:31.419518+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 8,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ANTHROPIC、NVIDIA",
+   "item": {
+    "id": "1bb4b69fa852a344",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnos",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、AMAZON",
+   "item": {
+    "id": "304a7365cf952346",
+    "title": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, ",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、META、AMAZON",
+   "item": {
+    "id": "d9550b4744c83cf5",
+    "title": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "2bcfe814794480c4",
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing mer",
+   "so_what": "（自動要約なし）スコアの根拠: AMAZON",
+   "item": {
+    "id": "9d360ee5220503ea",
+    "title": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 11
+   }
+  },
+  {
+   "point": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post wa",
+   "so_what": "（自動要約なし）スコアの根拠: AMAZON",
+   "item": {
+    "id": "cbf8088ba9859c0f",
+    "title": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 11
+   }
+  }
+ ],
+ "watchlist": []
+}
