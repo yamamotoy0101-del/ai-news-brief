@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T17:47:41.663650+09:00",
+ "generated_at": "2026-09-24T01:12:08.364363+09:00",
  "runs": [
+  {
+   "at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "fetched": 67,
+   "added": 17,
+   "enriched": 0
+  },
   {
    "at": "2026-09-23T17:47:41.663650+09:00",
    "slot": "夜",
@@ -87,6 +94,322 @@
   }
  ],
  "items": [
+  {
+   "id": "cd8117c6d35f983b",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "title_original": "Advancing Private AI Compute with secure, server-side memory",
+   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "summary_original": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source_id": "deepmind",
+   "source_name": "Google DeepMind",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-24T01:00:57+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "9d02eeb8cef10808",
+   "title": "Two years of OpenAI Academy",
+   "title_original": "Two years of OpenAI Academy",
+   "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+   "summary_original": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-24T01:00:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "914ed32ad555468d",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "title_original": "Gemini 3.8 text-to-speech says hello",
+   "summary": "",
+   "summary_original": "",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source_id": "deepmind",
+   "source_name": "Google DeepMind",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-24T00:25:14+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "2219be660a796324",
+   "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
+   "title_original": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
+   "summary": "Anthropicは、Claude Codeの9月18日付けでアップデートが公開されたClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added...",
+   "summary_original": "Anthropicは、Claude Codeの9月18日付けでアップデートが公開されたClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added...",
+   "url": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-24T00:23:11+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "02b2e87836a22c8f",
+   "title": "YouTube Music gets more conversational with new AI features",
+   "title_original": "YouTube Music gets more conversational with new AI features",
+   "summary": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized […]",
+   "summary_original": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized […]",
+   "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-24T00:19:30+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY"
+   ]
+  },
+  {
+   "id": "526089110df3fe81",
+   "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+   "title_original": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+   "summary": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it […]",
+   "summary_original": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it […]",
+   "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+   "source_id": "nvidia",
+   "source_name": "NVIDIA Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-24T00:00:32+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 12,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "f28c995c4f3c2255",
+   "title": "YouTube will let you build your own algorithm with AI",
+   "title_original": "YouTube will let you build your own algorithm with AI",
+   "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+   "summary_original": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+   "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-23T23:30:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY"
+   ]
+  },
+  {
+   "id": "5ef7b4daed8713ca",
+   "title": "YouTube is building AI creator tools that do almost everything for them",
+   "title_original": "YouTube is building AI creator tools that do almost everything for them",
+   "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube […]",
+   "summary_original": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube […]",
+   "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-23T23:30:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY"
+   ]
+  },
+  {
+   "id": "a35c7e7921ad4576",
+   "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+   "title_original": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+   "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+   "summary_original": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+   "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-23T23:30:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "ad9b5464300c8be3",
+   "title": "YouTube releases new AI features for creators within its Studio app",
+   "title_original": "YouTube releases new AI features for creators within its Studio app",
+   "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+   "summary_original": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+   "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-23T23:30:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 9,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "1d77064cbebb782f",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+   "summary_original": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-23T22:00:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "3c250389bd471a9f",
+   "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+   "title_original": "Ema raises $77M as AI starts eating into enterprise software and services",
+   "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+   "summary_original": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+   "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-23T21:00:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "MICROSOFT",
+    "GOOGLE"
+   ]
+  },
+  {
+   "id": "6fd27f05163752d0",
+   "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+   "title_original": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+   "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with […]",
+   "summary_original": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-23T20:02:39+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 27,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY",
+    "OPENAI"
+   ]
+  },
   {
    "id": "129127c13a984e66",
    "title": "「ヒューマン・イン・ザ・ループ万能説」崩壊　AIエージェント時代に企業が迫られる“防御の再設計”",
@@ -305,6 +628,31 @@
    "reasons": []
   },
   {
+   "id": "0ab4ac60a8fbe21a",
+   "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+   "title_original": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+   "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider […]",
+   "summary_original": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-23T09:17:17+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "OPENAI"
+   ]
+  },
+  {
    "id": "1cbd12b50bfd579c",
    "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
    "title_original": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
@@ -326,6 +674,81 @@
    "priority": "reference",
    "reasons": [
     "OPENAI"
+   ]
+  },
+  {
+   "id": "09a0c6dbf1c6c00d",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+   "summary_original": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-23T09:00:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "c740e18b78324c5a",
+   "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+   "title_original": "Maintenance meets AI: A proven approach for asset-heavy industries",
+   "summary": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
+   "summary_original": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
+   "url": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
+   "source_id": "mckinsey",
+   "source_name": "McKinsey Insights",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-23T09:00:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "20afc29369169851",
+   "title": "Rewiring procurement in resources: Making judgment an enduring asset",
+   "title_original": "Rewiring procurement in resources: Making judgment an enduring asset",
+   "summary": "For procurement leaders in the resources sector, using AI to codify the function’s category expertise does not just capture more value—it turns hard-won judgment into a compounded, durable advantage.",
+   "summary_original": "For procurement leaders in the resources sector, using AI to codify the function’s category expertise does not just capture more value—it turns hard-won judgment into a compounded, durable advantage.",
+   "url": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-procurement-in-resources-making-judgment-an-enduring-asset",
+   "source_id": "mckinsey",
+   "source_name": "McKinsey Insights",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-23T09:00:00+09:00",
+   "collected_at": "2026-09-24T01:12:08.364363+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "一次情報・重要メディア"
    ]
   },
   {
@@ -2786,28 +3209,28 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "13件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "9件 / 全50件",
+   "status": "3件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "7件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
@@ -2821,7 +3244,7 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -2849,14 +3272,14 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "AI関連なし（全15件）",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "2件 / 全15件",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -2877,14 +3300,14 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "3件 / 全1219件",
+   "status": "5件 / 全1222件",
    "ok": true
   },
   {
    "id": "deepmind",
    "name": "Google DeepMind",
    "region": "global",
-   "status": "AI関連なし（全100件）",
+   "status": "2件 / 全100件",
    "ok": true
   },
   {
@@ -2905,7 +3328,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "2件 / 全18件",
+   "status": "3件 / 全18件",
    "ok": true
   },
   {
@@ -2919,7 +3342,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "13件 / 全20件",
+   "status": "16件 / 全20件",
    "ok": true
   },
   {
@@ -2933,7 +3356,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "5件 / 全10件",
+   "status": "8件 / 全10件",
    "ok": true
   },
   {
@@ -2947,7 +3370,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "AI関連なし（全50件）",
+   "status": "2件 / 全50件",
    "ok": true
   }
  ]
