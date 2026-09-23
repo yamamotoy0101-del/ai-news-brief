@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-24",
+ "generated_at": "2026-09-24T02:55:35.128962+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. Th",
+   "so_what": "（自動要約なし）スコアの根拠: EY、OPENAI、ANTHROPIC",
+   "item": {
+    "id": "97f4d9447dab8bf4",
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "source_name": "The Verge (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 40
+   }
+  },
+  {
+   "point": "AIエージェントが企業インフラを操作し、攻撃側もAIで侵入作業を分単位に圧縮する時代。従来の静的な権限管理や「人間が最後に承認すれば安全」という前提は崩れ去ろうとしています。NISTの最新提言と現場の脅威事例から、AI時代に求められる新たなセキュリティと防御の再設計を掘り下げます。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NIST",
+   "item": {
+    "id": "129127c13a984e66",
+    "title": "「ヒューマン・イン・ザ・ループ万能説」崩壊　AIエージェント時代に企業が迫られる“防御の再設計”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news006.html",
+    "source_name": "＠IT",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 31
+   }
+  },
+  {
+   "point": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ANTHROPIC、NVIDIA",
+   "item": {
+    "id": "1bb4b69fa852a344",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no governme",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NIST",
+   "item": {
+    "id": "cb46fb2f83bfec81",
+    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "米Googleのリック・オスターロー氏は9月22日（現地時間）、米ハワイ州マウイ島で開催中の「Snapdragon Summit 2026」に登壇し、AI「Gemini」をスマートフォンやPC、自動車などに広げていく構想を説明した。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ROI、GOOGLE",
+   "item": {
+    "id": "aeba5ac5b51fddb9",
+    "title": "GoogleのAndroid責任者「OSからインテリジェンスシステムへ」--Gemini時代の端末像を語る",
+    "url": "https://japan.cnet.com/article/35252868/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 28
+   }
+  },
+  {
+   "point": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounde",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI",
+   "item": {
+    "id": "6fd27f05163752d0",
+    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 27
+   }
+  }
+ ],
+ "watchlist": []
+}
