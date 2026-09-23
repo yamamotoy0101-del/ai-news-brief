@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-23T09:14:19.377264+09:00",
+ "generated_at": "2026-09-23T17:47:41.663650+09:00",
  "runs": [
+  {
+   "at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "fetched": 73,
+   "added": 10,
+   "enriched": 0
+  },
   {
    "at": "2026-09-23T09:14:19.377264+09:00",
    "slot": "朝",
@@ -80,6 +87,247 @@
   }
  ],
  "items": [
+  {
+   "id": "129127c13a984e66",
+   "title": "「ヒューマン・イン・ザ・ループ万能説」崩壊　AIエージェント時代に企業が迫られる“防御の再設計”",
+   "title_original": "「ヒューマン・イン・ザ・ループ万能説」崩壊　AIエージェント時代に企業が迫られる“防御の再設計”",
+   "summary": "AIエージェントが企業インフラを操作し、攻撃側もAIで侵入作業を分単位に圧縮する時代。従来の静的な権限管理や「人間が最後に承認すれば安全」という前提は崩れ去ろうとしています。NISTの最新提言と現場の脅威事例から、AI時代に求められる新たなセキュリティと防御の再設計を掘り下げます。",
+   "summary_original": "AIエージェントが企業インフラを操作し、攻撃側もAIで侵入作業を分単位に圧縮する時代。従来の静的な権限管理や「人間が最後に承認すれば安全」という前提は崩れ去ろうとしています。NISTの最新提言と現場の脅威事例から、AI時代に求められる新たなセキュリティと防御の再設計を掘り下げます。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news006.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-09-23T17:00:00+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "NIST"
+   ]
+  },
+  {
+   "id": "cb46fb2f83bfec81",
+   "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+   "title_original": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+   "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+   "summary_original": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+   "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "政策・規制",
+   "published_at": "2026-09-23T13:59:08+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 29,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "NIST"
+   ]
+  },
+  {
+   "id": "fde2c338d50ed715",
+   "title": "【無料】AIコーディングを「より速く省トークンに」　Claude Code・VS Code・GitHub Copilot・Cursorが明かす「トークン浪費」防止術まとめeBook40ページ",
+   "title_original": "【無料】AIコーディングを「より速く省トークンに」　Claude Code・VS Code・GitHub Copilot・Cursorが明かす「トークン浪費」防止術まとめeBook40ページ",
+   "summary": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。AIコーディングが広まった開発現場にも、品質が高いコードの生成に加え、無駄なトークンの削減が求められるようになりました。本eBookではClaude Code・VS Code・GitHub Copilot・Cursorが公式ブログで提供した「トークン浪費」防止術をまとめたので、ご活用ください。",
+   "summary_original": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。AIコーディングが広まった開発現場にも、品質が高いコードの生成に加え、無駄なトークンの削減が求められるようになりました。本eBookではClaude Code・VS Code・GitHub Copilot・Cursorが公式ブログで提供した「トークン浪費」防止術をまとめたので、ご活用ください。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news017.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-09-23T13:00:00+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "aeba5ac5b51fddb9",
+   "title": "GoogleのAndroid責任者「OSからインテリジェンスシステムへ」--Gemini時代の端末像を語る",
+   "title_original": "GoogleのAndroid責任者「OSからインテリジェンスシステムへ」--Gemini時代の端末像を語る",
+   "summary": "米Googleのリック・オスターロー氏は9月22日（現地時間）、米ハワイ州マウイ島で開催中の「Snapdragon Summit 2026」に登壇し、AI「Gemini」をスマートフォンやPC、自動車などに広げていく構想を説明した。",
+   "summary_original": "米Googleのリック・オスターロー氏は9月22日（現地時間）、米ハワイ州マウイ島で開催中の「Snapdragon Summit 2026」に登壇し、AI「Gemini」をスマートフォンやPC、自動車などに広げていく構想を説明した。",
+   "url": "https://japan.cnet.com/article/35252868/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-09-23T11:38:00+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 28,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "ROI",
+    "GOOGLE"
+   ]
+  },
+  {
+   "id": "4d5959d698eba06a",
+   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+   "title_original": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+   "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+   "summary_original": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+   "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+   "source_id": "nvidia",
+   "source_name": "NVIDIA Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-23T11:30:22+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 12,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "c3a4d9981ad43b7e",
+   "title": "開発者の84％が「AIコーディングによる生産性向上」を実感――だがその効果をどう測定？",
+   "title_original": "開発者の84％が「AIコーディングによる生産性向上」を実感――だがその効果をどう測定？",
+   "summary": "Gitクライアントツール「GitKraken」を手掛けるAxosoftは、ソフトウェア開発におけるAIの利用状況調査結果をまとめたレポートを公開した。AIによる生産性向上を実感する開発者が増える一方、その効果はどこまで測定できているのか。",
+   "summary_original": "Gitクライアントツール「GitKraken」を手掛けるAxosoftは、ソフトウェア開発におけるAIの利用状況調査結果をまとめたレポートを公開した。AIによる生産性向上を実感する開発者が増える一方、その効果はどこまで測定できているのか。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news011.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-09-23T11:00:00+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "生産性"
+   ]
+  },
+  {
+   "id": "1e348226c4ece839",
+   "title": "“作成者しか分からないExcelマクロ”の仕様解読、AIで「3日→30分」に　IT企業はどう実現？",
+   "title_original": "“作成者しか分からないExcelマクロ”の仕様解読、AIで「3日→30分」に　IT企業はどう実現？",
+   "summary": "Excelマクロの改修を重ねた結果、中身を把握しているのが作成者だけになってしまうと、保守の足かせになりかねない。こうした状況をどうすれば解消できるのか。AIを使った効率化に挑んだIT企業の取り組みとは。",
+   "summary_original": "Excelマクロの改修を重ねた結果、中身を把握しているのが作成者だけになってしまうと、保守の足かせになりかねない。こうした状況をどうすれば解消できるのか。AIを使った効率化に挑んだIT企業の取り組みとは。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news014.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-23T11:00:00+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "1ad6a502f2bbca52",
+   "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+   "title_original": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+   "summary": "トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。",
+   "summary_original": "トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。",
+   "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-23T10:36:07+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ"
+   ]
+  },
+  {
+   "id": "e6946e813ad2f2d7",
+   "title": "スマホCPU、史上初の5GHz台に　熱はどう逃がす？ クアルコムが説明",
+   "title_original": "スマホCPU、史上初の5GHz台に　熱はどう逃がす？ クアルコムが説明",
+   "summary": "スマートフォン向けCPUが「5GHz」の大台に乗った。クアルコムは9月22日（現地時間）、米ハワイ州マウイ島で開催中のイベントで、最上位SoC「Snapdragon 8 Elite Extreme Gen 6」を発表した。2nmプロセスで製造し、独自設計の「Oryon CPU」は最大5GHzで動作する。クアルコムによると、モバイルCPUとして5GHzに到達するのは初めてだ。",
+   "summary_original": "スマートフォン向けCPUが「5GHz」の大台に乗った。クアルコムは9月22日（現地時間）、米ハワイ州マウイ島で開催中のイベントで、最上位SoC「Snapdragon 8 Elite Extreme Gen 6」を発表した。2nmプロセスで製造し、独自設計の「Oryon CPU」は最大5GHzで動作する。クアルコムによると、モバイルCPUとして5GHzに到達するのは初めてだ。",
+   "url": "https://japan.cnet.com/article/35252858/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "その他",
+   "published_at": "2026-09-23T09:35:00+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "1cbd12b50bfd579c",
+   "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
+   "title_original": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
+   "summary": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+   "summary_original": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。",
+   "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-23T09:12:02+09:00",
+   "collected_at": "2026-09-23T17:47:41.663650+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
   {
    "id": "2150203b6e1b019a",
    "title": "Anthropic、「Claude Opus 5.5」をリリース--「Fable 5.1」並みの性能を40％安く",
@@ -2532,13 +2780,13 @@
    ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "11件 / 全20件",
+   "status": "13件 / 全20件",
    "ok": true
   },
   {
@@ -2552,14 +2800,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "7件 / 全50件",
+   "status": "9件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "7件 / 全30件",
    "ok": true
   },
   {
@@ -2580,7 +2828,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
@@ -2643,7 +2891,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "11件 / 全20件",
+   "status": "7件 / 全20件",
    "ok": true
   },
   {
@@ -2657,7 +2905,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "5件 / 全18件",
+   "status": "2件 / 全18件",
    "ok": true
   },
   {
@@ -2671,7 +2919,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "16件 / 全20件",
+   "status": "13件 / 全20件",
    "ok": true
   },
   {
@@ -2685,7 +2933,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "7件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
