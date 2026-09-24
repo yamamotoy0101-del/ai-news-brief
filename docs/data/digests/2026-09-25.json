@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-25",
+ "generated_at": "2026-09-25T02:55:26.980147+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 8,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE",
+   "item": {
+    "id": "2bee7780f07a323e",
+    "title": "Google tests letting Gemini call businesses for you",
+    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "6042ff5d470a4ff1",
+    "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
+    "url": "https://www.publickey1.jp/blog/26/goiderune.html",
+    "source_name": "Publickey",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 16
+   }
+  },
+  {
+   "point": "Introducing Gemini 3.8 Live with Live Avatar",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア",
+   "item": {
+    "id": "91625e27c986178e",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "source_name": "Google DeepMind",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 14
+   }
+  },
+  {
+   "point": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that ",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "128bc514045b4a68",
+    "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
+    "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 13
+   }
+  },
+  {
+   "point": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 a",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "6ffd8810cadd7d05",
+    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 13
+   }
+  },
+  {
+   "point": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a p",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE",
+   "item": {
+    "id": "69d34719f9a17ab3",
+    "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+    "source_name": "The Verge (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 12
+   }
+  }
+ ],
+ "watchlist": []
+}
