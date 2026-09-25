@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-25T18:02:41.599146+09:00",
+ "generated_at": "2026-09-26T01:39:19.460084+09:00",
  "runs": [
+  {
+   "at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "fetched": 103,
+   "added": 16,
+   "enriched": 0
+  },
   {
    "at": "2026-09-25T18:02:41.599146+09:00",
    "slot": "夜",
@@ -129,6 +136,372 @@
   }
  ],
  "items": [
+  {
+   "id": "d2d497e5eee41848",
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+   "summary_original": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+   "url": "https://openai.com/index/proaction",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-26T04:00:00+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "44df1f0ad2a57635",
+   "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+   "title_original": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+   "summary": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image, launching a Ray cluster from SageMaker Studio, submitting and monitoring the job, and hosting the trained LoRA adapter for inference.",
+   "summary_original": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image, launching a Ray cluster from SageMaker Studio, submitting and monitoring the job, and hosting the trained LoRA adapter for inference.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-26T01:18:07+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "82c8b1320599cb5f",
+   "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+   "title_original": "Meta is putting its muscle behind Muse as the AI app takes off",
+   "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+   "summary_original": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+   "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-26T01:16:52+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 27,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY",
+    "META"
+   ]
+  },
+  {
+   "id": "5c491d0848335434",
+   "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+   "title_original": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+   "summary": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verification—that reach about 99% numerical accuracy while streaming responses in real time.",
+   "summary_original": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verification—that reach about 99% numerical accuracy while streaming responses in real time.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-26T01:15:22+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "fbfeb983c98c5a3f",
+   "title": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+   "title_original": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+   "summary": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages.",
+   "summary_original": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-26T01:09:46+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "1f14fef7c28fa55b",
+   "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+   "title_original": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+   "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+   "summary_original": "The latest unauthorized agent swarms were discovered by researchers.",
+   "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-26T00:48:14+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 15,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "6adb903e8228e557",
+   "title": "Anthropic’s founders seek voting control ahead of IPO",
+   "title_original": "Anthropic’s founders seek voting control ahead of IPO",
+   "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+   "summary_original": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+   "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-26T00:40:03+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "637d4699a545ce92",
+   "title": "One company is at the center of a wave of rogue AI attacks",
+   "title_original": "One company is at the center of a wave of rogue AI attacks",
+   "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few […]",
+   "summary_original": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-09-26T00:39:48+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 36,
+   "priority": "must-read",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "OPENAI",
+    "ANTHROPIC",
+    "GOOGLE"
+   ]
+  },
+  {
+   "id": "4fb7b8b01cde5062",
+   "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+   "title_original": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+   "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
+   "summary_original": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
+   "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-26T00:00:00+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "f5e0462c8aedb2aa",
+   "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+   "title_original": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+   "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just […]",
+   "summary_original": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just […]",
+   "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-09-25T22:00:00+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "GOOGLE",
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "c75a43ae6d3df938",
+   "title": "Introducing the new Copilot with Home, Code and Autopilot",
+   "title_original": "Introducing the new Copilot with Home, Code and Autopilot",
+   "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
+   "summary_original": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
+   "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+   "source_id": "microsoft_ai",
+   "source_name": "Microsoft AI Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-25T21:03:50+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 34,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY",
+    "NEC",
+    "MICROSOFT"
+   ]
+  },
+  {
+   "id": "ed4236c472f1f628",
+   "title": "新Copilotは「進んで働く有能な個人秘書」にどこまで近づいたのか",
+   "title_original": "新Copilotは「進んで働く有能な個人秘書」にどこまで近づいたのか",
+   "summary": "Microsoftが「Microsoft Copilot」の大幅刷新を発表した。エージェントによって、従業員を助ける個人秘書へとさらに近づいたイメージがある。",
+   "summary_original": "Microsoftが「Microsoft Copilot」の大幅刷新を発表した。エージェントによって、従業員を助ける個人秘書へとさらに近づいたイメージがある。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news117.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-25T21:00:00+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "MICROSOFT"
+   ]
+  },
+  {
+   "id": "c9b6dd7b22a4e54a",
+   "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+   "title_original": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+   "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]",
+   "summary_original": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]",
+   "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-25T21:00:00+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": [
+    "MICROSOFT"
+   ]
+  },
+  {
+   "id": "391cdb68232bd6e0",
+   "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+   "title_original": "The Pentagon wants $30 million to build an AI-powered lie detector",
+   "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
+   "summary_original": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
+   "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+   "source_id": "mit_tr_ai",
+   "source_name": "MIT Technology Review (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-25T18:16:25+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "a1ff5652130b2f20",
+   "title": "アップルのSiri AI搭載スマートディスプレイ、10月にも登場か",
+   "title_original": "アップルのSiri AI搭載スマートディスプレイ、10月にも登場か",
+   "summary": "アップルが早ければ10月にも家庭用スマートディスプレイを発表する可能性があると、Bloombergのマーク・ガーマン氏が伝えている。",
+   "summary_original": "アップルが早ければ10月にも家庭用スマートディスプレイを発表する可能性があると、Bloombergのマーク・ガーマン氏が伝えている。",
+   "url": "https://japan.cnet.com/article/35252981/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "その他",
+   "published_at": "2026-09-25T18:10:00+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "894862a1ef252513",
    "title": "音楽から教育へ、Napsterが24時間働く「教師のデジタルツイン」を年内提供",
@@ -1220,6 +1593,32 @@
    "reasons": [
     "政策・規制カテゴリ",
     "OPENAI"
+   ]
+  },
+  {
+   "id": "8b903d757f1474c8",
+   "title": "Claudeが新しい酵素発見、「ほとんどの病気を治せる」に向け第一歩か",
+   "title_original": "Claudeが新しい酵素発見、「ほとんどの病気を治せる」に向け第一歩か",
+   "summary": "米Anthropic（アンソロピック）が2026年9月23日（米国時間）、同社のAI（人工知能）エージェントである「Claudeエージェント」が、「CRISPR」のようなゲノム編集の機能を持つ可能性がある新しい酵素システムを発見したと発表した。",
+   "summary_original": "米Anthropic（アンソロピック）が2026年9月23日（米国時間）、同社のAI（人工知能）エージェントである「Claudeエージェント」が、「CRISPR」のようなゲノム編集の機能を持つ可能性がある新しい酵素システムを発見したと発表した。",
+   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/092400199/",
+   "source_id": "nikkei_xtech",
+   "source_name": "日経クロステック",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-09-25T05:00:00+09:00",
+   "collected_at": "2026-09-26T01:39:19.460084+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 32,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "一次情報・重要メディア",
+    "ANTHROPIC"
    ]
   },
   {
@@ -7225,49 +7624,49 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "20件 / 全20件",
+   "status": "12件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "4件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "9件 / 全50件",
+   "status": "8件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "15件 / 全30件",
+   "status": "11件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "5件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "13件 / 全30件",
+   "status": "9件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "16件 / 全30件",
+   "status": "10件 / 全30件",
    "ok": true
   },
   {
@@ -7295,7 +7694,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "5件 / 全15件",
+   "status": "3件 / 全15件",
    "ok": true
   },
   {
@@ -7316,7 +7715,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "AI関連なし（全1229件）",
+   "status": "1件 / 全1230件",
    "ok": true
   },
   {
@@ -7330,14 +7729,14 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "2件 / 全20件",
+   "status": "5件 / 全20件",
    "ok": true
   },
   {
    "id": "microsoft_ai",
    "name": "Microsoft AI Blog",
    "region": "global",
-   "status": "AI関連なし（全10件）",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
@@ -7351,14 +7750,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "AI関連なし（全10件）",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "14件 / 全20件",
+   "status": "13件 / 全20件",
    "ok": true
   },
   {
@@ -7372,7 +7771,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "10件 / 全10件",
+   "status": "9件 / 全10件",
    "ok": true
   },
   {
@@ -7386,7 +7785,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
