@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-26T17:47:38.991640+09:00",
+ "generated_at": "2026-09-27T00:54:41.989853+09:00",
  "runs": [
+  {
+   "at": "2026-09-27T00:54:41.989853+09:00",
+   "slot": "夜",
+   "fetched": 47,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-09-26T17:47:38.991640+09:00",
    "slot": "夜",
@@ -150,6 +157,52 @@
   }
  ],
  "items": [
+  {
+   "id": "344d41dcb1d635bb",
+   "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+   "title_original": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+   "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it […]",
+   "summary_original": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it […]",
+   "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "政策・規制",
+   "published_at": "2026-09-26T23:00:00+09:00",
+   "collected_at": "2026-09-27T00:54:41.989853+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "政策・規制カテゴリ"
+   ]
+  },
+  {
+   "id": "dc5183e86bb57478",
+   "title": "I created an interactive digital avatar of myself — and you can talk to it",
+   "title_original": "I created an interactive digital avatar of myself — and you can talk to it",
+   "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+   "summary_original": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+   "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-26T23:00:00+09:00",
+   "collected_at": "2026-09-27T00:54:41.989853+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "97d7832f83990a38",
    "title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
@@ -8119,63 +8172,63 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "14件 / 全20件",
+   "status": "5件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "5件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "10件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "4件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "6件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "9件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "8件 / 全15件",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -8189,7 +8242,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "4件 / 全15件",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -8252,7 +8305,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "13件 / 全20件",
+   "status": "14件 / 全20件",
    "ok": true
   },
   {
@@ -8266,7 +8319,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "4件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
