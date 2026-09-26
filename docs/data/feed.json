@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-26T09:29:01.208736+09:00",
+ "generated_at": "2026-09-26T17:47:38.991640+09:00",
  "runs": [
+  {
+   "at": "2026-09-26T17:47:38.991640+09:00",
+   "slot": "夜",
+   "fetched": 85,
+   "added": 4,
+   "enriched": 0
+  },
   {
    "at": "2026-09-26T09:29:01.208736+09:00",
    "slot": "朝",
@@ -144,6 +151,104 @@
  ],
  "items": [
   {
+   "id": "97d7832f83990a38",
+   "title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
+   "title_original": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
+   "summary": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+   "summary_original": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-26T17:00:00+09:00",
+   "collected_at": "2026-09-26T17:47:38.991640+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 27,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "アクセンチュア"
+   ]
+  },
+  {
+   "id": "de2a090a5f5d1d95",
+   "title": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+   "title_original": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+   "summary": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+   "summary_original": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-26T13:00:00+09:00",
+   "collected_at": "2026-09-26T17:47:38.991640+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "ROI",
+    "GOOGLE"
+   ]
+  },
+  {
+   "id": "cf79c590a0f2f0a0",
+   "title": "アニメを支える外国人材に“逆風”　日本在住の声優・アニメーターが抱く「不安の正体」とは",
+   "title_original": "アニメを支える外国人材に“逆風”　日本在住の声優・アニメーターが抱く「不安の正体」とは",
+   "summary": "日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。",
+   "summary_original": "日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。",
+   "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/",
+   "source_id": "itmedia_news",
+   "source_name": "ITmedia NEWS",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-26T11:00:00+09:00",
+   "collected_at": "2026-09-26T17:47:38.991640+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ"
+   ]
+  },
+  {
+   "id": "894118ffde54ebb3",
+   "title": "「Codex」で1時間にわたる障害→使用量リセットへ",
+   "title_original": "「Codex」で1時間にわたる障害→使用量リセットへ",
+   "summary": "「私たちは再び稼働中で、CodexとChatGPT全体で全有料ユーザーの使用制限をリセットするよ」",
+   "summary_original": "「私たちは再び稼働中で、CodexとChatGPT全体で全有料ユーザーの使用制限をリセットするよ」",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-26T10:27:56+09:00",
+   "collected_at": "2026-09-26T17:47:38.991640+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
+  {
    "id": "18808caef16c5127",
    "title": "マイクロソフトが「Copilot」刷新　ユーザーが不在中も働くAIに",
    "title_original": "マイクロソフトが「Copilot」刷新　ユーザーが不在中も働くAIに",
@@ -196,8 +301,8 @@
    "id": "eb24f91b4396fbb3",
    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
    "title_original": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-   "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
-   "summary_original": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+   "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+   "summary_original": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
    "source_id": "techcrunch_ai",
    "source_name": "TechCrunch (AI)",
@@ -210,7 +315,7 @@
    "translated": false,
    "insight": "",
    "confidence": "",
-   "score": 11,
+   "score": 13,
    "priority": "reference",
    "reasons": []
   },
@@ -8008,13 +8113,13 @@
    ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "11件 / 全20件",
+   "status": "14件 / 全20件",
    "ok": true
   },
   {
@@ -8028,21 +8133,21 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "4件 / 全50件",
+   "status": "5件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "11件 / 全30件",
+   "status": "10件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "5件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -8056,7 +8161,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "12件 / 全30件",
+   "status": "9件 / 全30件",
    "ok": true
   },
   {
@@ -8077,7 +8182,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -8112,14 +8217,14 @@
    "id": "deepmind",
    "name": "Google DeepMind",
    "region": "global",
-   "status": "1件 / 全100件",
+   "status": "AI関連なし（全100件）",
    "ok": true
   },
   {
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "5件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -8133,7 +8238,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "1件 / 全18件",
+   "status": "AI関連なし（全18件）",
    "ok": true
   },
   {
@@ -8147,7 +8252,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "14件 / 全20件",
+   "status": "13件 / 全20件",
    "ok": true
   },
   {
@@ -8161,7 +8266,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "9件 / 全10件",
+   "status": "4件 / 全10件",
    "ok": true
   },
   {
