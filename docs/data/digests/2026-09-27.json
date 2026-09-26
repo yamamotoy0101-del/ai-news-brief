@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-27",
+ "generated_at": "2026-09-27T02:21:36.131777+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 23,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of ",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、OPENAI、ANTHROPIC、GOOGLE",
+   "item": {
+    "id": "637d4699a545ce92",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 36
+   }
+  },
+  {
+   "point": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、アクセンチュア",
+   "item": {
+    "id": "97d7832f83990a38",
+    "title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+    "source_name": "ITmedia AI+",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 27
+   }
+  },
+  {
+   "point": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、META",
+   "item": {
+    "id": "82c8b1320599cb5f",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "米Microsoftは9月25日（現地時間）、生成AIサービス「Microsoft Copilot」を刷新すると発表した。ユーザーが離れている間も自律的に仕事を進める「Autopilot」などを追加する。高度なAI機能には従量課金を導入し、企業向けのコスト管理機能も提供する。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、MICROSOFT",
+   "item": {
+    "id": "18808caef16c5127",
+    "title": "マイクロソフトが「Copilot」刷新　ユーザーが不在中も働くAIに",
+    "url": "https://japan.cnet.com/article/35252993/",
+    "source_name": "CNET Japan",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、MICROSOFT",
+   "item": {
+    "id": "9935b54bb89d00ff",
+    "title": "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
+    "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+    "source_name": "ITmedia AI+",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI、ANTHROPIC、META",
+   "item": {
+    "id": "fdba889df7cc1273",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 26
+   }
+  }
+ ],
+ "watchlist": []
+}
