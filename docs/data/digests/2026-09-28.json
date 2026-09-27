@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-28",
+ "generated_at": "2026-09-28T02:54:26.451314+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 9,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、NTT",
+   "item": {
+    "id": "657ee933478e6e15",
+    "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+    "source_name": "ITmedia AI+",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 30
+   }
+  },
+  {
+   "point": "AIに脆弱性を探させると、未検証の仮説や誤検知が大量に届く。Googleは社内のAIエージェントで自社Webアプリからクロスサイトスクリプティングの脆弱性を500件超発見しながら、誤検知をほぼゼロに抑えたという。決め手は、AIに判定を任せない検証の仕組みだった。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、GOOGLE",
+   "item": {
+    "id": "ed43173833462914",
+    "title": "AIの「見つけた」をうのみにしない　Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/27/news006.html",
+    "source_name": "ITmedia エンタープライズ",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 29
+   }
+  },
+  {
+   "point": "約100gの「Meta VR Glasses」が、ポストスマホ競争の景色を変えそうだ。メタは大型ヘッドセット並みの機能を残しながら、演算やバッテリーを外部パックへ逃がし、顔に載せる重さを大幅に削った。一方、Reality Labsは巨額赤字が続く。Apple、Google、Samsung、XREAL、Snapも次世代デ",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、GOOGLE、META",
+   "item": {
+    "id": "eb7ed31a8a1f7bab",
+    "title": "メタの「100gのVRグラス」は勝てる？アップル・グーグルらで見えた“次のPC”の条件",
+    "url": "https://www.sbbit.jp/article/cont1/187094?ref=rss",
+    "source_name": "ビジネス+IT",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 28
+   }
+  },
+  {
+   "point": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、GOOGLE",
+   "item": {
+    "id": "7777e45713742871",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "source_name": "TechCrunch (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 18
+   }
+  },
+  {
+   "point": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
+   "so_what": "（自動要約なし）スコアの根拠: MICROSOFT",
+   "item": {
+    "id": "cbef17b6e9308a72",
+    "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+    "url": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+    "source_name": "Publickey",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 17
+   }
+  },
+  {
+   "point": "ITインフラ人材の不足は、単に人数を増やせば解消できるものではありません。対策としてAIに期待する向きもありますが、AIを使うこと自体にも実は難しさがあります。では、どうすればよいのでしょうか。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ",
+   "item": {
+    "id": "edb49cd7dbb98146",
+    "title": "脱VMwareで顕在化した「ITインフラを任せられる人」不足――“AI頼み”で本当に解決できるのか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/27/news004.html",
+    "source_name": "＠IT",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 17
+   }
+  }
+ ],
+ "watchlist": []
+}
