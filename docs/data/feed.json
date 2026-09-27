@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T00:54:41.989853+09:00",
+ "generated_at": "2026-09-27T09:24:28.386815+09:00",
  "runs": [
+  {
+   "at": "2026-09-27T09:24:28.386815+09:00",
+   "slot": "朝",
+   "fetched": 41,
+   "added": 6,
+   "enriched": 0
+  },
   {
    "at": "2026-09-27T00:54:41.989853+09:00",
    "slot": "夜",
@@ -157,6 +164,155 @@
   }
  ],
  "items": [
+  {
+   "id": "a3650e988c3dc66b",
+   "title": "スマホゲームにも「AI超解像」、Snapdragon 8 Elite Gen 6が対応　半分の解像度で描画→AIで高精細に",
+   "title_original": "スマホゲームにも「AI超解像」、Snapdragon 8 Elite Gen 6が対応　半分の解像度で描画→AIで高精細に",
+   "summary": "米Qualcommは、最新のスマートフォン向けSoC「Snapdragon 8 Elite Gen 6」で、AIを使った新しいグラフィックス技術「Adreno Neural Fusion（ANF）」を導入した。ゲームを低い解像度で描画してAIで高解像度化する「Super Resolution」と、フレームの間をAIで補う「Frame Generation」を組み合わせ、GPUの負荷を抑えながら画質やフレームレートを高める。",
+   "summary_original": "米Qualcommは、最新のスマートフォン向けSoC「Snapdragon 8 Elite Gen 6」で、AIを使った新しいグラフィックス技術「Adreno Neural Fusion（ANF）」を導入した。ゲームを低い解像度で描画してAIで高解像度化する「Super Resolution」と、フレームの間をAIで補う「Frame Generation」を組み合わせ、GPUの負荷を抑えながら画質やフレームレートを高める。",
+   "url": "https://japan.cnet.com/article/35252991/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-09-27T08:57:00+09:00",
+   "collected_at": "2026-09-27T09:24:28.386815+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "edb49cd7dbb98146",
+   "title": "脱VMwareで顕在化した「ITインフラを任せられる人」不足――“AI頼み”で本当に解決できるのか",
+   "title_original": "脱VMwareで顕在化した「ITインフラを任せられる人」不足――“AI頼み”で本当に解決できるのか",
+   "summary": "ITインフラ人材の不足は、単に人数を増やせば解消できるものではありません。対策としてAIに期待する向きもありますが、AIを使うこと自体にも実は難しさがあります。では、どうすればよいのでしょうか。",
+   "summary_original": "ITインフラ人材の不足は、単に人数を増やせば解消できるものではありません。対策としてAIに期待する向きもありますが、AIを使うこと自体にも実は難しさがあります。では、どうすればよいのでしょうか。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/27/news004.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-27T08:00:00+09:00",
+   "collected_at": "2026-09-27T09:24:28.386815+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ"
+   ]
+  },
+  {
+   "id": "eb7ed31a8a1f7bab",
+   "title": "メタの「100gのVRグラス」は勝てる？アップル・グーグルらで見えた“次のPC”の条件",
+   "title_original": "メタの「100gのVRグラス」は勝てる？アップル・グーグルらで見えた“次のPC”の条件",
+   "summary": "約100gの「Meta VR Glasses」が、ポストスマホ競争の景色を変えそうだ。メタは大型ヘッドセット並みの機能を残しながら、演算やバッテリーを外部パックへ逃がし、顔に載せる重さを大幅に削った。一方、Reality Labsは巨額赤字が続く。Apple、Google、Samsung、XREAL、Snapも次世代デバイスを相次ぎ投入する中、勝負を分けるのは軽さなのか、AIなのか。各社の設計思想を比べると、「次のPC」の条件が見えてくる。",
+   "summary_original": "約100gの「Meta VR Glasses」が、ポストスマホ競争の景色を変えそうだ。メタは大型ヘッドセット並みの機能を残しながら、演算やバッテリーを外部パックへ逃がし、顔に載せる重さを大幅に削った。一方、Reality Labsは巨額赤字が続く。Apple、Google、Samsung、XREAL、Snapも次世代デバイスを相次ぎ投入する中、勝負を分けるのは軽さなのか、AIなのか。各社の設計思想を比べると、「次のPC」の条件が見えてくる。",
+   "url": "https://www.sbbit.jp/article/cont1/187094?ref=rss",
+   "source_id": "sbbit",
+   "source_name": "ビジネス+IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-09-27T07:10:00+09:00",
+   "collected_at": "2026-09-27T09:24:28.386815+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 28,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "GOOGLE",
+    "META"
+   ]
+  },
+  {
+   "id": "657ee933478e6e15",
+   "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+   "title_original": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+   "summary": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+   "summary_original": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+   "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-09-27T07:00:00+09:00",
+   "collected_at": "2026-09-27T09:24:28.386815+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 30,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "一次情報・重要メディア",
+    "NTT"
+   ]
+  },
+  {
+   "id": "ed43173833462914",
+   "title": "AIの「見つけた」をうのみにしない　Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
+   "title_original": "AIの「見つけた」をうのみにしない　Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み",
+   "summary": "AIに脆弱性を探させると、未検証の仮説や誤検知が大量に届く。Googleは社内のAIエージェントで自社Webアプリからクロスサイトスクリプティングの脆弱性を500件超発見しながら、誤検知をほぼゼロに抑えたという。決め手は、AIに判定を任せない検証の仕組みだった。",
+   "summary_original": "AIに脆弱性を探させると、未検証の仮説や誤検知が大量に届く。Googleは社内のAIエージェントで自社Webアプリからクロスサイトスクリプティングの脆弱性を500件超発見しながら、誤検知をほぼゼロに抑えたという。決め手は、AIに判定を任せない検証の仕組みだった。",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/27/news006.html",
+   "source_id": "itmedia_enterprise",
+   "source_name": "ITmedia エンタープライズ",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-09-27T07:00:00+09:00",
+   "collected_at": "2026-09-27T09:24:28.386815+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 29,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "GOOGLE"
+   ]
+  },
+  {
+   "id": "819e92326da0d8d2",
+   "title": "OpenAI pauses training of its ‘most capable models’",
+   "title_original": "OpenAI pauses training of its ‘most capable models’",
+   "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September […]",
+   "summary_original": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-27T01:34:59+09:00",
+   "collected_at": "2026-09-27T09:24:28.386815+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
   {
    "id": "344d41dcb1d635bb",
    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
@@ -8166,20 +8322,20 @@
    ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "5件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "AI関連なし（全50件）",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
@@ -8193,7 +8349,7 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
@@ -8207,21 +8363,21 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "2件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -8242,7 +8398,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
@@ -8284,7 +8440,7 @@
    "id": "microsoft_ai",
    "name": "Microsoft AI Blog",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "AI関連なし（全10件）",
    "ok": true
   },
   {
@@ -8298,14 +8454,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "AI関連なし（全10件）",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "14件 / 全20件",
+   "status": "13件 / 全20件",
    "ok": true
   },
   {
