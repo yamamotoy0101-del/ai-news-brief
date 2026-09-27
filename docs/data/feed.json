@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T09:24:28.386815+09:00",
+ "generated_at": "2026-09-27T18:29:01.231318+09:00",
  "runs": [
+  {
+   "at": "2026-09-27T18:29:01.231318+09:00",
+   "slot": "夜",
+   "fetched": 24,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-09-27T09:24:28.386815+09:00",
    "slot": "朝",
@@ -164,6 +171,31 @@
   }
  ],
  "items": [
+  {
+   "id": "7777e45713742871",
+   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "title_original": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+   "summary_original": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-09-27T10:30:00+09:00",
+   "collected_at": "2026-09-27T18:29:01.231318+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "GOOGLE"
+   ]
+  },
   {
    "id": "a3650e988c3dc66b",
    "title": "スマホゲームにも「AI超解像」、Snapdragon 8 Elite Gen 6が対応　半分の解像度で描画→AIで高精細に",
@@ -8322,7 +8354,7 @@
    ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -8370,7 +8402,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
@@ -8419,7 +8451,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件 / 全1230件",
+   "status": "AI関連なし（全1230件）",
    "ok": true
   },
   {
@@ -8433,7 +8465,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "3件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -8461,7 +8493,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "13件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -8475,7 +8507,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "5件 / 全10件",
+   "status": "2件 / 全10件",
    "ok": true
   },
   {
