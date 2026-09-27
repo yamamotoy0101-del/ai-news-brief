@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-27T18:29:01.231318+09:00",
+ "generated_at": "2026-09-28T01:28:55.527177+09:00",
  "runs": [
+  {
+   "at": "2026-09-28T01:28:55.527177+09:00",
+   "slot": "夜",
+   "fetched": 14,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-09-27T18:29:01.231318+09:00",
    "slot": "夜",
@@ -171,6 +178,52 @@
   }
  ],
  "items": [
+  {
+   "id": "0f10251d1bfc5f09",
+   "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
+   "title_original": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
+   "summary": "Docker社はAIエージェント向けのサンドボックス環境をクラウド上で提供する「Docker Cloud Sandboxes」を発表しました。 同社はすでにローカルで動作するサンドボックス環境の「Docker Sandboxes」を今年（2...",
+   "summary_original": "Docker社はAIエージェント向けのサンドボックス環境をクラウド上で提供する「Docker Cloud Sandboxes」を発表しました。 同社はすでにローカルで動作するサンドボックス環境の「Docker Sandboxes」を今年（2...",
+   "url": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-28T01:02:18+09:00",
+   "collected_at": "2026-09-28T01:28:55.527177+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "cbef17b6e9308a72",
+   "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+   "title_original": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+   "summary": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
+   "summary_original": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...",
+   "url": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-28T00:59:50+09:00",
+   "collected_at": "2026-09-28T01:28:55.527177+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "MICROSOFT"
+   ]
+  },
   {
    "id": "7777e45713742871",
    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -8360,7 +8413,7 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "6件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -8374,14 +8427,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -8395,14 +8448,14 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -8423,14 +8476,14 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "AI関連なし（全15件）",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "2件 / 全15件",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -8493,7 +8546,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "4件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
