@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-29",
+ "generated_at": "2026-09-29T05:12:14.003348+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 14,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、AI ACT、OPENAI",
+   "item": {
+    "id": "4d987bc13622185d",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 37
+   }
+  },
+  {
+   "point": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、EY、OPENAI",
+   "item": {
+    "id": "523d5e9de5b0c404",
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off ",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、EY、ANTHROPIC",
+   "item": {
+    "id": "daef1e4c7c82ef2d",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "source_name": "TechCrunch (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthro",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア、ANTHROPIC",
+   "item": {
+    "id": "7238f9bc8ffac5b7",
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 22
+   }
+  },
+  {
+   "point": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE、META",
+   "item": {
+    "id": "32712da4bf898a6e",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "e2b386d85c6d294b",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 20
+   }
+  }
+ ],
+ "watchlist": []
+}
