@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-09-28T19:06:33.218747+09:00",
+ "generated_at": "2026-09-29T04:18:03.168282+09:00",
  "runs": [
+  {
+   "at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "fetched": 88,
+   "added": 21,
+   "enriched": 0
+  },
   {
    "at": "2026-09-28T19:06:33.218747+09:00",
    "slot": "夜",
@@ -193,6 +200,467 @@
  ],
  "items": [
   {
+   "id": "e770cd52983d6abd",
+   "title": "Introducing Claude Sonnet 5.5 on AWS",
+   "title_original": "Introducing Claude Sonnet 5.5 on AWS",
+   "summary": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.",
+   "summary_original": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T03:57:13+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "7627b64443e10e0d",
+   "title": "OpenAI’s AI agents need to catch up",
+   "title_original": "OpenAI’s AI agents need to catch up",
+   "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - […]",
+   "summary_original": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T03:45:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "46fca61f4990eac9",
+   "title": "Nvidia launches new platform for reining in rogue AI agents",
+   "title_original": "Nvidia launches new platform for reining in rogue AI agents",
+   "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
+   "summary_original": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
+   "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T03:31:23+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 15,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "7c7b6ea24fb9b3a9",
+   "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+   "title_original": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+   "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers […]",
+   "summary_original": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-09-29T03:30:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 5,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "b48cf3b3b7844edd",
+   "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+   "title_original": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+   "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+   "summary_original": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T03:00:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 15,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "32712da4bf898a6e",
+   "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+   "title_original": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+   "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+   "summary_original": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-29T02:29:50+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "GOOGLE",
+    "META"
+   ]
+  },
+  {
+   "id": "4d987bc13622185d",
+   "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+   "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+   "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+   "summary_original": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+   "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "政策・規制",
+   "published_at": "2026-09-29T02:09:02+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 37,
+   "priority": "must-read",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "AI ACT",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "7238f9bc8ffac5b7",
+   "title": "When can we say AI made a scientific discovery?",
+   "title_original": "When can we say AI made a scientific discovery?",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+   "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
+   "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+   "source_id": "mit_tr_ai",
+   "source_name": "MIT Technology Review (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T02:03:16+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア",
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "523d5e9de5b0c404",
+   "title": "Florida seeks a ban on ChatGPT acting like a person",
+   "title_original": "Florida seeks a ban on ChatGPT acting like a person",
+   "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns […]",
+   "summary_original": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-09-29T02:00:23+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 30,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "EY",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "c5ed54694a4a2d5e",
+   "title": "OpenAI keeps bulldozing mathematicians",
+   "title_original": "OpenAI keeps bulldozing mathematicians",
+   "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated […]",
+   "summary_original": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-09-29T02:00:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "5c1ef6c8138635ef",
+   "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+   "title_original": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+   "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+   "summary_original": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+   "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-09-29T01:52:38+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "META"
+   ]
+  },
+  {
+   "id": "de30779fa5c46bbe",
+   "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+   "title_original": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+   "summary": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application.",
+   "summary_original": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T01:15:46+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "NEC",
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "1d075b70bcda2567",
+   "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+   "title_original": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+   "summary": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE through asynchronous inference, and retrieve the MP4 from Amazon S3.",
+   "summary_original": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE through asynchronous inference, and retrieve the MP4 from Amazon S3.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T01:15:17+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "daef1e4c7c82ef2d",
+   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+   "title_original": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+   "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+   "summary_original": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-09-29T00:30:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 29,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "EY",
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "2e10c4d6943fb538",
+   "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
+   "title_original": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
+   "summary": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開...",
+   "summary_original": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開...",
+   "url": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-09-29T00:01:25+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "e2b386d85c6d294b",
+   "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+   "title_original": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+   "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+   "summary_original": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+   "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-09-29T00:00:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ"
+   ]
+  },
+  {
+   "id": "4133fd226b224128",
+   "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+   "title_original": "Insurtech Outmarket raises $34.5M just months after prior round",
+   "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+   "summary_original": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+   "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-28T23:00:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "7139170b174f5e9d",
+   "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+   "title_original": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+   "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+   "summary_original": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-28T22:38:48+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "fa45a29570c32d23",
+   "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+   "title_original": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+   "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within […]",
+   "summary_original": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within […]",
+   "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-09-28T22:36:06+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "NVIDIA"
+   ]
+  },
+  {
    "id": "a1b4833466ab69d3",
    "title": "次期指導要領の全体像固まる　情報学習強化、英語でAI導入が柱",
    "title_original": "次期指導要領の全体像固まる　情報学習強化、英語でAI導入が柱",
@@ -313,6 +781,31 @@
    "priority": "watch",
    "reasons": [
     "政策・規制カテゴリ"
+   ]
+  },
+  {
+   "id": "216d56bba26ca458",
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "summary_original": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-09-28T16:00:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "一次情報・重要メディア",
+    "OPENAI"
    ]
   },
   {
@@ -794,6 +1287,31 @@
    "insight": "",
    "confidence": "",
    "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "66f67403ae2e5bb2",
+   "title": "Convenience or discovery: Which mission will your store serve?",
+   "title_original": "Convenience or discovery: Which mission will your store serve?",
+   "summary": "As AI reshapes how consumers browse, shop, and buy, retailers must choose a mission for every location—and commit to it.",
+   "summary_original": "As AI reshapes how consumers browse, shop, and buy, retailers must choose a mission for every location—and commit to it.",
+   "url": "https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve",
+   "source_id": "mckinsey",
+   "source_name": "McKinsey Insights",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-09-28T09:00:00+09:00",
+   "collected_at": "2026-09-29T04:18:03.168282+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
    "priority": "reference",
    "reasons": [
     "コンサル・組織カテゴリ",
@@ -9832,7 +10350,7 @@
    ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -9852,14 +10370,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "6件 / 全50件",
+   "status": "7件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "7件 / 全30件",
+   "status": "6件 / 全30件",
    "ok": true
   },
   {
@@ -9880,7 +10398,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
@@ -9901,14 +10419,14 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "2件 / 全15件",
+   "status": "3件 / 全15件",
    "ok": true
   },
   {
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "3件 / 全15件",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
@@ -9929,7 +10447,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "AI関連なし（全1230件）",
+   "status": "1件 / 全1231件",
    "ok": true
   },
   {
@@ -9943,7 +10461,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "AI関連なし（全20件）",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -9964,14 +10482,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "2件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "4件 / 全20件",
+   "status": "12件 / 全20件",
    "ok": true
   },
   {
@@ -9985,7 +10503,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "2件 / 全10件",
+   "status": "7件 / 全10件",
    "ok": true
   },
   {
@@ -9999,7 +10517,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   }
  ]
