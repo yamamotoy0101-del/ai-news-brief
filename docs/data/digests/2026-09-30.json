@@ -1,0 +1,89 @@
+{
+ "date": "2026-09-30",
+ "generated_at": "2026-09-30T03:49:14.165455+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 14,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's ",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI、ANTHROPIC",
+   "item": {
+    "id": "5726e15c5cb807ba",
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 37
+   }
+  },
+  {
+   "point": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve ",
+   "so_what": "（自動要約なし）スコアの根拠: EY、OPENAI、NEC",
+   "item": {
+    "id": "7562a87434495800",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "source_name": "The Verge (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote f",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI",
+   "item": {
+    "id": "0d5fc586f5910cab",
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "Condé Nast's editorial teams spent an average of 250 minutes per task searching a library of more than 140,000 videos using only titles and descriptions. Workin",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、AMAZON",
+   "item": {
+    "id": "ae902e3fdd8b4729",
+    "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document under",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、OPENAI",
+   "item": {
+    "id": "0399f6c76448ab05",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "source_name": "TechCrunch (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 22
+   }
+  },
+  {
+   "point": "Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする...",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE",
+   "item": {
+    "id": "16e1b1555a0ef51c",
+    "title": "Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表",
+    "url": "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
+    "source_name": "Publickey",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 20
+   }
+  }
+ ],
+ "watchlist": []
+}
