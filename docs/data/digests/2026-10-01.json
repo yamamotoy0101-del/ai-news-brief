@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-01",
+ "generated_at": "2026-10-01T03:31:41.671503+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 10,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still return",
+   "so_what": "（自動要約なし）スコアの根拠: NEC、NVIDIA",
+   "item": {
+    "id": "e20d6d18306f7883",
+    "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+    "source_name": "NVIDIA Blog",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 19
+   }
+  },
+  {
+   "point": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements ",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "b3707029996ac405",
+    "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messag",
+   "so_what": "（自動要約なし）スコアの根拠: META",
+   "item": {
+    "id": "81eaed43ffddf7df",
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 16
+   }
+  },
+  {
+   "point": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It cove",
+   "so_what": "（自動要約なし）スコアの根拠: META、AMAZON",
+   "item": {
+    "id": "ceaf2ea83ee96e12",
+    "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+    "url": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 14
+   }
+  },
+  {
+   "point": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア",
+   "item": {
+    "id": "396b95f3429cd00b",
+    "title": "Introducing SynthID Bio",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "source_name": "Google DeepMind",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 14
+   }
+  },
+  {
+   "point": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the bigge",
+   "so_what": "（自動要約なし）スコアの根拠: NVIDIA",
+   "item": {
+    "id": "9c3e64cf72537383",
+    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+    "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+    "source_name": "NVIDIA Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 12
+   }
+  }
+ ],
+ "watchlist": []
+}
