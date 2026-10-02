@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-03",
+ "generated_at": "2026-10-03T03:38:57.448288+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 8,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defens",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NIST、AMAZON",
+   "item": {
+    "id": "9dc09a43815f36cc",
+    "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+    "url": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "8e206c4d9ed6ea5b",
+    "title": "A model guide for the GPT-6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "source_name": "OpenAI News",
+    "category": "企業導入",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, whil",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "c4d9a25e0d170722",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we f",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、AMAZON",
+   "item": {
+    "id": "47e3b62765e2d197",
+    "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web S",
+   "so_what": "（自動要約なし）スコアの根拠: NEC、AMAZON",
+   "item": {
+    "id": "2581f0bea9d2fd67",
+    "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 16
+   }
+  },
+  {
+   "point": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "77605701fd678fdf",
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 13
+   }
+  }
+ ],
+ "watchlist": []
+}
