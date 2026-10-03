@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-04",
+ "generated_at": "2026-10-04T02:32:27.975776+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 23,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、EY、OPENAI、ANTHROPIC",
+   "item": {
+    "id": "88ce35f7c1e7f2a2",
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 45
+   }
+  },
+  {
+   "point": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、EY、OPENAI、ANTHROPIC",
+   "item": {
+    "id": "fe94e1e8395946ae",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 45
+   }
+  },
+  {
+   "point": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defens",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NIST、AMAZON",
+   "item": {
+    "id": "9dc09a43815f36cc",
+    "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+    "url": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、META",
+   "item": {
+    "id": "690f3b7b0a3c48ca",
+    "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+    "source_name": "ITmedia AI+",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 28
+   }
+  },
+  {
+   "point": "OpenAIは年次イベント「DevDay 2026」で20を超える発表をした。中でも企業の働き方に直結するのが、常時稼働エージェント「dots」と協働拠点「ChatGPT Space」だ。AIを同僚として迎える環境は何を変えるのか。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、OPENAI",
+   "item": {
+    "id": "58ba2b4663bf1b3a",
+    "title": "「AIの同僚」をどう管理する？　OpenAIが企業ITに与えるインパクト",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/03/news002.html",
+    "source_name": "ITmedia エンタープライズ",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "5113cb6536806d6e",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  }
+ ],
+ "watchlist": []
+}
