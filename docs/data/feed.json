@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-03T10:01:55.339559+09:00",
+ "generated_at": "2026-10-03T18:23:31.367860+09:00",
  "runs": [
+  {
+   "at": "2026-10-03T18:23:31.367860+09:00",
+   "slot": "夜",
+   "fetched": 70,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-10-03T10:01:55.339559+09:00",
    "slot": "朝",
@@ -203,16 +210,58 @@
    "fetched": 67,
    "added": 17,
    "enriched": 0
-  },
-  {
-   "at": "2026-09-23T17:47:41.663650+09:00",
-   "slot": "夜",
-   "fetched": 73,
-   "added": 10,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "33c9bdd9c2c7110f",
+   "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応",
+   "title_original": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応",
+   "summary": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
+   "summary_original": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
+   "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-03T10:41:21+09:00",
+   "collected_at": "2026-10-03T18:23:31.367860+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "META"
+   ]
+  },
+  {
+   "id": "690f3b7b0a3c48ca",
+   "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」",
+   "title_original": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」",
+   "summary": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+   "summary_original": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+   "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-03T09:38:06+09:00",
+   "collected_at": "2026-10-03T18:23:31.367860+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 28,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "META"
+   ]
+  },
   {
    "id": "341a538c1eb81bc2",
    "title": "「通信4社、5G速度最大9倍差」「AI生成コードのエラー率、JavaがPythonの6.7倍」、露わになった“格差”",
@@ -14725,63 +14774,15 @@
     "一次情報・重要メディア",
     "GOOGLE"
    ]
-  },
-  {
-   "id": "3be0b47dbce71dc7",
-   "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-   "title_original": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-   "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-   "summary_original": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-   "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-09-24T09:46:17+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": [
-    "META"
-   ]
-  },
-  {
-   "id": "af9a7ef82647d91f",
-   "title": "YouTube、「独自のフィード」を作成して専用タブにできる新機能を発表",
-   "title_original": "YouTube、「独自のフィード」を作成して専用タブにできる新機能を発表",
-   "summary": "YouTubeは、ユーザーがAIで自分好みの動画フィードを作れるようにする新機能を導入する。",
-   "summary_original": "YouTubeは、ユーザーがAIで自分好みの動画フィードを作れるようにする新機能を導入する。",
-   "url": "https://japan.cnet.com/article/35252891/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-09-24T09:25:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "9件 / 全20件",
+   "status": "11件 / 全20件",
    "ok": true
   },
   {
@@ -14795,21 +14796,21 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "5件 / 全50件",
+   "status": "7件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "6件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "4件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14830,7 +14831,7 @@
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "5件 / 全15件",
+   "status": "4件 / 全15件",
    "ok": true
   },
   {
@@ -14872,7 +14873,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "4件 / 全1245件",
+   "status": "2件 / 全1245件",
    "ok": true
   },
   {
@@ -14886,7 +14887,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "10件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -14914,7 +14915,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "15件 / 全20件",
+   "status": "8件 / 全20件",
    "ok": true
   },
   {
@@ -14928,7 +14929,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "9件 / 全10件",
+   "status": "7件 / 全10件",
    "ok": true
   },
   {
