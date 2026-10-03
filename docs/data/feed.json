@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-03T18:23:31.367860+09:00",
+ "generated_at": "2026-10-04T00:47:35.631313+09:00",
  "runs": [
+  {
+   "at": "2026-10-04T00:47:35.631313+09:00",
+   "slot": "夜",
+   "fetched": 39,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-10-03T18:23:31.367860+09:00",
    "slot": "夜",
@@ -203,16 +210,81 @@
    "fetched": 108,
    "added": 52,
    "enriched": 0
-  },
-  {
-   "at": "2026-09-24T01:12:08.364363+09:00",
-   "slot": "夜",
-   "fetched": 67,
-   "added": 17,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "2b2053e0bc6be5df",
+   "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+   "title_original": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+   "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]",
+   "summary_original": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]",
+   "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-04T00:00:00+09:00",
+   "collected_at": "2026-10-04T00:47:35.631313+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY"
+   ]
+  },
+  {
+   "id": "91c2390ce603b2e9",
+   "title": "An OpenAI safety employee has quit and is sounding the alarm",
+   "title_original": "An OpenAI safety employee has quit and is sounding the alarm",
+   "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
+   "summary_original": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-03T23:31:56+09:00",
+   "collected_at": "2026-10-04T00:47:35.631313+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 23,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "9a415d111d44405a",
+   "title": "All the AI agents that can live in your text messages",
+   "title_original": "All the AI agents that can live in your text messages",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "summary_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-03T23:00:00+09:00",
+   "collected_at": "2026-10-04T00:47:35.631313+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "33c9bdd9c2c7110f",
    "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応",
@@ -14696,84 +14768,6 @@
    "score": 11,
    "priority": "reference",
    "reasons": []
-  },
-  {
-   "id": "795ccd23b3e32b55",
-   "title": "Everything new coming to Meta’s AI agent Muse",
-   "title_original": "Everything new coming to Meta’s AI agent Muse",
-   "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-   "summary_original": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "コンサル・組織",
-   "published_at": "2026-09-24T10:13:32+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 32,
-   "priority": "watch",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "EY",
-    "NEC",
-    "META"
-   ]
-  },
-  {
-   "id": "7b827f62479547a8",
-   "title": "アクセンチュアの調査に見る「AIのROIで成果を出すために必要なこと」とは",
-   "title_original": "アクセンチュアの調査に見る「AIのROIで成果を出すために必要なこと」とは",
-   "summary": "アクセンチュアが「企業におけるAIトークン支出の8割が事業の成果に結びついていない」などのグローバル調査の結果をこのほど公表した。今回はこの調査レポートのエッセンスを紹介し、AIのROIを考察する。",
-   "summary_original": "アクセンチュアが「企業におけるAIトークン支出の8割が事業の成果に結びついていない」などのグローバル調査の結果をこのほど公表した。今回はこの調査レポートのエッセンスを紹介し、AIのROIを考察する。",
-   "url": "https://japan.zdnet.com/article/35252877/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "コンサル・組織",
-   "published_at": "2026-09-24T10:00:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 37,
-   "priority": "must-read",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "アクセンチュア",
-    "ROI"
-   ]
-  },
-  {
-   "id": "c2458a4e3650812d",
-   "title": "Google AIサブスクに「Colab」有料特典をバンドル　「高性能GPU」にアクセス可能に",
-   "title_original": "Google AIサブスクに「Colab」有料特典をバンドル　「高性能GPU」にアクセス可能に",
-   "summary": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
-   "summary_original": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-09-24T09:47:12+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア",
-    "GOOGLE"
-   ]
   }
  ],
  "slot": "夜",
@@ -14782,28 +14776,28 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "11件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "7件 / 全50件",
+   "status": "4件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14817,28 +14811,28 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "8件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "4件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14852,7 +14846,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "2件 / 全15件",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -14873,7 +14867,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "2件 / 全1245件",
+   "status": "1件 / 全1245件",
    "ok": true
   },
   {
@@ -14887,7 +14881,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "4件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -14901,7 +14895,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "2件 / 全18件",
+   "status": "1件 / 全18件",
    "ok": true
   },
   {
@@ -14915,7 +14909,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "8件 / 全20件",
+   "status": "9件 / 全20件",
    "ok": true
   },
   {
@@ -14929,7 +14923,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "7件 / 全10件",
+   "status": "9件 / 全10件",
    "ok": true
   },
   {
@@ -14943,7 +14937,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
