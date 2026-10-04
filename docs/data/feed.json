@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T09:27:08.802322+09:00",
+ "generated_at": "2026-10-04T19:02:34.166361+09:00",
  "runs": [
+  {
+   "at": "2026-10-04T19:02:34.166361+09:00",
+   "slot": "夜",
+   "fetched": 17,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-10-04T09:27:08.802322+09:00",
    "slot": "朝",
@@ -203,16 +210,33 @@
    "fetched": 108,
    "added": 22,
    "enriched": 0
-  },
-  {
-   "at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "fetched": 125,
-   "added": 29,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "992194a5841a47a3",
+   "title": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-Lite」のみに",
+   "title_original": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-Lite」のみに",
+   "summary": "Googleは、個人向けGeminiで利用可能なモデルを契約プランごとに見直すと告知した。無料ユーザーは利用可能モデルが「Flash-Lite」のみに制限され、「Flash」は「AI Plus」以上、「Pro」は「AI Pro」以上の契約が必要となる。無料枠には順次適用され、個人アカウントのモデル選択肢が階層化される。",
+   "summary_original": "Googleは、個人向けGeminiで利用可能なモデルを契約プランごとに見直すと告知した。無料ユーザーは利用可能モデルが「Flash-Lite」のみに制限され、「Flash」は「AI Plus」以上、「Pro」は「AI Pro」以上の契約が必要となる。無料枠には順次適用され、個人アカウントのモデル選択肢が階層化される。",
+   "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-04T11:27:25+09:00",
+   "collected_at": "2026-10-04T19:02:34.166361+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 20,
+   "priority": "reference",
+   "reasons": [
+    "GOOGLE"
+   ]
+  },
   {
    "id": "76ebc62ce38da0f5",
    "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
@@ -14747,54 +14771,29 @@
    "reasons": [
     "一次情報・重要メディア"
    ]
-  },
-  {
-   "id": "edbda927ce64f365",
-   "title": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
-   "title_original": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
-   "summary": "Metaは年次イベント「Meta Connect 2026」で、AIエージェントを持ち歩ける小型ガジェット「Muse Charm」をサプライズ発表した。指紋センサーのタップで音声会話を開始できるポケットサイズ端末で、12月の出荷を目指して開発中。日本の公式サイトでは現時点で利用不可と案内されている。",
-   "summary_original": "Metaは年次イベント「Meta Connect 2026」で、AIエージェントを持ち歩ける小型ガジェット「Muse Charm」をサプライズ発表した。指紋センサーのタップで音声会話を開始できるポケットサイズ端末で、12月の出荷を目指して開発中。日本の公式サイトでは現時点で利用不可と案内されている。",
-   "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001688/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-09-24T11:37:24+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 21,
-   "priority": "reference",
-   "reasons": [
-    "NEC",
-    "META"
-   ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "3件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "3件 / 全50件",
+   "status": "4件 / 全50件",
    "ok": true
   },
   {
@@ -14871,7 +14870,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件 / 全1245件",
+   "status": "AI関連なし（全1245件）",
    "ok": true
   },
   {
@@ -14885,7 +14884,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "3件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14899,21 +14898,21 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "1件 / 全18件",
+   "status": "AI関連なし（全18件）",
    "ok": true
   },
   {
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "AI関連なし（全10件）",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "10件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14927,7 +14926,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件 / 全10件",
+   "status": "3件 / 全10件",
    "ok": true
   },
   {
