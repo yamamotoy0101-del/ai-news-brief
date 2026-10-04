@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T19:02:34.166361+09:00",
+ "generated_at": "2026-10-05T01:30:02.434143+09:00",
  "runs": [
+  {
+   "at": "2026-10-05T01:30:02.434143+09:00",
+   "slot": "夜",
+   "fetched": 15,
+   "added": 4,
+   "enriched": 0
+  },
   {
    "at": "2026-10-04T19:02:34.166361+09:00",
    "slot": "夜",
@@ -203,16 +210,103 @@
    "fetched": 127,
    "added": 40,
    "enriched": 0
-  },
-  {
-   "at": "2026-09-25T01:34:54.052120+09:00",
-   "slot": "夜",
-   "fetched": 108,
-   "added": 22,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "9269839b732e60b0",
+   "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
+   "title_original": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
+   "summary": "IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜...",
+   "summary_original": "IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜...",
+   "url": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-05T00:59:31+09:00",
+   "collected_at": "2026-10-05T01:30:02.434143+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "8afe839697c3a5bd",
+   "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+   "title_original": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+   "summary": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
+   "summary_original": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
+   "url": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "投資・M&A",
+   "published_at": "2026-10-05T00:56:27+09:00",
+   "collected_at": "2026-10-05T01:30:02.434143+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "d5a8ffd2dd505a15",
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "title_original": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
+   "summary_original": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-05T00:21:59+09:00",
+   "collected_at": "2026-10-05T01:30:02.434143+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 27,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "062c049b478a145e",
+   "title": "Trump unveils his new Super Intelligence Force",
+   "title_original": "Trump unveils his new Super Intelligence Force",
+   "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+   "summary_original": "This new task force is Trump's latest response to the debate over AI safety.",
+   "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-05T00:15:10+09:00",
+   "collected_at": "2026-10-05T01:30:02.434143+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ"
+   ]
+  },
   {
    "id": "992194a5841a47a3",
    "title": "個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-Lite」のみに",
@@ -14673,104 +14767,6 @@
    "reasons": [
     "リスク・ガバナンスカテゴリ"
    ]
-  },
-  {
-   "id": "47cff84477cb74ea",
-   "title": "ライオンの「時短90％」内製化術　ABAPを読めない開発者がSAPデータをBigQueryで活用",
-   "title_original": "ライオンの「時短90％」内製化術　ABAPを読めない開発者がSAPデータをBigQueryで活用",
-   "summary": "ライオンは基幹システムのSAPデータをBigQueryで活用するため、GeminiでABAPやCDS ViewからSQL文への変換に取り組み、初心者エンジニアでも扱えるようにした。SAPの学習にかかる工数を最大90％削減した他、データモデルの再設計とBigQueryエージェントの活用により、経営層向けのアドホック分析にも取り組んでいる。",
-   "summary_original": "ライオンは基幹システムのSAPデータをBigQueryで活用するため、GeminiでABAPやCDS ViewからSQL文への変換に取り組み、初心者エンジニアでも扱えるようにした。SAPの学習にかかる工数を最大90％削減した他、データモデルの再設計とBigQueryエージェントの活用により、経営層向けのアドホック分析にも取り組んでいる。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news010.html",
-   "source_id": "itmedia_enterprise",
-   "source_name": "ITmedia エンタープライズ",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-09-24T12:00:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 27,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "内製化"
-   ]
-  },
-  {
-   "id": "91391e0e88fd02e8",
-   "title": "アマゾン、Metaの「Muse」による買い物を阻止　AIエージェントの縄張り争いか",
-   "title_original": "アマゾン、Metaの「Muse」による買い物を阻止　AIエージェントの縄張り争いか",
-   "summary": "世界最大のオンラインマーケットプレイスであるアマゾンは、MetaのAI「Muse」による自社サイトでの買い物を阻止した。",
-   "summary_original": "世界最大のオンラインマーケットプレイスであるアマゾンは、MetaのAI「Muse」による自社サイトでの買い物を阻止した。",
-   "url": "https://japan.cnet.com/article/35252906/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-09-24T11:55:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": [
-    "META"
-   ]
-  },
-  {
-   "id": "7114a1c7bd43d71f",
-   "title": "NECが「AI自律型組織」を新設　「従業員はいらなくなる？」の問いに、CAXOはどう答えたか",
-   "title_original": "NECが「AI自律型組織」を新設　「従業員はいらなくなる？」の問いに、CAXOはどう答えたか",
-   "summary": "NECが「AIネイティブカンパニー」を目指して「AI自律型組織」を新設した。AIを「企業OS」として組織に組み込むというのは、果たして、どのような取り組みなのか。AIが自律的に進化する組織に変わる中で、従業員はどうなるのか。企業のAXについて考察する。",
-   "summary_original": "NECが「AIネイティブカンパニー」を目指して「AI自律型組織」を新設した。AIを「企業OS」として組織に組み込むというのは、果たして、どのような取り組みなのか。AIが自律的に進化する組織に変わる中で、従業員はどうなるのか。企業のAXについて考察する。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news050.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "コンサル・組織",
-   "published_at": "2026-09-24T11:45:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 27,
-   "priority": "watch",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "NEC"
-   ]
-  },
-  {
-   "id": "28106ed7272ae40f",
-   "title": "AIの部下がAI？　「AIオーケストレーション」って何だろう",
-   "title_original": "AIの部下がAI？　「AIオーケストレーション」って何だろう",
-   "summary": "AIに指揮棒を振る、ってコト……!?",
-   "summary_original": "AIに指揮棒を振る、ってコト……!?",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/24/news041.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-09-24T11:45:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
   }
  ],
  "slot": "夜",
@@ -14779,7 +14775,7 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "4件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14793,14 +14789,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "4件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14842,14 +14838,14 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "AI関連なし（全15件）",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14912,7 +14908,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "2件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -14926,7 +14922,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "3件 / 全10件",
+   "status": "4件 / 全10件",
    "ok": true
   },
   {
