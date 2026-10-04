@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-04T00:47:35.631313+09:00",
+ "generated_at": "2026-10-04T09:27:08.802322+09:00",
  "runs": [
+  {
+   "at": "2026-10-04T09:27:08.802322+09:00",
+   "slot": "朝",
+   "fetched": 33,
+   "added": 5,
+   "enriched": 0
+  },
   {
    "at": "2026-10-04T00:47:35.631313+09:00",
    "slot": "夜",
@@ -203,16 +210,129 @@
    "fetched": 125,
    "added": 29,
    "enriched": 0
-  },
-  {
-   "at": "2026-09-24T09:21:41.939399+09:00",
-   "slot": "朝",
-   "fetched": 108,
-   "added": 52,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "76ebc62ce38da0f5",
+   "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+   "title_original": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+   "summary": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
+   "summary_original": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
+   "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-04T08:05:47+09:00",
+   "collected_at": "2026-10-04T09:27:08.802322+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "201d476dfafc4f68",
+   "title": "「ITエンジニア争奪戦」はむしろ激化、AIがあっても“技術者不足”が深まる理由",
+   "title_original": "「ITエンジニア争奪戦」はむしろ激化、AIがあっても“技術者不足”が深まる理由",
+   "summary": "生成AIやAIエージェントで開発・運用の自動化が進む一方、IT人材不足は解消していません。企業の間での争奪戦は激化しているともいえる状況です。AIがあってもなぜITエンジニアは足りないのでしょうか。",
+   "summary_original": "生成AIやAIエージェントで開発・運用の自動化が進む一方、IT人材不足は解消していません。企業の間での争奪戦は激化しているともいえる状況です。AIがあってもなぜITエンジニアは足りないのでしょうか。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/04/news002.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-04T08:00:00+09:00",
+   "collected_at": "2026-10-04T09:27:08.802322+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ"
+   ]
+  },
+  {
+   "id": "339956ce77d2ec21",
+   "title": "クラウドとAIの転換点？　Gartnerがハイプ・サイクルを発表、「過度な期待」と評した5つの技術",
+   "title_original": "クラウドとAIの転換点？　Gartnerがハイプ・サイクルを発表、「過度な期待」と評した5つの技術",
+   "summary": "Gartnerは2026年の日本におけるクラウドとAIのハイプ・サイクルを発表した。31の先端技術のうち5項目が「過度な期待」のピーク期にあるという。クラウドの役割が根本から変わりつつある今、ピーク期に並んだ5項目とは何か。",
+   "summary_original": "Gartnerは2026年の日本におけるクラウドとAIのハイプ・サイクルを発表した。31の先端技術のうち5項目が「過度な期待」のピーク期にあるという。クラウドの役割が根本から変わりつつある今、ピーク期に並んだ5項目とは何か。",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/04/news003.html",
+   "source_id": "itmedia_enterprise",
+   "source_name": "ITmedia エンタープライズ",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-10-04T07:00:00+09:00",
+   "collected_at": "2026-10-04T09:27:08.802322+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "f1c80105d2f2cb39",
+   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+   "title_original": "Capcom is preparing for a ‘future where we create games together with AI’",
+   "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
+   "summary_original": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
+   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-10-04T01:49:10+09:00",
+   "collected_at": "2026-10-04T09:27:08.802322+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 5,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "f143fce070e10faa",
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "title_original": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+   "summary_original": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-04T01:30:01+09:00",
+   "collected_at": "2026-10-04T09:27:08.802322+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 26,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "OPENAI"
+   ]
+  },
   {
    "id": "2b2053e0bc6be5df",
    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -14652,152 +14772,36 @@
     "NEC",
     "META"
    ]
-  },
-  {
-   "id": "d1f1d6f048f2b60e",
-   "title": "【海外テックWatch】 隠し通すAI　「人類を滅ぼす」警鐘のなぜ",
-   "title_original": "【海外テックWatch】 隠し通すAI　「人類を滅ぼす」警鐘のなぜ",
-   "summary": "カンニング、爪隠し、「ズル」をするAI",
-   "summary_original": "カンニング、爪隠し、「ズル」をするAI",
-   "url": "https://cloud.watch.impress.co.jp/docs/column/techwatch/2142784.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-09-24T11:32:17+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "ac46fd86af039b3f",
-   "title": "スマホ不要、クラウドAIへ直接つながるイヤホン登場へ--「Snapdragon Sound Elite Gen 2」発表",
-   "title_original": "スマホ不要、クラウドAIへ直接つながるイヤホン登場へ--「Snapdragon Sound Elite Gen 2」発表",
-   "summary": "米クアルコムは9月23日（現地時間）、イヤホンやヘッドホンなどのオーディオ機器向けプラットフォーム「Snapdragon Sound Elite Gen 2」を発表した。低消費電力のWi-Fi 6EとAI処理機能を統合し、対応機器からクラウド上のAIエージェントやサービスへ直接接続できる。",
-   "summary_original": "米クアルコムは9月23日（現地時間）、イヤホンやヘッドホンなどのオーディオ機器向けプラットフォーム「Snapdragon Sound Elite Gen 2」を発表した。低消費電力のWi-Fi 6EとAI処理機能を統合し、対応機器からクラウド上のAIエージェントやサービスへ直接接続できる。",
-   "url": "https://japan.cnet.com/article/35252900/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-09-24T11:20:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "1db2d3c0b2ed7dc0",
-   "title": "トランプ大統領、AIを「SI」に改称宣言　ネットでは皮肉が続々",
-   "title_original": "トランプ大統領、AIを「SI」に改称宣言　ネットでは皮肉が続々",
-   "summary": "ドナルド・トランプ米大統領は国連総会で演説し、今後の米政府文書では「artificial intelligence（人工知能）」の代わりに「super intelligence（スーパーインテリジェンス）」、略して「SI」という言葉を使うと述べた。",
-   "summary_original": "ドナルド・トランプ米大統領は国連総会で演説し、今後の米政府文書では「artificial intelligence（人工知能）」の代わりに「super intelligence（スーパーインテリジェンス）」、略して「SI」という言葉を使うと述べた。",
-   "url": "https://japan.cnet.com/article/35252898/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "政策・規制",
-   "published_at": "2026-09-24T11:15:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 28,
-   "priority": "watch",
-   "reasons": [
-    "政策・規制カテゴリ"
-   ]
-  },
-  {
-   "id": "918f2f177c03784d",
-   "title": "AI変革を実現するため「シャドーAI」の統制からAIエージェントの保護まで",
-   "title_original": "AI変革を実現するため「シャドーAI」の統制からAIエージェントの保護まで",
-   "summary": "ZDNET Japanは、10月7日午後1時よりAIの活用とセキュリティリスクをテーマに、オンラインセミナーを開催する。",
-   "summary_original": "ZDNET Japanは、10月7日午後1時よりAIの活用とセキュリティリスクをテーマに、オンラインセミナーを開催する。",
-   "url": "https://japan.zdnet.com/article/35251775/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-09-24T11:00:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "6f9a95b2eb9c3fc5",
-   "title": "AIによる大量通信時代、なぜ「SD-WAN」に4つの機能が必要なのか？　Ciscoが解説",
-   "title_original": "AIによる大量通信時代、なぜ「SD-WAN」に4つの機能が必要なのか？　Ciscoが解説",
-   "summary": "AI活用が企業システムに広がれば、それを支えるネットワークにも変化が求められる。AI時代の企業ネットワークでは、何を考慮する必要があるのか。",
-   "summary_original": "AI活用が企業システムに広がれば、それを支えるネットワークにも変化が求められる。AI時代の企業ネットワークでは、何を考慮する必要があるのか。",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news020.html",
-   "source_id": "atmarkit",
-   "source_name": "＠IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-09-24T11:00:00+09:00",
-   "collected_at": "2026-09-24T17:42:08.751146+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "4件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "4件 / 全50件",
+   "status": "3件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -14811,14 +14815,14 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14902,14 +14906,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "2件 / 全10件",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "9件 / 全20件",
+   "status": "10件 / 全20件",
    "ok": true
   },
   {
@@ -14923,7 +14927,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "9件 / 全10件",
+   "status": "6件 / 全10件",
    "ok": true
   },
   {
