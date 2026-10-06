@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T04:00:13.457132+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 9,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、OPENAI、NEC",
+   "item": {
+    "id": "60ef2af305e795fe",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "source_name": "OpenAI News",
+    "category": "企業導入",
+    "region": "global",
+    "score": 32
+   }
+  },
+  {
+   "point": "Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for pol",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、AMAZON",
+   "item": {
+    "id": "15fae5de395990ae",
+    "title": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄されるだろう（Gartner Predi...",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ",
+   "item": {
+    "id": "ef034eef976a2950",
+    "title": "FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測",
+    "url": "https://www.publickey1.jp/blog/26/fdeai7fde.html",
+    "source_name": "Publickey",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 22
+   }
+  },
+  {
+   "point": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "f2c9898c912c2a73",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC",
+   "item": {
+    "id": "5ca9c0ebb6f5947b",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessm",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ",
+   "item": {
+    "id": "ba58d97bce044e46",
+    "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+    "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 13
+   }
+  }
+ ],
+ "watchlist": []
+}
