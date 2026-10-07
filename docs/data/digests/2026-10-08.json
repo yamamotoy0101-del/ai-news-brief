@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-08",
+ "generated_at": "2026-10-08T04:28:02.468051+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 12,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、ROI",
+   "item": {
+    "id": "ca46a2fab5ba8485",
+    "title": "Beyond hours saved: Building the business case for agentic automation",
+    "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 28
+   }
+  },
+  {
+   "point": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier ",
+   "so_what": "（自動要約なし）スコアの根拠: MICROSOFT、NVIDIA",
+   "item": {
+    "id": "2c81a4fbc76bda68",
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "source_name": "The Verge (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how ",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、AMAZON",
+   "item": {
+    "id": "61fcf1bc1cfe9a15",
+    "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 16
+   }
+  },
+  {
+   "point": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI",
+   "item": {
+    "id": "4a32ff51ed082ec8",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 15
+   }
+  },
+  {
+   "point": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+   "so_what": "（自動要約なし）スコアの根拠: META",
+   "item": {
+    "id": "b68f72604da4715c",
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 14
+   }
+  },
+  {
+   "point": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentiall",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "610b12eb506990c2",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 13
+   }
+  }
+ ],
+ "watchlist": []
+}
