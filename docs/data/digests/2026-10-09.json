@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-09",
+ "generated_at": "2026-10-09T04:22:50.307047+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 14,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、ANTHROPIC",
+   "item": {
+    "id": "54a283d7c732aefa",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、ANTHROPIC",
+   "item": {
+    "id": "ba390530e9c6e2d7",
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 26
+   }
+  },
+  {
+   "point": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、OPENAI",
+   "item": {
+    "id": "7cc2fc2bcac39e22",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "112b5f00879d4fef",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "url": "https://openai.com/index/oracle",
+    "source_name": "OpenAI News",
+    "category": "企業導入",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI",
+   "item": {
+    "id": "3bf143dd453c02c2",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 19
+   }
+  },
+  {
+   "point": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE",
+   "item": {
+    "id": "c4b9450255a9e60f",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 15
+   }
+  }
+ ],
+ "watchlist": []
+}
