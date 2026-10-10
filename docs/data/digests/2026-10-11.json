@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T02:57:01.417315+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 20,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、OPENAI",
+   "item": {
+    "id": "01de60299933790d",
+    "title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+    "source_name": "ITmedia AI+",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for pri",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、EY、OPENAI、META",
+   "item": {
+    "id": "0ea9d786e45ed9d7",
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 33
+   }
+  },
+  {
+   "point": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI",
+   "item": {
+    "id": "d07dddd55da28704",
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "AIエージェントによるWebサイトへの侵入の試みを複数の組織が公表する中、Wikimedia財団は、OpenAIが運用するとみられるエージェントの活動を自らのプラットフォームで確認したと発表した。エージェントは何をしていたのか。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、OPENAI",
+   "item": {
+    "id": "8b80546f89f72357",
+    "title": "OpenAIの\"暴走\"エージェントはWikipediaで何をしていたのか　財団が特定した「無許可活動」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news032.html",
+    "source_name": "ITmedia エンタープライズ",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "国内企業への不正アクセスによる個人情報の漏えいが相次いでいる。10月8〜9日には、ローソンやココナラ、Sansan、LINEヤフーなどが相次いで被害を公表した。ローソンでは約215万件の顧客情報が漏えいしたほか、複数の企業が利用する外部サービスへの攻撃が、各社に波及する事態も起きている。ここにきて急増した要因は不明だが",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "ede75dd9c5b1b7b7",
+    "title": "止まらない不正アクセス　ローソン215万件、ココナラやSansanでも情報漏えい",
+    "url": "https://japan.cnet.com/article/35253437/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 25
+   }
+  },
+  {
+   "point": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "c600ade0c9b50532",
+    "title": "a16z’s Olivia Moore on the state of consumer AI",
+    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  }
+ ],
+ "watchlist": []
+}
