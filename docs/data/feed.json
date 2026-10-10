@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-10T19:05:13.906108+09:00",
+ "generated_at": "2026-10-11T02:00:47.766851+09:00",
  "runs": [
+  {
+   "at": "2026-10-11T02:00:47.766851+09:00",
+   "slot": "夜",
+   "fetched": 37,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-10-10T19:05:13.906108+09:00",
    "slot": "夜",
@@ -203,16 +210,82 @@
    "fetched": 138,
    "added": 19,
    "enriched": 0
-  },
-  {
-   "at": "2026-09-30T18:57:30.694608+09:00",
-   "slot": "夜",
-   "fetched": 153,
-   "added": 30,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "0decde66c5ee642f",
+   "title": "Anthropic is cutting off its internal evaluations from the internet",
+   "title_original": "Anthropic is cutting off its internal evaluations from the internet",
+   "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+   "summary_original": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-10T23:41:16+09:00",
+   "collected_at": "2026-10-11T02:00:47.766851+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "92e4233ce3ff40a3",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "title_original": "Here are the top AI agents that can live in your text messages",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "summary_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-10T23:00:00+09:00",
+   "collected_at": "2026-10-11T02:00:47.766851+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "0ea9d786e45ed9d7",
+   "title": "AI agent makers are promising privacy — will they deliver?",
+   "title_original": "AI agent makers are promising privacy — will they deliver?",
+   "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
+   "summary_original": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-10T22:00:00+09:00",
+   "collected_at": "2026-10-11T02:00:47.766851+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 33,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "EY",
+    "OPENAI",
+    "META"
+   ]
+  },
   {
    "id": "6cd6f5cc677d305a",
    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -14621,77 +14694,6 @@
    "score": 11,
    "priority": "reference",
    "reasons": []
-  },
-  {
-   "id": "530b1bea79e29707",
-   "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（終了）",
-   "title_original": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（終了）",
-   "summary": "",
-   "summary_original": "",
-   "url": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
-   "source_id": "digital_agency",
-   "source_name": "デジタル庁",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "政策・規制",
-   "published_at": "2026-09-30T18:18:34+09:00",
-   "collected_at": "2026-09-30T18:57:30.694608+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 31,
-   "priority": "watch",
-   "reasons": [
-    "政策・規制カテゴリ",
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "08e73bc8f4de3284",
-   "title": "キヤノンITS、「SuperStream-NX 固定資産管理」のオプションで契約書のリース該当性判定をAIで支援する「Steward・新リース会計基準」を提供",
-   "title_original": "キヤノンITS、「SuperStream-NX 固定資産管理」のオプションで契約書のリース該当性判定をAIで支援する「Steward・新リース会計基準」を提供",
-   "summary": "キヤノンITソリューションズ株式会社（以下、キヤノンITS）は9月30日、「SuperStream-NX固定資産管理」のオプションとして、ファーストアカウンティング株式会社が提供する「Steward・新リース会計基準」を提供開始した。",
-   "summary_original": "キヤノンITソリューションズ株式会社（以下、キヤノンITS）は9月30日、「SuperStream-NX固定資産管理」のオプションとして、ファーストアカウンティング株式会社が提供する「Steward・新リース会計基準」を提供開始した。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2144562.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-09-30T17:52:47+09:00",
-   "collected_at": "2026-09-30T18:57:30.694608+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 15,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "c2fb5f79c2aac5e4",
-   "title": "Castrol、データセンター向けに統合型熱管理ソリューション「Castrol CORE」を提供",
-   "title_original": "Castrol、データセンター向けに統合型熱管理ソリューション「Castrol CORE」を提供",
-   "summary": "Castrolは29日、AIおよびハイパフォーマンスコンピューティングに対する需要の高まりに応えるため、データセンター熱管理事業における新たなエンドツーエンドのソリューション「Castrol CORE」を提供開始したと発表した。同ソリューションは、設計の初期段階から日常の運用に至るまで、複雑化する冷却要件に顧客が対応できるよう支援することを目的としている。",
-   "summary_original": "Castrolは29日、AIおよびハイパフォーマンスコンピューティングに対する需要の高まりに応えるため、データセンター熱管理事業における新たなエンドツーエンドのソリューション「Castrol CORE」を提供開始したと発表した。同ソリューションは、設計の初期段階から日常の運用に至るまで、複雑化する冷却要件に顧客が対応できるよう支援することを目的としている。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2144102.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-09-30T16:04:00+09:00",
-   "collected_at": "2026-09-30T18:57:30.694608+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 12,
-   "priority": "reference",
-   "reasons": []
   }
  ],
  "slot": "夜",
@@ -14700,63 +14702,63 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "12件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "3件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "12件 / 全50件",
+   "status": "3件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "8件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "6件 / 全15件",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "3件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14770,7 +14772,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14826,14 +14828,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "2件 / 全10件",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "7件 / 全20件",
+   "status": "8件 / 全20件",
    "ok": true
   },
   {
@@ -14847,7 +14849,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件 / 全10件",
+   "status": "8件 / 全10件",
    "ok": true
   },
   {
@@ -14861,7 +14863,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
