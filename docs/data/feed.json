@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-11T19:15:55.749853+09:00",
+ "generated_at": "2026-10-12T02:23:38.125324+09:00",
  "runs": [
+  {
+   "at": "2026-10-12T02:23:38.125324+09:00",
+   "slot": "夜",
+   "fetched": 12,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-10-11T19:15:55.749853+09:00",
    "slot": "夜",
@@ -203,16 +210,78 @@
    "fetched": 110,
    "added": 18,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-01T19:24:15.663596+09:00",
-   "slot": "夜",
-   "fetched": 126,
-   "added": 31,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "df97c62cc773ca86",
+   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "title_original": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+   "summary_original": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-12T01:52:33+09:00",
+   "collected_at": "2026-10-12T02:23:38.125324+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "778ab122b6ef9260",
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "title_original": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+   "summary_original": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-11T23:00:00+09:00",
+   "collected_at": "2026-10-12T02:23:38.125324+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "ea95eacbd85b4f83",
+   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "title_original": "Learning to use local AI is exciting, overwhelming, and frustrating",
+   "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
+   "summary_original": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-11T20:00:00+09:00",
+   "collected_at": "2026-10-12T02:23:38.125324+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY"
+   ]
+  },
   {
    "id": "35dc91695d5dee44",
    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -14628,72 +14697,6 @@
    "reasons": [
     "GOOGLE"
    ]
-  },
-  {
-   "id": "3ea2f44865540177",
-   "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-   "title_original": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-   "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-   "summary_original": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-   "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-09-30T23:30:00+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "0f203ce721db6c03",
-   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-   "title_original": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new […]",
-   "summary_original": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new […]",
-   "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "その他",
-   "published_at": "2026-09-30T23:30:00+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 5,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "3b382bc8ae7f7b67",
-   "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-   "title_original": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-   "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-   "summary_original": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-   "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-09-30T23:27:11+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": []
   }
  ],
  "slot": "夜",
@@ -14702,7 +14705,7 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14716,14 +14719,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14737,14 +14740,14 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14835,7 +14838,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "4件 / 全20件",
+   "status": "5件 / 全20件",
    "ok": true
   },
   {
@@ -14849,7 +14852,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "4件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
