@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-11T02:00:47.766851+09:00",
+ "generated_at": "2026-10-11T09:46:44.553634+09:00",
  "runs": [
+  {
+   "at": "2026-10-11T09:46:44.553634+09:00",
+   "slot": "朝",
+   "fetched": 30,
+   "added": 6,
+   "enriched": 0
+  },
   {
    "at": "2026-10-11T02:00:47.766851+09:00",
    "slot": "夜",
@@ -203,16 +210,152 @@
    "fetched": 131,
    "added": 35,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "fetched": 138,
-   "added": 19,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "35dc91695d5dee44",
+   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "title_original": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+   "summary_original": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-11T07:10:17+09:00",
+   "collected_at": "2026-10-11T09:46:44.553634+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": [
+    "MICROSOFT"
+   ]
+  },
+  {
+   "id": "5fa7cd7d20be073f",
+   "title": "タイムズ、デジタル庁、不正アクセス続出の“魔の9月”　一連の背景にはAIの悪用？",
+   "title_original": "タイムズ、デジタル庁、不正アクセス続出の“魔の9月”　一連の背景にはAIの悪用？",
+   "summary": "2026年9月、不正アクセス被害の公表が相次ぎました。その理由を説明できる仮説が、AIエージェントによる攻撃の高速化です。「魔の9月」は、AIを悪用したサイバー攻撃が本格化する序章なのでしょうか。",
+   "summary_original": "2026年9月、不正アクセス被害の公表が相次ぎました。その理由を説明できる仮説が、AIエージェントによる攻撃の高速化です。「魔の9月」は、AIを悪用したサイバー攻撃が本格化する序章なのでしょうか。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/11/news002.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-10-11T07:00:00+09:00",
+   "collected_at": "2026-10-11T09:46:44.553634+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "デジタル庁"
+   ]
+  },
+  {
+   "id": "de2da367ed6bd8e1",
+   "title": "AIの文章を見抜けた専門家はわずか36％　「ヒューマンファイアウォール」崩壊の現実",
+   "title_original": "AIの文章を見抜けた専門家はわずか36％　「ヒューマンファイアウォール」崩壊の現実",
+   "summary": "セキュリティ専門家に人間とAIが書いたメッセージの判別を求めたところ、正しく見抜けたのは36％だった。YubicoとOktaの共同調査は、従業員の警戒心を防御の要とする「ヒューマンファイアウォール」の限界を示す。",
+   "summary_original": "セキュリティ専門家に人間とAIが書いたメッセージの判別を求めたところ、正しく見抜けたのは36％だった。YubicoとOktaの共同調査は、従業員の警戒心を防御の要とする「ヒューマンファイアウォール」の限界を示す。",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/11/news006.html",
+   "source_id": "itmedia_enterprise",
+   "source_name": "ITmedia エンタープライズ",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-11T07:00:00+09:00",
+   "collected_at": "2026-10-11T09:46:44.553634+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 23,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ"
+   ]
+  },
+  {
+   "id": "2c9728d3318bed23",
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "title_original": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "summary_original": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-11T06:47:51+09:00",
+   "collected_at": "2026-10-11T09:46:44.553634+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": [
+    "MICROSOFT"
+   ]
+  },
+  {
+   "id": "ac1984a6a99cfe3b",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "title_original": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+   "summary_original": "Is Apple hoping to get into the AI-generated podcast business?",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-11T04:50:00+09:00",
+   "collected_at": "2026-10-11T09:46:44.553634+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 5,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "e77e9ae83492452b",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "title_original": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]",
+   "summary_original": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-11T03:52:07+09:00",
+   "collected_at": "2026-10-11T09:46:44.553634+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ"
+   ]
+  },
   {
    "id": "0decde66c5ee642f",
    "title": "Anthropic is cutting off its internal evaluations from the internet",
@@ -14551,179 +14694,36 @@
    "score": 13,
    "priority": "reference",
    "reasons": []
-  },
-  {
-   "id": "2104d195eeaa747c",
-   "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-   "title_original": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-   "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by […]",
-   "summary_original": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by […]",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-09-30T21:24:32+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "fde712815d5c80e5",
-   "title": "Airbnb adds AI search, more social features",
-   "title_original": "Airbnb adds AI search, more social features",
-   "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-   "summary_original": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-   "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-09-30T21:00:00+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 9,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "970e7da4b04bb6c4",
-   "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-   "title_original": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-   "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
-   "summary_original": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
-   "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-   "source_id": "mit_tr_ai",
-   "source_name": "MIT Technology Review (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-09-30T19:40:30+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 24,
-   "priority": "watch",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
-  },
-  {
-   "id": "6a91381a429232e7",
-   "title": "Disrupting a coordinated model-distillation campaign",
-   "title_original": "Disrupting a coordinated model-distillation campaign",
-   "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-   "summary_original": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-09-30T19:30:00+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
-  },
-  {
-   "id": "b5e5e43443d214df",
-   "title": "Helping small businesses put AI to work",
-   "title_original": "Helping small businesses put AI to work",
-   "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-   "summary_original": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-09-30T19:00:00+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
-  },
-  {
-   "id": "96dd3e413afe67b3",
-   "title": "「ここから先は残したい」ですぐ録音　AIリング「Vocci」はAIと仕事をする人にちょうどいいデバイスだった",
-   "title_original": "「ここから先は残したい」ですぐ録音　AIリング「Vocci」はAIと仕事をする人にちょうどいいデバイスだった",
-   "summary": "30日からクラウドファンディングが始まったAIリング「Vocci」は、会話やアイデアをリング単体で録音し、スマートフォンとクラウドを使って文字起こしと要約が行える製品。しばらく使ってみて、使うと便利なシーンや活用法が見えてきました。",
-   "summary_original": "30日からクラウドファンディングが始まったAIリング「Vocci」は、会話やアイデアをリング単体で録音し、スマートフォンとクラウドを使って文字起こしと要約が行える製品。しばらく使ってみて、使うと便利なシーンや活用法が見えてきました。",
-   "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001884/",
-   "source_id": "itmedia_news",
-   "source_name": "ITmedia NEWS",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-09-30T18:18:43+09:00",
-   "collected_at": "2026-09-30T18:57:30.694608+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "3件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "3件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -14744,21 +14744,21 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14786,14 +14786,14 @@
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "1件 / 全27件",
+   "status": "AI関連なし（全27件）",
    "ok": true
   },
   {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "2件 / 全1287件",
+   "status": "AI関連なし（全1287件）",
    "ok": true
   },
   {
@@ -14828,14 +14828,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "AI関連なし（全10件）",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "8件 / 全20件",
+   "status": "10件 / 全20件",
    "ok": true
   },
   {
@@ -14849,7 +14849,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "8件 / 全10件",
+   "status": "9件 / 全10件",
    "ok": true
   },
   {
