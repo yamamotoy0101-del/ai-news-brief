@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T03:22:31.919840+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 9,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "2026年9月、不正アクセス被害の公表が相次ぎました。その理由を説明できる仮説が、AIエージェントによる攻撃の高速化です。「魔の9月」は、AIを悪用したサイバー攻撃が本格化する序章なのでしょうか。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、デジタル庁",
+   "item": {
+    "id": "5fa7cd7d20be073f",
+    "title": "タイムズ、デジタル庁、不正アクセス続出の“魔の9月”　一連の背景にはAIの悪用？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/11/news002.html",
+    "source_name": "＠IT",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 31
+   }
+  },
+  {
+   "point": "セキュリティ専門家に人間とAIが書いたメッセージの判別を求めたところ、正しく見抜けたのは36％だった。YubicoとOktaの共同調査は、従業員の警戒心を防御の要とする「ヒューマンファイアウォール」の限界を示す。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "de2da367ed6bd8e1",
+    "title": "AIの文章を見抜けた専門家はわずか36％　「ヒューマンファイアウォール」崩壊の現実",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/11/news006.html",
+    "source_name": "ITmedia エンタープライズ",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 23
+   }
+  },
+  {
+   "point": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "ea95eacbd85b4f83",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge th",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "e77e9ae83492452b",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "so_what": "（自動要約なし）スコアの根拠: MICROSOFT",
+   "item": {
+    "id": "2c9728d3318bed23",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 14
+   }
+  },
+  {
+   "point": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we ca",
+   "so_what": "（自動要約なし）スコアの根拠: MICROSOFT",
+   "item": {
+    "id": "35dc91695d5dee44",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "source_name": "The Verge (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 13
+   }
+  }
+ ],
+ "watchlist": []
+}
