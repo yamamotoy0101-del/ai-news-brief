@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-11T09:46:44.553634+09:00",
+ "generated_at": "2026-10-11T19:15:55.749853+09:00",
  "runs": [
+  {
+   "at": "2026-10-11T19:15:55.749853+09:00",
+   "slot": "夜",
+   "fetched": 15,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-10-11T09:46:44.553634+09:00",
    "slot": "朝",
@@ -202,13 +209,6 @@
    "slot": "夜",
    "fetched": 126,
    "added": 31,
-   "enriched": 0
-  },
-  {
-   "at": "2026-10-01T10:11:02.533022+09:00",
-   "slot": "朝",
-   "fetched": 131,
-   "added": 35,
    "enriched": 0
   }
  ],
@@ -14696,7 +14696,7 @@
    "reasons": []
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -14709,7 +14709,7 @@
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
@@ -14737,7 +14737,7 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14807,7 +14807,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "2件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14835,7 +14835,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "10件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -14849,7 +14849,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "9件 / 全10件",
+   "status": "4件 / 全10件",
    "ok": true
   },
   {
