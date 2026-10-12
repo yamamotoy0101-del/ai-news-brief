@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T06:49:48.765359+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 18,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、AI ACT、EY",
+   "item": {
+    "id": "bdf59882f2c6edb2",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 40
+   }
+  },
+  {
+   "point": "コーディング特化から汎用エージェント開発基盤へと発展し、米Anthropic（アンソロピック）の躍進、Claude経済圏拡大の立役者となった「Claude Code」。急速な広がりやAI（人工知能）が向かう先を、開発責任者はどう見ているのか。アンソロピックでClaude Code責任者を務めるボリス・チェルニー氏は日経",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、ANTHROPIC",
+   "item": {
+    "id": "279eef6fc85788c3",
+    "title": "Claude Code責任者が語る「超超急成長」の理由、リソース逼迫を乗り越えろ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100600002/",
+    "source_name": "日経クロステック",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 36
+   }
+  },
+  {
+   "point": "米Anthropic（アンソロピック）のIPO（新規株式公開）が間近に迫っている。上場時の評価額は2兆ドル（約316兆円）、同社のAI（人工知能）が自動化・補完する潜在市場である「Claude経済圏」は30兆ドル（約4700兆円）を超えるという見方もある。特集第1回はClaude経済圏の全体像を図解する。",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア、OPENAI、ANTHROPIC",
+   "item": {
+    "id": "f85d152078e3ff95",
+    "title": "Anthropicの磁力、4700兆円のClaude経済圏を図解　法人特化でOpenAI逆転",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100700004/",
+    "source_name": "日経クロステック",
+    "category": "投資・M&A",
+    "region": "domestic",
+    "score": 35
+   }
+  },
+  {
+   "point": "2026年9月21～27日に移動通信関連企業・組織から発表されたニュース5本をお届けします。ローミングやコネクテッドカーの課題からフィジカルAI実用化に向けた実証実験まで、様々な通信の話題をお送りします。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、実証実験",
+   "item": {
+    "id": "bd6647be595f8bad",
+    "title": "「中国ZTE、再エネのみで動く可搬型5G基地局」など5本",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/100500116/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 28
+   }
+  },
+  {
+   "point": "技術開発の進展と市場拡大が見込まれる「フィジカルAI」。次の成長分野と捉える日本企業は増えている。だが、何を開発したらよいか、どこにビジネスチャンスがあるのかと悩む企業が少なくない。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "cc5c68e660856935",
+    "title": "生成AIに残るハルシネーションの影響、フィジカルAI開発分析",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03747/100500004/",
+    "source_name": "日経クロステック",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 28
+   }
+  },
+  {
+   "point": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、MICROSOFT",
+   "item": {
+    "id": "5974203bb3c7b557",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 28
+   }
+  }
+ ],
+ "watchlist": []
+}
