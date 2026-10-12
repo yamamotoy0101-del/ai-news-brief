@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-12T10:08:54.409508+09:00",
+ "generated_at": "2026-10-12T20:15:26.377697+09:00",
  "runs": [
+  {
+   "at": "2026-10-12T20:15:26.377697+09:00",
+   "slot": "夜",
+   "fetched": 13,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-10-12T10:08:54.409508+09:00",
    "slot": "朝",
@@ -203,16 +210,58 @@
    "fetched": 114,
    "added": 17,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-02T10:30:21.060840+09:00",
-   "slot": "朝",
-   "fetched": 122,
-   "added": 32,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "9e0c713f5caefc74",
+   "title": "3社に1社がトークン予算超過　コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+   "title_original": "3社に1社がトークン予算超過　コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+   "summary": "生成AIを使うほど増えるトークンの支出。アクセンチュアが調査したところ、その8割は明確な事業成果に結び付いているとはいえなかった。3社に1社が年間予算を既に超過する中、トークンを経営資源として管理する先進企業が実施している取り組みとは。",
+   "summary_original": "生成AIを使うほど増えるトークンの支出。アクセンチュアが調査したところ、その8割は明確な事業成果に結び付いているとはいえなかった。3社に1社が年間予算を既に超過する中、トークンを経営資源として管理する先進企業が実施している取り組みとは。",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-12T11:50:00+09:00",
+   "collected_at": "2026-10-12T20:15:26.377697+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 30,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "アクセンチュア"
+   ]
+  },
+  {
+   "id": "8b486f9b15e8e515",
+   "title": "FDEが構築したAIエージェントの7割、企業が放棄へ　Gartner予測",
+   "title_original": "FDEが構築したAIエージェントの7割、企業が放棄へ　Gartner予測",
+   "summary": "ベンダーのエンジニアと直接協力して構築したAIエージェントを、2028年までに企業の7割が放棄する――。Gartnerはそう予測する。しかも、原因は技術の未熟さではなく、案件の「構造」にあるという。何が企業をつまずかせ、どうすれば避けられるのか。",
+   "summary_original": "ベンダーのエンジニアと直接協力して構築したAIエージェントを、2028年までに企業の7割が放棄する――。Gartnerはそう予測する。しかも、原因は技術の未熟さではなく、案件の「構造」にあるという。何が企業をつまずかせ、どうすれば避けられるのか。",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-10-12T11:15:00+09:00",
+   "collected_at": "2026-10-12T20:15:26.377697+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
   {
    "id": "4f625cb4c432e67a",
    "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
@@ -14656,66 +14705,22 @@
    "reasons": [
     "META"
    ]
-  },
-  {
-   "id": "a993d027af6ab3cc",
-   "title": "DoorDash launches an AI agent you can text to order food",
-   "title_original": "DoorDash launches an AI agent you can text to order food",
-   "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-   "summary_original": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-10-01T01:00:24+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 9,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "0412d9fdec7ac5ac",
-   "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-   "title_original": "Destro AI’s secret sauce is getting robots and humans on the same page",
-   "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-   "summary_original": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-   "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-10-01T01:00:00+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
@@ -14729,7 +14734,7 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14841,7 +14846,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "5件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14855,7 +14860,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "5件 / 全10件",
+   "status": "2件 / 全10件",
    "ok": true
   },
   {
