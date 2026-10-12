@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-12T02:23:38.125324+09:00",
+ "generated_at": "2026-10-12T10:08:54.409508+09:00",
  "runs": [
+  {
+   "at": "2026-10-12T10:08:54.409508+09:00",
+   "slot": "朝",
+   "fetched": 17,
+   "added": 5,
+   "enriched": 0
+  },
   {
    "at": "2026-10-12T02:23:38.125324+09:00",
    "slot": "夜",
@@ -203,16 +210,134 @@
    "fetched": 122,
    "added": 32,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-02T03:05:24.998417+09:00",
-   "slot": "夜",
-   "fetched": 110,
-   "added": 18,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "4f625cb4c432e67a",
+   "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+   "title_original": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+   "summary": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
+   "summary_original": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-12T09:39:33+09:00",
+   "collected_at": "2026-10-12T10:08:54.409508+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 32,
+   "priority": "watch",
+   "reasons": [
+    "一次情報・重要メディア",
+    "OPENAI",
+    "MICROSOFT"
+   ]
+  },
+  {
+   "id": "aac41f33062d0f54",
+   "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+   "title_original": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+   "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+   "summary_original": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+   "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-10-12T08:59:36+09:00",
+   "collected_at": "2026-10-12T10:08:54.409508+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 34,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "acd3fd86c8b5cac6",
+   "title": "ヒューマノイドで日本は勝てるのか？ ベインが示す「全方位競争」ではない勝ち筋とは",
+   "title_original": "ヒューマノイドで日本は勝てるのか？ ベインが示す「全方位競争」ではない勝ち筋とは",
+   "summary": "ヒューマノイドを巡る競争では、TeslaやFigure AI、中国勢などが巨額投資を武器に開発を加速している。こうした状況を見ると、「日本企業は出遅れた」と感じる人も多いかもしれない。しかし西脇氏は、その見方自体が誤りだと指摘する。重要なのは完成体競争ではない。フィジカルAIあるいはヒューマノイドのエコシステムのどこで価値を握るかだ。",
+   "summary_original": "ヒューマノイドを巡る競争では、TeslaやFigure AI、中国勢などが巨額投資を武器に開発を加速している。こうした状況を見ると、「日本企業は出遅れた」と感じる人も多いかもしれない。しかし西脇氏は、その見方自体が誤りだと指摘する。重要なのは完成体競争ではない。フィジカルAIあるいはヒューマノイドのエコシステムのどこで価値を握るかだ。",
+   "url": "https://www.sbbit.jp/article/cont1/187069?ref=rss",
+   "source_id": "sbbit",
+   "source_name": "ビジネス+IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-12T07:00:00+09:00",
+   "collected_at": "2026-10-12T10:08:54.409508+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "ベイン"
+   ]
+  },
+  {
+   "id": "7d78ce6814ea8c42",
+   "title": "マネージャーの78％、部下の業績評価作成にAIを利用--米調査",
+   "title_original": "マネージャーの78％、部下の業績評価作成にAIを利用--米調査",
+   "summary": "管理職がAIを使って業績評価を作成するケースが増えており、その影響も表れている。",
+   "summary_original": "管理職がAIを使って業績評価を作成するケースが増えており、その影響も表れている。",
+   "url": "https://japan.zdnet.com/article/35253403/",
+   "source_id": "zdnet_jp",
+   "source_name": "ZDNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-10-12T07:00:00+09:00",
+   "collected_at": "2026-10-12T10:08:54.409508+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "7ec8afeed3530ddc",
+   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+   "title_original": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+   "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]",
+   "summary_original": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-12T03:33:56+09:00",
+   "collected_at": "2026-10-12T10:08:54.409508+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY"
+   ]
+  },
   {
    "id": "df97c62cc773ca86",
    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
@@ -14575,137 +14700,15 @@
    "score": 11,
    "priority": "reference",
    "reasons": []
-  },
-  {
-   "id": "ceaf2ea83ee96e12",
-   "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
-   "title_original": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
-   "summary": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails.",
-   "summary_original": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails.",
-   "url": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
-   "source_id": "aws_ml",
-   "source_name": "AWS Machine Learning Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-10-01T00:37:15+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": [
-    "META",
-    "AMAZON"
-   ]
-  },
-  {
-   "id": "1c9685f8d86dfe8f",
-   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-   "title_original": "All the latest news on Meta’s cute, creepy Muse AI agent",
-   "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans […]",
-   "summary_original": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans […]",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-10-01T00:18:49+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": [
-    "META"
-   ]
-  },
-  {
-   "id": "396b95f3429cd00b",
-   "title": "Introducing SynthID Bio",
-   "title_original": "Introducing SynthID Bio",
-   "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-   "summary_original": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-   "source_id": "deepmind",
-   "source_name": "Google DeepMind",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-10-01T00:03:07+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "e20d6d18306f7883",
-   "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-   "title_original": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-   "summary": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
-   "summary_original": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
-   "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-   "source_id": "nvidia",
-   "source_name": "NVIDIA Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-10-01T00:00:00+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "NEC",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "445d1099f6799085",
-   "title": "Google reportedly tests paying publishers for AI search results",
-   "title_original": "Google reportedly tests paying publishers for AI search results",
-   "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, […]",
-   "summary_original": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, […]",
-   "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-09-30T23:51:49+09:00",
-   "collected_at": "2026-10-01T02:40:20.152762+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 12,
-   "priority": "reference",
-   "reasons": [
-    "GOOGLE"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "AI関連なし（全20件）",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14719,7 +14722,7 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "AI関連なし（全50件）",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
@@ -14740,7 +14743,7 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "AI関連なし（全30件）",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14775,7 +14778,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "AI関連なし（全15件）",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
