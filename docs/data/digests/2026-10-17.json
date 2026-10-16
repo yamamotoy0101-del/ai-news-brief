@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17T02:38:58.320562+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "「自分の仕事はAIに奪われるのではないか」──そんな不安を表す言葉が「FOBO」だ。金融機関でもその不安は広がり得るが、経営側が考えるべき問題はさらに重い。AIが仕事を担うようになったとき、誰が顧客を理解し、判断の誤りを見抜くのか。ゴールドマン・サックス、DBS銀行、ドイツ銀行など海外勢と、みずほ・三井住友・三菱UFJ",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、三菱、みずほ、三井住友",
+   "item": {
+    "id": "66cf1ee2fd1f87a2",
+    "title": "【海外勢と比較】三井住友・三菱UFJ・みずほ…AIで「仕事・人事・評価」どう変わる？",
+    "url": "https://www.sbbit.jp/article/fj/187335?ref=rss",
+    "source_name": "ビジネス+IT",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 40
+   }
+  },
+  {
+   "point": "米Microsoftに所属する研究者らが発表した論文「Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft’s Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、ANTHROPIC、生産性、MICROSOFT",
+   "item": {
+    "id": "7a216822f3a91f8f",
+    "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析　生産性どう変わる",
+    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+    "source_name": "ITmedia AI+",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 37
+   }
+  },
+  {
+   "point": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、OPENAI、ANTHROPIC",
+   "item": {
+    "id": "26557c3d32872bd9",
+    "title": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし",
+    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+    "source_name": "ITmedia AI+",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 37
+   }
+  },
+  {
+   "point": "AI（人工知能）開発の安全性や倫理をとりわけ重視してきた米Anthropic（アンソロピック）が揺れている。ライバルの存在や中国勢の台頭、間近に迫るIPO（新規株式公開）が、アンソロピックに現実路線への転換を迫る。裁判資料から、ダリオ・アモデイCEO（最高経営責任者）自身の葛藤も見え隠れする。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、ANTHROPIC",
+   "item": {
+    "id": "127bd9c590ece4a0",
+    "title": "揺れるAnthropic、玉虫色のAI自主規制　裁判資料が示すアモデイCEOの葛藤",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100900005/",
+    "source_name": "日経クロステック",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 36
+   }
+  },
+  {
+   "point": "NTTインテグレーション株式会社は14日、Google Cloud傘下の米Wizが提供する、クラウドとAIのセキュリティプラットフォーム「Wiz」の取り扱いを開始した。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、NTT、GOOGLE",
+   "item": {
+    "id": "4e8a2d92aa86fdc4",
+    "title": "NTTインテグレーション、クラウドおよびAI環境のリスクを可視化するセキュリティプラットフォーム「Wiz」を提供",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2148104.html",
+    "source_name": "クラウド Watch",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 33
+   }
+  },
+  {
+   "point": "声優・俳優の権利保護活動などを行う日本俳優連合は、「音声に関する生成AI利用ガイドライン」を発表した。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "ea96c2258a6de616",
+    "title": "「今までが簡単すぎた」――声のAI利用に新指針、日俳連　事業者に求める対応は",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/",
+    "source_name": "ITmedia AI+",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 31
+   }
+  }
+ ],
+ "watchlist": []
+}
