@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18T01:36:44.365811+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 15,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "＠ITで公開された記事の中から、特に注目を集めた10本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、全社、NEC",
+   "item": {
+    "id": "a496a8a1909fb077",
+    "title": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news008.html",
+    "source_name": "＠IT",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 29
+   }
+  },
+  {
+   "point": "日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "adcaf52212275ddf",
+    "title": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+    "url": "https://japan.cnet.com/article/35253656/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never an",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI、ANTHROPIC",
+   "item": {
+    "id": "18f9fd0105553a04",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 25
+   }
+  },
+  {
+   "point": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、NVIDIA",
+   "item": {
+    "id": "84c2c565c396ae83",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、NVIDIA",
+   "item": {
+    "id": "1db14d807722c8b3",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "ウェザーニューズは10月15日、天気アプリ「ウェザーニュース」の3時間先までの天気・降水量予測に、独自のAI気象予測モデル「AI-Nowcast」を導入したと発表した。雨雲の急な発生や発達を捉え、予測精度を高めるとしている。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ",
+   "item": {
+    "id": "d0807e6dababd113",
+    "title": "3時間先までの雨予測をAIで改善　ウェザーニュースアプリに本格実装",
+    "url": "https://japan.cnet.com/article/35253654/",
+    "source_name": "CNET Japan",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 19
+   }
+  }
+ ],
+ "watchlist": []
+}
