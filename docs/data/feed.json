@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-17T16:59:39.084765+09:00",
+ "generated_at": "2026-10-18T00:01:51.591568+09:00",
  "runs": [
+  {
+   "at": "2026-10-18T00:01:51.591568+09:00",
+   "slot": "夜",
+   "fetched": 36,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-10-17T16:59:39.084765+09:00",
    "slot": "昼",
@@ -203,16 +210,57 @@
    "fetched": 130,
    "added": 48,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-08T03:29:47.689869+09:00",
-   "slot": "夜",
-   "fetched": 107,
-   "added": 21,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "79619743255e89a1",
+   "title": "Websites are closing their doors to AI agents",
+   "title_original": "Websites are closing their doors to AI agents",
+   "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+   "summary_original": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-10-17T22:00:00+09:00",
+   "collected_at": "2026-10-18T00:01:51.591568+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI",
+    "GOOGLE",
+    "META"
+   ]
+  },
+  {
+   "id": "a72c1b7a18b4cfec",
+   "title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
+   "title_original": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
+   "summary": "SHIFT AIが65歳以上の親を持つ全国の30～50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表。親に生成AIを使ってほしくない子世代が69.3％に達したという結果とともに、その理由や自身の利用頻度、親に教える際の障壁などを示した。",
+   "summary_original": "SHIFT AIが65歳以上の親を持つ全国の30～50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表。親に生成AIを使ってほしくない子世代が69.3％に達したという結果とともに、その理由や自身の利用頻度、親に教える際の障壁などを示した。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-17T17:00:00+09:00",
+   "collected_at": "2026-10-18T00:01:51.591568+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "a496a8a1909fb077",
    "title": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知",
@@ -14692,65 +14740,15 @@
     "OPENAI",
     "ANTHROPIC"
    ]
-  },
-  {
-   "id": "8a84e58b1dc171f2",
-   "title": "なぜ今、財務責任者がAI戦略を担うのか　AI時代に財務の存在感が増す理由【IBM調査】",
-   "title_original": "なぜ今、財務責任者がAI戦略を担うのか　AI時代に財務の存在感が増す理由【IBM調査】",
-   "summary": "AI戦略の担い手として財務責任者の存在感が高まっている。IBMの調査では、財務責任者らの62％が全社のAI戦略まで役割が広がったと回答した。一方、変革準備が整ったのは6％にとどまる。なぜ今、財務なのか。",
-   "summary_original": "AI戦略の担い手として財務責任者の存在感が高まっている。IBMの調査では、財務責任者らの62％が全社のAI戦略まで役割が広がったと回答した。一方、変革準備が整ったのは6％にとどまる。なぜ今、財務なのか。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/07/news028.html",
-   "source_id": "itmedia_enterprise",
-   "source_name": "ITmedia エンタープライズ",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-07T07:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 31,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "全社"
-   ]
-  },
-  {
-   "id": "3e9518fb3d3d8584",
-   "title": "AI時代のOTセキュリティ、「盾と矛」勝つのはどちらか？",
-   "title_original": "AI時代のOTセキュリティ、「盾と矛」勝つのはどちらか？",
-   "summary": "本稿では、2026年9月17日に開催された「OT Security Leader's Summit 2026」より、TXOne Networks CEO テレンス・リュウ氏の基調講演を抜粋。AIの進化で高まる脅威に対抗し、「止めないオペレーション」を実現するための新たな防御モデルの要諦をひもとく。",
-   "summary_original": "本稿では、2026年9月17日に開催された「OT Security Leader's Summit 2026」より、TXOne Networks CEO テレンス・リュウ氏の基調講演を抜粋。AIの進化で高まる脅威に対抗し、「止めないオペレーション」を実現するための新たな防御モデルの要諦をひもとく。",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news040.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-07T07:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 30,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "一次情報・重要メディア"
-   ]
   }
  ],
- "slot": "昼",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "9件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14764,49 +14762,49 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "5件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "5件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "10件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "10件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "8件 / 全15件",
+   "status": "4件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14820,7 +14818,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "3件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14841,7 +14839,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "2件 / 全1299件",
+   "status": "1件 / 全1299件",
    "ok": true
   },
   {
@@ -14883,7 +14881,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "10件 / 全20件",
+   "status": "9件 / 全20件",
    "ok": true
   },
   {
@@ -14897,7 +14895,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "5件 / 全10件",
+   "status": "3件 / 全10件",
    "ok": true
   },
   {
@@ -14911,7 +14909,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
