@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-18T00:01:51.591568+09:00",
+ "generated_at": "2026-10-18T08:54:55.757449+09:00",
  "runs": [
+  {
+   "at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "fetched": 28,
+   "added": 7,
+   "enriched": 0
+  },
   {
    "at": "2026-10-18T00:01:51.591568+09:00",
    "slot": "夜",
@@ -203,16 +210,178 @@
    "fetched": 131,
    "added": 31,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-08T10:44:04.832002+09:00",
-   "slot": "朝",
-   "fetched": 130,
-   "added": 48,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "e0eddf9b45b4f623",
+   "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+   "title_original": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+   "summary": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。",
+   "summary_original": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-18T08:00:00+09:00",
+   "collected_at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "d4d8a21bd9972e11",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "title_original": "Meta removes language that raised scraping and AI training concerns",
+   "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+   "summary_original": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-18T06:31:32+09:00",
+   "collected_at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": [
+    "META"
+   ]
+  },
+  {
+   "id": "af59b3284175b1f2",
+   "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "title_original": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
+   "summary_original": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+   "source_id": "nvidia",
+   "source_name": "NVIDIA Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-18T06:00:13+09:00",
+   "collected_at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "MICROSOFT",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "33244bf00ef065ea",
+   "title": "中国、AI技術23項目を輸出規制へ　その中身とは",
+   "title_original": "中国、AI技術23項目を輸出規制へ　その中身とは",
+   "summary": "中国の商務部と科学技術部は10月16日、大規模AIモデルや、自律的に作業を進めるAIエージェントなどに関する23項目の技術を、輸出の禁止・制限の対象に加える案を公表した。ただし、大規模モデルの機能をAPIやアプリで海外向けに提供する場合は、技術輸出管理の対象外とする方針だ。",
+   "summary_original": "中国の商務部と科学技術部は10月16日、大規模AIモデルや、自律的に作業を進めるAIエージェントなどに関する23項目の技術を、輸出の禁止・制限の対象に加える案を公表した。ただし、大規模モデルの機能をAPIやアプリで海外向けに提供する場合は、技術輸出管理の対象外とする方針だ。",
+   "url": "https://japan.cnet.com/article/35253670/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-10-18T05:40:00+09:00",
+   "collected_at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 28,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ"
+   ]
+  },
+  {
+   "id": "0dabc6c10b97c37b",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "title_original": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "summary_original": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-18T05:21:19+09:00",
+   "collected_at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "6435f671229b69ca",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "title_original": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "summary_original": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-18T03:48:08+09:00",
+   "collected_at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 23,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI",
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "ac0eba5f39915c21",
+   "title": "Meta removes language that may have allowed it to scrape news sites",
+   "title_original": "Meta removes language that may have allowed it to scrape news sites",
+   "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+   "summary_original": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-10-18T00:04:36+09:00",
+   "collected_at": "2026-10-18T08:54:55.757449+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 8,
+   "priority": "reference",
+   "reasons": [
+    "META"
+   ]
+  },
   {
    "id": "79619743255e89a1",
    "title": "Websites are closing their doors to AI agents",
@@ -14569,180 +14738,9 @@
    "score": 14,
    "priority": "reference",
    "reasons": []
-  },
-  {
-   "id": "e4feb1bf5e6900f4",
-   "title": "OpenAI drops another batch of mathematical breakthroughs",
-   "title_original": "OpenAI drops another batch of mathematical breakthroughs",
-   "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]",
-   "summary_original": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-10-07T08:26:38+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": [
-    "OPENAI"
-   ]
-  },
-  {
-   "id": "1c76a6f1f47b0477",
-   "title": "なぜ答えが揺れ、堂々と間違えるのか ―― 確率で動く生成AIの正体",
-   "title_original": "なぜ答えが揺れ、堂々と間違えるのか ―― 確率で動く生成AIの正体",
-   "summary": "「なぜ生成AIは堂々と間違え、毎回答えが変わるのか？」――本稿では、生成AIの動作原理である「次に続きそうな言葉を確率で予測する仕組み」を解説します。膨大なデータにより賢くなった反面、事実確認機能がないため生じる「ハルシネーション」のリスクと、企業がAIを安全に活用するための原則に迫ります。",
-   "summary_original": "「なぜ生成AIは堂々と間違え、毎回答えが変わるのか？」――本稿では、生成AIの動作原理である「次に続きそうな言葉を確率で予測する仕組み」を解説します。膨大なデータにより賢くなった反面、事実確認機能がないため生じる「ハルシネーション」のリスクと、企業がAIを安全に活用するための原則に迫ります。",
-   "url": "https://mag.executive.itmedia.co.jp/executive/article/2610/07/2000001697/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-07T08:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 30,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "b83945b88b66f8cb",
-   "title": "AI活用の背後で急拡大するガバナンスギャップを解消せよ",
-   "title_original": "AI活用の背後で急拡大するガバナンスギャップを解消せよ",
-   "summary": "従業員が新技術を活用する中で企業に忍び寄る「シャドーAI」。本稿では、置き去りにされがちなガバナンスとセキュリティの課題に対処する方法を解説します。",
-   "summary_original": "従業員が新技術を活用する中で企業に忍び寄る「シャドーAI」。本稿では、置き去りにされがちなガバナンスとセキュリティの課題に対処する方法を解説します。",
-   "url": "https://japan.zdnet.com/article/35253285/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-07T07:30:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "24d1ca5599f6cad8",
-   "title": "2026年のAI開発最前線――「AIによるAI開発」から今後は再帰的自己改善「RSI」へ",
-   "title_original": "2026年のAI開発最前線――「AIによるAI開発」から今後は再帰的自己改善「RSI」へ",
-   "summary": "ELYZAは、再帰的自己改善（RSI）の研究開発を推進する「ELYZA RSI Research」を立ち上げたと発表した。併せて、自律研究基盤を用いた音声対話AIエージェント「ELYZA Voice Agent」やフィジカルAIに関する取り組みについても紹介した。",
-   "summary_original": "ELYZAは、再帰的自己改善（RSI）の研究開発を推進する「ELYZA RSI Research」を立ち上げたと発表した。併せて、自律研究基盤を用いた音声対話AIエージェント「ELYZA Voice Agent」やフィジカルAIに関する取り組みについても紹介した。",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news019.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-07T07:30:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 21,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "904b5013da9c873f",
-   "title": "企業AIの本丸は基幹業務での実行--オラクルが示したAI活用の現在地",
-   "title_original": "企業AIの本丸は基幹業務での実行--オラクルが示したAI活用の現在地",
-   "summary": "日本オラクルはイベント「Oracle AI Forum」を開催した。基調講演では、企業でのAI活用の現状を踏まえて企業がなすべき方向性を示した。",
-   "summary_original": "日本オラクルはイベント「Oracle AI Forum」を開催した。基調講演では、企業でのAI活用の現状を踏まえて企業がなすべき方向性を示した。",
-   "url": "https://japan.zdnet.com/article/35253288/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-07T07:15:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "24afc30845c0d769",
-   "title": "Okta CEOが語る「AIを縛らず安全に使う」方法、Identityが主役になる理由とは徹底解説",
-   "title_original": "Okta CEOが語る「AIを縛らず安全に使う」方法、Identityが主役になる理由とは徹底解説",
-   "summary": "AIを安全にするには、能力を奪うしかないのか。Okta CEOのトッド・マッキノン氏は「Oktane 2026」で、必要な仕事をこなせるだけの自由を安全に与えるという逆説的な答えを示した。鍵を握るのはIdentityだ。所有者や権限、期限をAIにも持たせ、退職者が残したAIまで止める。さらに4つの質問に沿った新製品群と、AWSやセールスフォースも加わる業界連合の動きから、Identityがどこまで役割を広げるのかを検証する。",
-   "summary_original": "AIを安全にするには、能力を奪うしかないのか。Okta CEOのトッド・マッキノン氏は「Oktane 2026」で、必要な仕事をこなせるだけの自由を安全に与えるという逆説的な答えを示した。鍵を握るのはIdentityだ。所有者や権限、期限をAIにも持たせ、退職者が残したAIまで止める。さらに4つの質問に沿った新製品群と、AWSやセールスフォースも加わる業界連合の動きから、Identityがどこまで役割を広げるのかを検証する。",
-   "url": "https://www.sbbit.jp/article/cont1/187243?ref=rss",
-   "source_id": "sbbit",
-   "source_name": "ビジネス+IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-07T07:10:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "16c9d8f2b9b3bc0b",
-   "title": "「AIの多少の悪影響は許容すべき」　OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
-   "title_original": "「AIの多少の悪影響は許容すべき」　OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
-   "summary": "AIの恩恵を受けるために「多少の悪いことも受け入れて」――AIによるハッキング攻撃が相次ぐ中、OpenAIのサム・アルトマンCEOがこう主張する理由とは。",
-   "summary_original": "AIの恩恵を受けるために「多少の悪いことも受け入れて」――AIによるハッキング攻撃が相次ぐ中、OpenAIのサム・アルトマンCEOがこう主張する理由とは。",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-07T07:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 31,
-   "priority": "watch",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI",
-    "ANTHROPIC"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -14755,21 +14753,21 @@
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
@@ -14783,21 +14781,21 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "4件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14867,7 +14865,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "AI関連なし（全18件）",
+   "status": "1件 / 全18件",
    "ok": true
   },
   {
@@ -14881,7 +14879,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "9件 / 全20件",
+   "status": "11件 / 全20件",
    "ok": true
   },
   {
@@ -14895,7 +14893,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "3件 / 全10件",
+   "status": "4件 / 全10件",
    "ok": true
   },
   {
