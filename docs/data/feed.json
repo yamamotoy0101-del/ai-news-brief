@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-17T09:16:06.340524+09:00",
+ "generated_at": "2026-10-17T16:59:39.084765+09:00",
  "runs": [
+  {
+   "at": "2026-10-17T16:59:39.084765+09:00",
+   "slot": "昼",
+   "fetched": 78,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-10-17T09:16:06.340524+09:00",
    "slot": "朝",
@@ -202,13 +209,6 @@
    "slot": "夜",
    "fetched": 107,
    "added": 21,
-   "enriched": 0
-  },
-  {
-   "at": "2026-10-07T19:31:07.431748+09:00",
-   "slot": "夜",
-   "fetched": 106,
-   "added": 23,
    "enriched": 0
   }
  ],
@@ -14744,7 +14744,7 @@
    ]
   }
  ],
- "slot": "朝",
+ "slot": "昼",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -14813,7 +14813,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14841,7 +14841,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "4件 / 全1298件",
+   "status": "2件 / 全1299件",
    "ok": true
   },
   {
@@ -14855,7 +14855,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "4件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14869,7 +14869,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "3件 / 全18件",
+   "status": "AI関連なし（全18件）",
    "ok": true
   },
   {
@@ -14883,7 +14883,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "15件 / 全20件",
+   "status": "10件 / 全20件",
    "ok": true
   },
   {
@@ -14897,7 +14897,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "9件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
