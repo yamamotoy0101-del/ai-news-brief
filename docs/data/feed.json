@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-17T01:09:20.346488+09:00",
+ "generated_at": "2026-10-17T09:16:06.340524+09:00",
  "runs": [
+  {
+   "at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "fetched": 95,
+   "added": 11,
+   "enriched": 0
+  },
   {
    "at": "2026-10-17T01:09:20.346488+09:00",
    "slot": "夜",
@@ -203,22 +210,236 @@
    "fetched": 106,
    "added": 23,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "fetched": 112,
-   "added": 37,
-   "enriched": 0
   }
  ],
  "items": [
   {
+   "id": "a496a8a1909fb077",
+   "title": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知",
+   "title_original": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知",
+   "summary": "＠ITで公開された記事の中から、特に注目を集めた10本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+   "summary_original": "＠ITで公開された記事の中から、特に注目を集めた10本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news008.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-10-17T08:00:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 29,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "全社",
+    "NEC"
+   ]
+  },
+  {
+   "id": "adcaf52212275ddf",
+   "title": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+   "title_original": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+   "summary": "日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+   "summary_original": "日本俳優連合（日俳連）は10月15日、俳優や声優の声を生成AIで利用する際の指針を発表した。学習から生成、作品での公開・利用まで、各段階で本人の事前同意を得るよう求める。音声の無断利用を防ぎ、AI利用時の報酬や契約の基準を示す。",
+   "url": "https://japan.cnet.com/article/35253656/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-10-17T07:25:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 26,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ"
+   ]
+  },
+  {
+   "id": "d0807e6dababd113",
+   "title": "3時間先までの雨予測をAIで改善　ウェザーニュースアプリに本格実装",
+   "title_original": "3時間先までの雨予測をAIで改善　ウェザーニュースアプリに本格実装",
+   "summary": "ウェザーニューズは10月15日、天気アプリ「ウェザーニュース」の3時間先までの天気・降水量予測に、独自のAI気象予測モデル「AI-Nowcast」を導入したと発表した。雨雲の急な発生や発達を捉え、予測精度を高めるとしている。",
+   "summary_original": "ウェザーニューズは10月15日、天気アプリ「ウェザーニュース」の3時間先までの天気・降水量予測に、独自のAI気象予測モデル「AI-Nowcast」を導入したと発表した。雨雲の急な発生や発達を捉え、予測精度を高めるとしている。",
+   "url": "https://japan.cnet.com/article/35253654/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-10-17T07:11:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "18f9fd0105553a04",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "title_original": "Replit is no longer working with Anthropic, CEO says",
+   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+   "summary_original": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-17T06:22:28+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 25,
+   "priority": "watch",
+   "reasons": [
+    "OPENAI",
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "c22ce4d9c5995d4a",
+   "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+   "title_original": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+   "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",
+   "summary_original": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-17T05:48:16+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "65442e708214c10b",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "title_original": "How Itaú is building generative AI for its entire customer base",
+   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "summary_original": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+   "url": "https://openai.com/index/itau-generative-ai",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-17T04:00:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "c74e5a79a0e1f484",
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "title_original": "India becomes the latest country to report rogue AI agent activity",
+   "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+   "summary_original": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-17T02:52:24+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": [
+    "NEC"
+   ]
+  },
+  {
+   "id": "84c2c565c396ae83",
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "title_original": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+   "summary_original": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-17T01:30:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "1db14d807722c8b3",
+   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "title_original": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+   "summary_original": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-17T01:30:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "NVIDIA"
+   ]
+  },
+  {
    "id": "1aa8b1ac1c09583d",
    "title": "Elorian’s first AI model wants to reason with images, not just about them",
    "title_original": "Elorian’s first AI model wants to reason with images, not just about them",
-   "summary": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-   "summary_original": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+   "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+   "summary_original": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
    "source_id": "techcrunch_ai",
    "source_name": "TechCrunch (AI)",
@@ -1050,6 +1271,33 @@
    ]
   },
   {
+   "id": "9d653fbf350486a3",
+   "title": "What is a forward-deployed engineer?",
+   "title_original": "What is a forward-deployed engineer?",
+   "summary": "Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.",
+   "summary_original": "Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.",
+   "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer",
+   "source_id": "mckinsey",
+   "source_name": "McKinsey Insights",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-16T09:00:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 37,
+   "priority": "must-read",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "一次情報・重要メディア",
+    "MCKINSEY",
+    "EY"
+   ]
+  },
+  {
    "id": "876600fe10cdc9be",
    "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
    "title_original": "Getting real about AI: How AI agents are changing the economics of software engineering",
@@ -1071,6 +1319,30 @@
    "priority": "reference",
    "reasons": [
     "コンサル・組織カテゴリ",
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "9db4940a53f86840",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "title_original": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "summary_original": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-16T09:00:00+09:00",
+   "collected_at": "2026-10-17T09:16:06.340524+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
     "一次情報・重要メディア"
    ]
   },
@@ -9892,7 +10164,8 @@
    "priority": "reference",
    "reasons": [
     "一次情報・重要メディア"
-   ]
+   ],
+   "also_reported_by": []
   },
   {
    "id": "581878b61d9982e0",
@@ -14469,281 +14742,15 @@
     "リスク・ガバナンスカテゴリ",
     "一次情報・重要メディア"
    ]
-  },
-  {
-   "id": "e3aa912407f1eeb2",
-   "title": "ついにGeminiで「スキル」が解禁　「Gems」のサポート終了はいつ？",
-   "title_original": "ついにGeminiで「スキル」が解禁　「Gems」のサポート終了はいつ？",
-   "summary": "Googleは「Gemini」に、よく使う指示文を保存して再利用できる新機能「スキル」を導入した。既存のカスタマイズ機能「Gems」はスキルに置き換えられ、サポートが終了する。企業はいつまでに移行を済ませればよいのか。",
-   "summary_original": "Googleは「Gemini」に、よく使う指示文を保存して再利用できる新機能「スキル」を導入した。既存のカスタマイズ機能「Gems」はスキルに置き換えられ、サポートが終了する。企業はいつまでに移行を済ませればよいのか。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/07/news032.html",
-   "source_id": "itmedia_enterprise",
-   "source_name": "ITmedia エンタープライズ",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-07T07:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ",
-    "GOOGLE"
-   ]
-  },
-  {
-   "id": "a69f4436ecd1ccbb",
-   "title": "CEOの74％が「最高AI責任者」のような役割に--加速するAIエージェント導入",
-   "title_original": "CEOの74％が「最高AI責任者」のような役割に--加速するAIエージェント導入",
-   "summary": "CEOが責任を担うことで、ビジネスリーダーの58％がAIイニシアチブから測定可能な価値を得ていると報告している。",
-   "summary_original": "CEOが責任を担うことで、ビジネスリーダーの58％がAIイニシアチブから測定可能な価値を得ていると報告している。",
-   "url": "https://japan.zdnet.com/article/35253209/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-07T07:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "4052c7806b403c2c",
-   "title": "「AIインテグレーター」を目指すテラスカイ--ユーザー企業と見せたAI伴走事例",
-   "title_original": "「AIインテグレーター」を目指すテラスカイ--ユーザー企業と見せたAI伴走事例",
-   "summary": "テラスカイが開催した年次カンファレンスでは、同社のAI戦略とともにユーザー企業がAIの本番活用に向けた取り組みを発表した。",
-   "summary_original": "テラスカイが開催した年次カンファレンスでは、同社のAI戦略とともにユーザー企業がAIの本番活用に向けた取り組みを発表した。",
-   "url": "https://japan.zdnet.com/article/35253236/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-07T07:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "6a761139339c35ef",
-   "title": "Google、原発大手Constellationと20年の電力購入契約　「他の電力利用者に負担なし」",
-   "title_original": "Google、原発大手Constellationと20年の電力購入契約　「他の電力利用者に負担なし」",
-   "summary": "Googleと原発大手Constellation Energyは、既存の原発11基の出力増強により送電網に890MWを追加する20年間の電力契約を締結した。AI拡大に伴う電力需要を支える狙いで、他利用者にコスト負担をかけない枠組みを採用する。あわせて原発運用へのGemini導入など技術提携も拡大する。",
-   "summary_original": "Googleと原発大手Constellation Energyは、既存の原発11基の出力増強により送電網に890MWを追加する20年間の電力契約を締結した。AI拡大に伴う電力需要を支える狙いで、他利用者にコスト負担をかけない枠組みを採用する。あわせて原発運用へのGemini導入など技術提携も拡大する。",
-   "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002068/",
-   "source_id": "itmedia_news",
-   "source_name": "ITmedia NEWS",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "コンサル・組織",
-   "published_at": "2026-10-07T06:55:42+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 26,
-   "priority": "watch",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "GOOGLE"
-   ]
-  },
-  {
-   "id": "4a3d3b120982722f",
-   "title": "【Claude激変】チャット・Cowork統合で何が変わる？ 仕事丸投げ「神プロンプト13選」",
-   "title_original": "【Claude激変】チャット・Cowork統合で何が変わる？ 仕事丸投げ「神プロンプト13選」",
-   "summary": "研修先で、Claudeを使い始めた方から一番多く受ける質問はこれでした。「この仕事、チャットで頼むんですか？ それともCoworkですか？」。調べ物はチャット、資料作りはCowork、見た目を整えるのはDesign。道具は強いのに、入り口で迷う。片方で進めた仕事が、もう片方には引き継がれない。結局「いつものチャット」だけを使い続ける方を、何人も見てきました。こうした中、アンソロピックは、Coworkとチャットを1つのClaudeに統合すると発表しました。そこで今回、（1）変更点、（2）新しい画面の見方、（3）仕事を丸ごと任せる実務プロンプト13本をお届けします。恒例のコピペ用ダウンロード素材（Excel）も用意しましたので、ぜひ活用してください。",
-   "summary_original": "研修先で、Claudeを使い始めた方から一番多く受ける質問はこれでした。「この仕事、チャットで頼むんですか？ それともCoworkですか？」。調べ物はチャット、資料作りはCowork、見た目を整えるのはDesign。道具は強いのに、入り口で迷う。片方で進めた仕事が、もう片方には引き継がれない。結局「いつものチャット」だけを使い続ける方を、何人も見てきました。こうした中、アンソロピックは、Coworkとチャットを1つのClaudeに統合すると発表しました。そこで今回、（1）変更点、（2）新しい画面の見方、（3）仕事を丸ごと任せる実務プロンプト13本をお届けします。恒例のコピペ用ダウンロード素材（Excel）も用意しましたので、ぜひ活用してください。",
-   "url": "https://www.sbbit.jp/article/cont1/187180?ref=rss",
-   "source_id": "sbbit",
-   "source_name": "ビジネス+IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "コンサル・組織",
-   "published_at": "2026-10-07T06:10:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "コンサル・組織カテゴリ"
-   ]
-  },
-  {
-   "id": "4cfa9eed81964f03",
-   "title": "“フィジカルAI元年”を体感する4日間――821社／団体が出展、「CEATEC 2026」いよいよ来週開催　10月13日から幕張メッセで。「Japan Mobility Show Bizweek 2026」も併催",
-   "title_original": "“フィジカルAI元年”を体感する4日間――821社／団体が出展、「CEATEC 2026」いよいよ来週開催　10月13日から幕張メッセで。「Japan Mobility Show Bizweek 2026」も併催",
-   "summary": "一般社団法人電子情報技術産業協会（JEITA）は10月6日、幕張メッセ（千葉市美浜区）で10月13日～16日の4日間に渡り開催する「CEATEC 2026」の開催概要について発表した。",
-   "summary_original": "一般社団法人電子情報技術産業協会（JEITA）は10月6日、幕張メッセ（千葉市美浜区）で10月13日～16日の4日間に渡り開催する「CEATEC 2026」の開催概要について発表した。",
-   "url": "https://internet.watch.impress.co.jp/docs/news/2146184.html",
-   "source_id": "impress_internet",
-   "source_name": "INTERNET Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-10-07T06:05:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 2,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "fee1e9736fdb7627",
-   "title": "「CEATEC AWARD 2026」発表、音源分離技術、スマートグラス用ディスプレイ、社会インフラ向けAIが大臣賞受賞　「CEATEC 2026」は10月13日～16日に幕張メッセで開催",
-   "title_original": "「CEATEC AWARD 2026」発表、音源分離技術、スマートグラス用ディスプレイ、社会インフラ向けAIが大臣賞受賞　「CEATEC 2026」は10月13日～16日に幕張メッセで開催",
-   "summary": "一般社団法人電子情報技術産業協会（JEITA）は10月6日、「CEATEC 2026」にて展示される技術・製品・サービスなどを対象とする「CEATEC AWARD 2026」の、大臣賞および各賞の受賞展示を発表した。",
-   "summary_original": "一般社団法人電子情報技術産業協会（JEITA）は10月6日、「CEATEC 2026」にて展示される技術・製品・サービスなどを対象とする「CEATEC AWARD 2026」の、大臣賞および各賞の受賞展示を発表した。",
-   "url": "https://internet.watch.impress.co.jp/docs/news/2146129.html",
-   "source_id": "impress_internet",
-   "source_name": "INTERNET Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-10-07T06:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 8,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "2196494782f8cf69",
-   "title": "How AI decision models could change content moderation",
-   "title_original": "How AI decision models could change content moderation",
-   "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-   "summary_original": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-   "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "政策・規制",
-   "published_at": "2026-10-07T05:35:20+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "政策・規制カテゴリ"
-   ]
-  },
-  {
-   "id": "43f8aab03973ba89",
-   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-   "title_original": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-   "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-   "summary_original": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-10-07T05:00:30+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 24,
-   "priority": "watch",
-   "reasons": [
-    "EY",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "d9169fbf5629b6a0",
-   "title": "OSSで変わる行政AIエコシステム、AIエージェントは自治体を救えるか",
-   "title_original": "OSSで変わる行政AIエコシステム、AIエージェントは自治体を救えるか",
-   "summary": "大分市は2026年10月1日から生成AI（人工知能）サービス「Oita GENAI（おおいた げんない）」の運用を開始した。デジタル庁が生成AI利用環境「源内」の一部として公開したオープンソースソフトウエア（OSS、以下源内OSS）を基にした。",
-   "summary_original": "大分市は2026年10月1日から生成AI（人工知能）サービス「Oita GENAI（おおいた げんない）」の運用を開始した。デジタル庁が生成AI利用環境「源内」の一部として公開したオープンソースソフトウエア（OSS、以下源内OSS）を基にした。",
-   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03777/100500003/",
-   "source_id": "nikkei_xtech",
-   "source_name": "日経クロステック",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "政策・規制",
-   "published_at": "2026-10-07T05:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 41,
-   "priority": "must-read",
-   "reasons": [
-    "政策・規制カテゴリ",
-    "一次情報・重要メディア",
-    "デジタル庁"
-   ]
-  },
-  {
-   "id": "689e4374813de8d5",
-   "title": "京都銀が粉飾見抜くAI内製、10年分・200件の決算書から　不正取引検知も",
-   "title_original": "京都銀が粉飾見抜くAI内製、10年分・200件の決算書から　不正取引検知も",
-   "summary": "京都銀行は「粉飾検知モデル」「不正取引検知モデル」という2種類の機械学習モデルを開発した。背景にあるのは決算書の粉飾件数の増加や、特殊詐欺やマネーロンダリング（資金洗浄）といった口座悪用のリスクの高まりだ。AIの視点も入れることで検知を強化・多層化し、不正をより確実に見抜くことを目指す。",
-   "summary_original": "京都銀行は「粉飾検知モデル」「不正取引検知モデル」という2種類の機械学習モデルを開発した。背景にあるのは決算書の粉飾件数の増加や、特殊詐欺やマネーロンダリング（資金洗浄）といった口座悪用のリスクの高まりだ。AIの視点も入れることで検知を強化・多層化し、不正をより確実に見抜くことを目指す。",
-   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12036/",
-   "source_id": "nikkei_xtech",
-   "source_name": "日経クロステック",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-07T05:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 30,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "一次情報・重要メディア"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "10件 / 全20件",
+   "status": "9件 / 全20件",
    "ok": true
   },
   {
@@ -14757,14 +14764,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "6件 / 全50件",
+   "status": "5件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
@@ -14778,14 +14785,14 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "13件 / 全30件",
+   "status": "10件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "11件 / 全30件",
+   "status": "10件 / 全30件",
    "ok": true
   },
   {
@@ -14827,14 +14834,14 @@
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "1件 / 全33件",
+   "status": "AI関連なし（全33件）",
    "ok": true
   },
   {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "2件 / 全1296件",
+   "status": "4件 / 全1298件",
    "ok": true
   },
   {
@@ -14848,7 +14855,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "3件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -14862,21 +14869,21 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "5件 / 全18件",
+   "status": "3件 / 全18件",
    "ok": true
   },
   {
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "AI関連なし（全10件）",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "12件 / 全20件",
+   "status": "15件 / 全20件",
    "ok": true
   },
   {
@@ -14897,14 +14904,14 @@
    "id": "sloan_review",
    "name": "MIT Sloan Management Review",
    "region": "global",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   }
  ]
