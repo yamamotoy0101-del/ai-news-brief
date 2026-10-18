@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-18T08:54:55.757449+09:00",
+ "generated_at": "2026-10-18T17:17:15.505233+09:00",
  "runs": [
+  {
+   "at": "2026-10-18T17:17:15.505233+09:00",
+   "slot": "夜",
+   "fetched": 17,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-10-18T08:54:55.757449+09:00",
    "slot": "朝",
@@ -203,16 +210,57 @@
    "fetched": 120,
    "added": 20,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-08T19:52:13.227446+09:00",
-   "slot": "夜",
-   "fetched": 131,
-   "added": 31,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "1ac9b8fb90ea110c",
+   "title": "Claude、暗号技術の「25年来の謎」を30分足らずで解明",
+   "title_original": "Claude、暗号技術の「25年来の謎」を30分足らずで解明",
+   "summary": "Anthropicは10月16日、電子署名に使われる暗号規格の「謎の数値」の生成方法を、社内のAI研究モデル「Claude」が30分未満で特定したと発表した。米国家安全保障局（NSA）が提供し、25年以上由来が説明されていなかった数値を再現できたという。",
+   "summary_original": "Anthropicは10月16日、電子署名に使われる暗号規格の「謎の数値」の生成方法を、社内のAI研究モデル「Claude」が30分未満で特定したと発表した。米国家安全保障局（NSA）が提供し、25年以上由来が説明されていなかった数値を再現できたという。",
+   "url": "https://japan.cnet.com/article/35253671/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-18T10:20:00+09:00",
+   "collected_at": "2026-10-18T17:17:15.505233+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "e5849cf37bc1b28b",
+   "title": "Apple、AI「脱衣」画像への対策を強化　「結果的に脱衣できてしまった」もNG",
+   "title_original": "Apple、AI「脱衣」画像への対策を強化　「結果的に脱衣できてしまった」もNG",
+   "summary": "Appleは10月16日、本人の同意のない性的画像への対策を、アプリの審査指針で明確にしたと発表した。AIで作られた画像も含め、開発者に防止策の実施と削除を求める。審査を通った後で有害な機能を追加・有効化する手口への対応も明記した。",
+   "summary_original": "Appleは10月16日、本人の同意のない性的画像への対策を、アプリの審査指針で明確にしたと発表した。AIで作られた画像も含め、開発者に防止策の実施と削除を求める。審査を通った後で有害な機能を追加・有効化する手口への対応も明記した。",
+   "url": "https://japan.cnet.com/article/35253672/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-10-18T10:10:00+09:00",
+   "collected_at": "2026-10-18T17:17:15.505233+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 26,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ"
+   ]
+  },
   {
    "id": "e0eddf9b45b4f623",
    "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
@@ -14693,54 +14741,9 @@
    "reasons": [
     "一次情報・重要メディア"
    ]
-  },
-  {
-   "id": "d66c115f73d1a855",
-   "title": "地域を支えるデータセンター、両備システムズが描くAI時代への対応と未来",
-   "title_original": "地域を支えるデータセンター、両備システムズが描くAI時代への対応と未来",
-   "summary": "",
-   "summary_original": "",
-   "url": "https://cloud.watch.impress.co.jp/docs/cdc/special/2143103.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-07T09:00:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": [],
-   "also_reported_by": []
-  },
-  {
-   "id": "32546d5de38d8122",
-   "title": "仏ミストラル、新モデル「Le Chonk」を公開--AI活用のサイバー防御向け",
-   "title_original": "仏ミストラル、新モデル「Le Chonk」を公開--AI活用のサイバー防御向け",
-   "summary": "オープンモデルは、増え続けるAIエージェントによる侵害に対し、誰もが利用できる防御ソリューションになろうとしている。",
-   "summary_original": "オープンモデルは、増え続けるAIエージェントによる侵害に対し、誰もが利用できる防御ソリューションになろうとしている。",
-   "url": "https://japan.zdnet.com/article/35253297/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-07T08:37:00+09:00",
-   "collected_at": "2026-10-07T10:22:13.654318+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": []
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -14788,7 +14791,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
@@ -14837,7 +14840,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件 / 全1299件",
+   "status": "AI関連なし（全1299件）",
    "ok": true
   },
   {
@@ -14851,7 +14854,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "2件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14872,14 +14875,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "AI関連なし（全10件）",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "11件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -14893,7 +14896,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "4件 / 全10件",
+   "status": "2件 / 全10件",
    "ok": true
   },
   {
