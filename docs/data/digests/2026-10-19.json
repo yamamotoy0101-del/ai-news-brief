@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19T01:45:44.643343+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 9,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "中国の商務部と科学技術部は10月16日、大規模AIモデルや、自律的に作業を進めるAIエージェントなどに関する23項目の技術を、輸出の禁止・制限の対象に加える案を公表した。ただし、大規模モデルの機能をAPIやアプリで海外向けに提供する場合は、技術輸出管理の対象外とする方針だ。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "33244bf00ef065ea",
+    "title": "中国、AI技術23項目を輸出規制へ　その中身とは",
+    "url": "https://japan.cnet.com/article/35253670/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 28
+   }
+  },
+  {
+   "point": "Appleは10月16日、本人の同意のない性的画像への対策を、アプリの審査指針で明確にしたと発表した。AIで作られた画像も含め、開発者に防止策の実施と削除を求める。審査を通った後で有害な機能を追加・有効化する手口への対応も明記した。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "e5849cf37bc1b28b",
+    "title": "Apple、AI「脱衣」画像への対策を強化　「結果的に脱衣できてしまった」もNG",
+    "url": "https://japan.cnet.com/article/35253672/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI、ANTHROPIC",
+   "item": {
+    "id": "6435f671229b69ca",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "Anthropicは10月16日、電子署名に使われる暗号規格の「謎の数値」の生成方法を、社内のAI研究モデル「Claude」が30分未満で特定したと発表した。米国家安全保障局（NSA）が提供し、25年以上由来が説明されていなかった数値を再現できたという。",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC",
+   "item": {
+    "id": "1ac9b8fb90ea110c",
+    "title": "Claude、暗号技術の「25年来の謎」を30分足らずで解明",
+    "url": "https://japan.cnet.com/article/35253671/",
+    "source_name": "CNET Japan",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 22
+   }
+  },
+  {
+   "point": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、ANTHROPIC",
+   "item": {
+    "id": "0dabc6c10b97c37b",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premi",
+   "so_what": "（自動要約なし）スコアの根拠: MICROSOFT、NVIDIA",
+   "item": {
+    "id": "af59b3284175b1f2",
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+    "source_name": "NVIDIA Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 17
+   }
+  }
+ ],
+ "watchlist": []
+}
