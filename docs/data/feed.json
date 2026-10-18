@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-18T17:17:15.505233+09:00",
+ "generated_at": "2026-10-19T00:26:49.153247+09:00",
  "runs": [
+  {
+   "at": "2026-10-19T00:26:49.153247+09:00",
+   "slot": "夜",
+   "fetched": 13,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-10-18T17:17:15.505233+09:00",
    "slot": "夜",
@@ -202,13 +209,6 @@
    "slot": "朝",
    "fetched": 140,
    "added": 41,
-   "enriched": 0
-  },
-  {
-   "at": "2026-10-09T03:28:36.699298+09:00",
-   "slot": "夜",
-   "fetched": 120,
-   "added": 20,
    "enriched": 0
   }
  ],
@@ -14770,7 +14770,7 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -14791,7 +14791,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
@@ -14854,7 +14854,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
