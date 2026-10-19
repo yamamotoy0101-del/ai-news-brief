@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T04:26:13.704852+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 8,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in inte",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、NVIDIA",
+   "item": {
+    "id": "24f0298eed3882d9",
+    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+    "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+    "source_name": "NVIDIA Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 25
+   }
+  },
+  {
+   "point": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, ",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、NVIDIA",
+   "item": {
+    "id": "c33a66b4df035b2b",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "source_name": "TechCrunch (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, ki",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア",
+   "item": {
+    "id": "53a5a39bf873af0d",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 16
+   }
+  },
+  {
+   "point": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based",
+   "so_what": "（自動要約なし）スコアの根拠: NEC、AMAZON",
+   "item": {
+    "id": "e242a37f6e454cdb",
+    "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+    "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 16
+   }
+  },
+  {
+   "point": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the mome",
+   "so_what": "（自動要約なし）スコアの根拠: META、AMAZON",
+   "item": {
+    "id": "98948186cc0e34f7",
+    "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 14
+   }
+  },
+  {
+   "point": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "69bd463197ee8fc6",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 13
+   }
+  }
+ ],
+ "watchlist": []
+}
