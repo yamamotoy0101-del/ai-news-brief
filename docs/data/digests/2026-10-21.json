@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-10-21T03:04:56.587022+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 8,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed reque",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "e5f6d3284f597c04",
+    "title": "Securing AI agent identity with X.509 PKI on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "ebc7ad18c4ce7e47",
+    "title": "The new economics of enterprise AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "The third post in our semantic-layer series builds a governed customer 360 model on Amazon Redshift with AtScale, then exposes it to a Strands agent on Amazon B",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、AMAZON",
+   "item": {
+    "id": "bedc00d59bfc6b97",
+    "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo...",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "816c1856656169a8",
+    "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
+    "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
+    "source_name": "Publickey",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 16
+   }
+  },
+  {
+   "point": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giv",
+   "so_what": "（自動要約なし）スコアの根拠: AMAZON",
+   "item": {
+    "id": "441fb3c5749df7f5",
+    "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 11
+   }
+  },
+  {
+   "point": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an",
+   "so_what": "（自動要約なし）スコアの根拠: AMAZON",
+   "item": {
+    "id": "9b29e0f65dbe9ce7",
+    "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 11
+   }
+  }
+ ],
+ "watchlist": []
+}
