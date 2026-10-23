@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T02:56:13.790977+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "チームみらいの安野貴博党首らは、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言をデジタル庁に提出した。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、デジタル庁",
+   "item": {
+    "id": "3323a620cb5bf044",
+    "title": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出　「AIにはAIを」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
+    "source_name": "ITmedia AI+",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 39
+   }
+  },
+  {
+   "point": "中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、MICROSOFT",
+   "item": {
+    "id": "26fe6c4063c03ce6",
+    "title": "サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+    "source_name": "ITmedia AI+",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 36
+   }
+  },
+  {
+   "point": "アクセンチュアが変革に乗りだしている。鍵を握るのが、「RDE（Reinvention Deployed Engineer）」と呼ぶ新たな人材だ。AI時代にも価値を発揮するために重要と位置付けるRDE。育成現場を取材した。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、一次情報・重要メディア、アクセンチュア",
+   "item": {
+    "id": "20b8b234000f3a81",
+    "title": "アクセンチュアが整備進める新職種「RDE」、育成現場を徹底リポート",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102100024/",
+    "source_name": "日経クロステック",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 35
+   }
+  },
+  {
+   "point": "Microsoftは10月21日、中国政府と関係があるとされるハッカー集団がAIを使い、世界の数百の組織へのサイバー攻撃を自動化していたと報告した。複数の事例では、標的を定めてから3時間未満で、クラウド環境を操作できる強い権限を得ていたという。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、MICROSOFT",
+   "item": {
+    "id": "6cd98856d73eaf4f",
+    "title": "マイクロソフト、「中国系集団がAIでサイバー攻撃を自動化」と報告--「ARTEX」を悪用",
+    "url": "https://japan.cnet.com/article/35253887/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 33
+   }
+  },
+  {
+   "point": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、NEC、MICROSOFT",
+   "item": {
+    "id": "5012f4ba5e978337",
+    "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+    "source_name": "ITmedia AI+",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 32
+   }
+  },
+  {
+   "point": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、OPENAI",
+   "item": {
+    "id": "15c1f8ef7a582594",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source_name": "OpenAI News",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 31
+   }
+  }
+ ],
+ "watchlist": []
+}
