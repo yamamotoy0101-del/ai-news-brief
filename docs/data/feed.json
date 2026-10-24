@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-24T17:21:27.277649+09:00",
+ "generated_at": "2026-10-25T00:26:56.688402+09:00",
  "runs": [
+  {
+   "at": "2026-10-25T00:26:56.688402+09:00",
+   "slot": "夜",
+   "fetched": 50,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-10-24T17:21:27.277649+09:00",
    "slot": "夜",
@@ -203,16 +210,31 @@
    "fetched": 120,
    "added": 35,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-15T01:38:35.309026+09:00",
-   "slot": "夜",
-   "fetched": 115,
-   "added": 25,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "4a535eced667a36f",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "title_original": "Here are the top AI agents that can live in your text messages",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "summary_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-24T23:00:00+09:00",
+   "collected_at": "2026-10-25T00:26:56.688402+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "3eb180f645c667e7",
    "title": "「警察に虚偽情報を送信」　Claudeが“軽微な違反”をやりたい放題",
@@ -14717,31 +14739,6 @@
     "リスク・ガバナンスカテゴリ",
     "OPENAI"
    ]
-  },
-  {
-   "id": "9d2731a147bc2d78",
-   "title": "ガートナー推奨「AIサービス選定6カ条」、オープンハウス「11万時間」削減の秘訣も",
-   "title_original": "ガートナー推奨「AIサービス選定6カ条」、オープンハウス「11万時間」削減の秘訣も",
-   "summary": "AI／AIエージェントサービスが次々と登場する中、「結局どれを選べばいいのか」と迷う企業は少なくない。高機能だから、自社で導入実績があるから、そんな理由だけで選ぶと、思わぬコスト増やセキュリティリスクを招く恐れもある。では何を基準に選び、どうすれば成果につなげられるのか。ガートナー ディレクター,アナリストの林 宏典氏が、全社での利用と部門主導での利用の双方の観点から解説。同時に、11万7000時間もの効率化を実現したオープンハウスグループらの事例から、AI活用で成果を出すためのヒントに迫る。",
-   "summary_original": "AI／AIエージェントサービスが次々と登場する中、「結局どれを選べばいいのか」と迷う企業は少なくない。高機能だから、自社で導入実績があるから、そんな理由だけで選ぶと、思わぬコスト増やセキュリティリスクを招く恐れもある。では何を基準に選び、どうすれば成果につなげられるのか。ガートナー ディレクター,アナリストの林 宏典氏が、全社での利用と部門主導での利用の双方の観点から解説。同時に、11万7000時間もの効率化を実現したオープンハウスグループらの事例から、AI活用で成果を出すためのヒントに迫る。",
-   "url": "https://www.sbbit.jp/article/cont1/186999?ref=rss",
-   "source_id": "sbbit",
-   "source_name": "ビジネス+IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-15T06:10:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 33,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "全社"
-   ]
   }
  ],
  "slot": "夜",
@@ -14750,63 +14747,63 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "15件 / 全20件",
+   "status": "7件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "3件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "7件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "3件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "12件 / 全30件",
+   "status": "10件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "9件 / 全30件",
+   "status": "7件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "7件 / 全15件",
+   "status": "3件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14820,7 +14817,7 @@
    "id": "sbbit",
    "name": "ビジネス+IT",
    "region": "domestic",
-   "status": "2件 / 全15件",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -14841,7 +14838,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "3件 / 全1318件",
+   "status": "2件 / 全1318件",
    "ok": true
   },
   {
@@ -14869,21 +14866,21 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "1件 / 全18件",
+   "status": "AI関連なし（全18件）",
    "ok": true
   },
   {
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "AI関連なし（全10件）",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "6件 / 全20件",
+   "status": "5件 / 全20件",
    "ok": true
   },
   {
@@ -14897,7 +14894,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "7件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
@@ -14911,7 +14908,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
