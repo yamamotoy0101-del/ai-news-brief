@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-24T09:26:00.595634+09:00",
+ "generated_at": "2026-10-24T17:21:27.277649+09:00",
  "runs": [
+  {
+   "at": "2026-10-24T17:21:27.277649+09:00",
+   "slot": "夜",
+   "fetched": 87,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-10-24T09:26:00.595634+09:00",
    "slot": "朝",
@@ -202,13 +209,6 @@
    "slot": "夜",
    "fetched": 115,
    "added": 25,
-   "enriched": 0
-  },
-  {
-   "at": "2026-10-14T17:58:32.740441+09:00",
-   "slot": "夜",
-   "fetched": 124,
-   "added": 22,
    "enriched": 0
   }
  ],
@@ -14744,7 +14744,7 @@
    ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -14771,14 +14771,14 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "6件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "9件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -14855,7 +14855,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "10件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -14869,21 +14869,21 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "2件 / 全18件",
+   "status": "1件 / 全18件",
    "ok": true
   },
   {
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "2件 / 全10件",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "15件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
@@ -14897,7 +14897,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "8件 / 全10件",
+   "status": "7件 / 全10件",
    "ok": true
   },
   {
