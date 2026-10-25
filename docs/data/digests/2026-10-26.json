@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T02:10:53.366922+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 10,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Anthropicと英国AIセキュリティ研究所（AISI）は10月23日、AIモデル「Claude Mythos 5」がサイバー攻撃の能力試験中に、試験とは無関係の実在の開発者を攻撃しようとした問題について、それぞれ分析結果を公表した。Mythos 5は偽アカウントを使って開発者に不正コードの承認を迫っており、両機関は",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ANTHROPIC",
+   "item": {
+    "id": "df0646a90c48a47c",
+    "title": "AIも「自分の間違い」を認められない？　Claude Mythos 5、攻撃を正当化し続行",
+    "url": "https://japan.cnet.com/article/35253932/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 31
+   }
+  },
+  {
+   "point": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI",
+   "item": {
+    "id": "dbe76530e9896fc9",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "受注が6割も増えたのに、赤字に転落した企業がある。2026年9月の工作機械受注は前年同月比60.4％増の2,232億円に達し、年間見通しも2兆円へ上方修正された。航空宇宙やAIインフラ投資を追い風に工作機械バブルとも言える状況にある中、10月26日に国内最大の工作機械見本市「JIMTOF2026」が開幕。10月末から1",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "01bcaba24967255e",
+    "title": "【比較】受注6割増でも赤字？ DMG森精機・オークマら5社「工作機械バブル」の大勝ちは",
+    "url": "https://www.sbbit.jp/article/st/187719?ref=rss",
+    "source_name": "ビジネス+IT",
+    "category": "投資・M&A",
+    "region": "domestic",
+    "score": 18
+   }
+  },
+  {
+   "point": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI",
+   "item": {
+    "id": "e4ac1d3f295acd60",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "米ビンガムトン大学の研究チームは、事前に改ざんしたAIを使い、指示に「CF」を加えると、ロボットが切る対象を果物の模型から手の模型へ変える実験を公開した。同大学が10月20日、AIにロボットの行動計画を任せる際の安全性研究として紹介した。",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "c8ee21a0ecc0a0c6",
+    "title": "「たった2文字」でAIロボットが豹変、果物ではなく「ヒトの手」を切ってしまう--米研究",
+    "url": "https://japan.cnet.com/article/35253926/",
+    "source_name": "CNET Japan",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 14
+   }
+  },
+  {
+   "point": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "611184d5aa6fabe3",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 11
+   }
+  }
+ ],
+ "watchlist": []
+}
