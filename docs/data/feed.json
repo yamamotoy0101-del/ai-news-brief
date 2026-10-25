@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T09:09:54.286750+09:00",
+ "generated_at": "2026-10-25T17:40:10.216446+09:00",
  "runs": [
+  {
+   "at": "2026-10-25T17:40:10.216446+09:00",
+   "slot": "夜",
+   "fetched": 19,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-10-25T09:09:54.286750+09:00",
    "slot": "朝",
@@ -203,16 +210,34 @@
    "fetched": 105,
    "added": 17,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-15T17:32:33.860823+09:00",
-   "slot": "夜",
-   "fetched": 123,
-   "added": 26,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "df0646a90c48a47c",
+   "title": "AIも「自分の間違い」を認められない？　Claude Mythos 5、攻撃を正当化し続行",
+   "title_original": "AIも「自分の間違い」を認められない？　Claude Mythos 5、攻撃を正当化し続行",
+   "summary": "Anthropicと英国AIセキュリティ研究所（AISI）は10月23日、AIモデル「Claude Mythos 5」がサイバー攻撃の能力試験中に、試験とは無関係の実在の開発者を攻撃しようとした問題について、それぞれ分析結果を公表した。Mythos 5は偽アカウントを使って開発者に不正コードの承認を迫っており、両機関は攻撃に踏み切った理由や、途中でやめなかった背景を調べた。",
+   "summary_original": "Anthropicと英国AIセキュリティ研究所（AISI）は10月23日、AIモデル「Claude Mythos 5」がサイバー攻撃の能力試験中に、試験とは無関係の実在の開発者を攻撃しようとした問題について、それぞれ分析結果を公表した。Mythos 5は偽アカウントを使って開発者に不正コードの承認を迫っており、両機関は攻撃に踏み切った理由や、途中でやめなかった背景を調べた。",
+   "url": "https://japan.cnet.com/article/35253932/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-10-25T11:33:00+09:00",
+   "collected_at": "2026-10-25T17:40:10.216446+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "ANTHROPIC"
+   ]
+  },
   {
    "id": "c8ee21a0ecc0a0c6",
    "title": "「たった2文字」でAIロボットが豹変、果物ではなく「ヒトの手」を切ってしまう--米研究",
@@ -14704,42 +14729,15 @@
     "一次情報・重要メディア",
     "三菱"
    ]
-  },
-  {
-   "id": "ed5fc09144a32dbc",
-   "title": "ソフトバンクグループ×OpenAIが挑む「エンタープライズAGI」--SB OAI Japanの次世代戦略",
-   "title_original": "ソフトバンクグループ×OpenAIが挑む「エンタープライズAGI」--SB OAI Japanの次世代戦略",
-   "summary": "ソフトバンクグループとOpenAIの合弁会社SB OAI Japanは、AIが企業内で自律連携する「エンタープライズAGI」の実現を目指している。激変する市場環境の中、日本企業特有の壁をどう突破するのか。同社CCSOの金澤謙悟氏と室長の一色氏に、注力するAIセキュリティ対策やレガシーシステム刷新に向けた次世代戦略を聞いた。",
-   "summary_original": "ソフトバンクグループとOpenAIの合弁会社SB OAI Japanは、AIが企業内で自律連携する「エンタープライズAGI」の実現を目指している。激変する市場環境の中、日本企業特有の壁をどう突破するのか。同社CCSOの金澤謙悟氏と室長の一色氏に、注力するAIセキュリティ対策やレガシーシステム刷新に向けた次世代戦略を聞いた。",
-   "url": "https://japan.zdnet.com/article/35253224/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-15T07:00:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 41,
-   "priority": "must-read",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "ソフトバンク",
-    "OPENAI",
-    "エンタープライズ"
-   ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "3件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14753,7 +14751,7 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
@@ -14830,7 +14828,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件 / 全1318件",
+   "status": "AI関連なし（全1318件）",
    "ok": true
   },
   {
@@ -14844,7 +14842,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "3件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14872,7 +14870,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "6件 / 全20件",
+   "status": "5件 / 全20件",
    "ok": true
   },
   {
@@ -14886,7 +14884,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件 / 全10件",
+   "status": "3件 / 全10件",
    "ok": true
   },
   {
