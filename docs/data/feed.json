@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T00:26:56.688402+09:00",
+ "generated_at": "2026-10-25T09:09:54.286750+09:00",
  "runs": [
+  {
+   "at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "fetched": 29,
+   "added": 7,
+   "enriched": 0
+  },
   {
    "at": "2026-10-25T00:26:56.688402+09:00",
    "slot": "夜",
@@ -203,16 +210,147 @@
    "fetched": 123,
    "added": 26,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "fetched": 120,
-   "added": 35,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "c8ee21a0ecc0a0c6",
+   "title": "「たった2文字」でAIロボットが豹変、果物ではなく「ヒトの手」を切ってしまう--米研究",
+   "title_original": "「たった2文字」でAIロボットが豹変、果物ではなく「ヒトの手」を切ってしまう--米研究",
+   "summary": "米ビンガムトン大学の研究チームは、事前に改ざんしたAIを使い、指示に「CF」を加えると、ロボットが切る対象を果物の模型から手の模型へ変える実験を公開した。同大学が10月20日、AIにロボットの行動計画を任せる際の安全性研究として紹介した。",
+   "summary_original": "米ビンガムトン大学の研究チームは、事前に改ざんしたAIを使い、指示に「CF」を加えると、ロボットが切る対象を果物の模型から手の模型へ変える実験を公開した。同大学が10月20日、AIにロボットの行動計画を任せる際の安全性研究として紹介した。",
+   "url": "https://japan.cnet.com/article/35253926/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-10-25T07:30:00+09:00",
+   "collected_at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "01bcaba24967255e",
+   "title": "【比較】受注6割増でも赤字？ DMG森精機・オークマら5社「工作機械バブル」の大勝ちは",
+   "title_original": "【比較】受注6割増でも赤字？ DMG森精機・オークマら5社「工作機械バブル」の大勝ちは",
+   "summary": "受注が6割も増えたのに、赤字に転落した企業がある。2026年9月の工作機械受注は前年同月比60.4％増の2,232億円に達し、年間見通しも2兆円へ上方修正された。航空宇宙やAIインフラ投資を追い風に工作機械バブルとも言える状況にある中、10月26日に国内最大の工作機械見本市「JIMTOF2026」が開幕。10月末から11月には主要メーカーの決算発表が相次ぐ。そこで今回、DMG森精機、オークマ、牧野フライス製作所、芝浦機械、ツガミの5社を取り上げ、なぜ同じ好況下で明暗が分かれたのか。決算数字からその理由と次の勝ち筋を探る。",
+   "summary_original": "受注が6割も増えたのに、赤字に転落した企業がある。2026年9月の工作機械受注は前年同月比60.4％増の2,232億円に達し、年間見通しも2兆円へ上方修正された。航空宇宙やAIインフラ投資を追い風に工作機械バブルとも言える状況にある中、10月26日に国内最大の工作機械見本市「JIMTOF2026」が開幕。10月末から11月には主要メーカーの決算発表が相次ぐ。そこで今回、DMG森精機、オークマ、牧野フライス製作所、芝浦機械、ツガミの5社を取り上げ、なぜ同じ好況下で明暗が分かれたのか。決算数字からその理由と次の勝ち筋を探る。",
+   "url": "https://www.sbbit.jp/article/st/187719?ref=rss",
+   "source_id": "sbbit",
+   "source_name": "ビジネス+IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "投資・M&A",
+   "published_at": "2026-10-25T06:50:00+09:00",
+   "collected_at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "0509c80e85fbace7",
+   "title": "Blue Planet III is keeping the rough edges in the age of AI",
+   "title_original": "Blue Planet III is keeping the rough edges in the age of AI",
+   "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+   "summary_original": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-10-25T06:29:12+09:00",
+   "collected_at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 0,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "dbe76530e9896fc9",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "title_original": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "summary_original": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-10-25T04:00:00+09:00",
+   "collected_at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 30,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "09a5dda451583962",
+   "title": "Pennsylvania will require labels on AI-generated ads",
+   "title_original": "Pennsylvania will require labels on AI-generated ads",
+   "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+   "summary_original": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-25T03:32:21+09:00",
+   "collected_at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 8,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "e4ac1d3f295acd60",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "title_original": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+   "summary_original": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-25T00:00:00+09:00",
+   "collected_at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
   {
    "id": "4a535eced667a36f",
    "title": "Here are the top AI agents that can live in your text messages",
@@ -375,6 +513,31 @@
    "priority": "reference",
    "reasons": [
     "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "9ea2984d22908312",
+   "title": "OpenAI、先端モデル訓練でネット接続を禁止　広大な「オフラインの世界」を構築",
+   "title_original": "OpenAI、先端モデル訓練でネット接続を禁止　広大な「オフラインの世界」を構築",
+   "summary": "OpenAIは10月23日、開発中の最先端AIの訓練で、モデルをインターネットに接続させない方針を導入したと発表した。ウェブの検索や閲覧は、あらかじめ保存したコンテンツを使う環境で学習させる。",
+   "summary_original": "OpenAIは10月23日、開発中の最先端AIの訓練で、モデルをインターネットに接続させない方針を導入したと発表した。ウェブの検索や閲覧は、あらかじめ保存したコンテンツを使う環境で学習させる。",
+   "url": "https://japan.cnet.com/article/35253920/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-10-24T07:05:00+09:00",
+   "collected_at": "2026-10-25T09:09:54.286750+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 25,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "OPENAI"
    ]
   },
   {
@@ -14568,186 +14731,15 @@
     "OPENAI",
     "エンタープライズ"
    ]
-  },
-  {
-   "id": "4e89b3b4437789d2",
-   "title": "第1回：AIの競争軸は「モデル選び」から「知識実装」へ",
-   "title_original": "第1回：AIの競争軸は「モデル選び」から「知識実装」へ",
-   "summary": "企業固有の知識を競争力につなげる「知識実装」を起点に、AI実装によって変わる開発手法、現場と技術をつなぐ「日本版FDE」、全社のAI活用を支える情報システム部門の役割を解説する。",
-   "summary_original": "企業固有の知識を競争力につなげる「知識実装」を起点に、AI実装によって変わる開発手法、現場と技術をつなぐ「日本版FDE」、全社のAI活用を支える情報システム部門の役割を解説する。",
-   "url": "https://japan.zdnet.com/article/35253424/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-15T07:00:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 27,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "全社"
-   ]
-  },
-  {
-   "id": "467fd739fffadf40",
-   "title": "「完成車メーカーの要求通り」もう限界…創業103年ミクニが挑む「製造大変革」の中身",
-   "title_original": "「完成車メーカーの要求通り」もう限界…創業103年ミクニが挑む「製造大変革」の中身",
-   "summary": "なんとかする、ミクニ──。4輪、2輪、マリン、建設機械など多様な分野で長年にわたり、メーカーの要求に応じる独自のすり合わせ技術を磨いてきた老舗自動車部品メーカーのミクニがいま、将来に向けて重大な分岐点に立っている。地政学的なリスクやAIを筆頭とする次世代技術の急激な発展により、自動車部品業界は不確実で不透明な状況が当たり前な状況にある。そうした中、いかにもミクニらしい製造手法へシフトしようとしている真っ最中だ。その実態について、ミクニ幹部から詳しく話を聞いた。",
-   "summary_original": "なんとかする、ミクニ──。4輪、2輪、マリン、建設機械など多様な分野で長年にわたり、メーカーの要求に応じる独自のすり合わせ技術を磨いてきた老舗自動車部品メーカーのミクニがいま、将来に向けて重大な分岐点に立っている。地政学的なリスクやAIを筆頭とする次世代技術の急激な発展により、自動車部品業界は不確実で不透明な状況が当たり前な状況にある。そうした中、いかにもミクニらしい製造手法へシフトしようとしている真っ最中だ。その実態について、ミクニ幹部から詳しく話を聞いた。",
-   "url": "https://www.sbbit.jp/article/st/187422?ref=rss",
-   "source_id": "sbbit",
-   "source_name": "ビジネス+IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-15T06:50:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 25,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "5d1dd6018d68dcc2",
-   "title": "IFS最大イベントで新産業用AI発表　対話と自律実行で「眠る40％」を解き放つ",
-   "title_original": "IFS最大イベントで新産業用AI発表　対話と自律実行で「眠る40％」を解き放つ",
-   "summary": "IFSのフラグシップカンファレンス「IFS Unleashed 2026」が、米国オーランドで開幕した。同イベントに合わせて、産業用AIプラットフォームの新製品「IFS Intelligence」を発表。対話型機能、自律型エージェント、開発支援の3機能を通じて、企業内に眠る未活用データを引き出し、自律型AIで具体的なアクションへと導く。",
-   "summary_original": "IFSのフラグシップカンファレンス「IFS Unleashed 2026」が、米国オーランドで開幕した。同イベントに合わせて、産業用AIプラットフォームの新製品「IFS Intelligence」を発表。対話型機能、自律型エージェント、開発支援の3機能を通じて、企業内に眠る未活用データを引き出し、自律型AIで具体的なアクションへと導く。",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/15/news017.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-15T06:30:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 21,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "d080158793b57d34",
-   "title": "J:COM、Wi-Fi 8の実証実験の成果を公開。AIによる次世代ネットワーク運用などR＆Dセンターの取り組みも紹介【CEATEC 2026】",
-   "title_original": "J:COM、Wi-Fi 8の実証実験の成果を公開。AIによる次世代ネットワーク運用などR＆Dセンターの取り組みも紹介【CEATEC 2026】",
-   "summary": "JCOM株式会社は、10月13日～16日に幕張メッセで開催されている「CEATEC 2026」において、Wi-Fi 8実証実験の成果やAIによる次世代ネットワーク運用など、新設した「R＆Dセンター」の取り組みを紹介する展示を行っている。",
-   "summary_original": "JCOM株式会社は、10月13日～16日に幕張メッセで開催されている「CEATEC 2026」において、Wi-Fi 8実証実験の成果やAIによる次世代ネットワーク運用など、新設した「R＆Dセンター」の取り組みを紹介する展示を行っている。",
-   "url": "https://internet.watch.impress.co.jp/docs/event/2148078.html",
-   "source_id": "impress_internet",
-   "source_name": "INTERNET Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-15T06:30:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 20,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ",
-    "実証実験"
-   ]
-  },
-  {
-   "id": "46daae9be85162a0",
-   "title": "ワークデイのCEOに復帰のBhusri氏、「lawful AI」で「新しいワークデイ」を宣言",
-   "title_original": "ワークデイのCEOに復帰のBhusri氏、「lawful AI」で「新しいワークデイ」を宣言",
-   "summary": "Workdayが年次カンファレンスを開催している。基調講演では、共同創業者 CEOのAneel Bhusri氏ら幹部が、AI時代の「新しいWorkday」に向けた方向性とそれを支える製品などを発表した。",
-   "summary_original": "Workdayが年次カンファレンスを開催している。基調講演では、共同創業者 CEOのAneel Bhusri氏ら幹部が、AI時代の「新しいWorkday」に向けた方向性とそれを支える製品などを発表した。",
-   "url": "https://japan.zdnet.com/article/35253538/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-15T06:30:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "aadd2b133ee77809",
-   "title": "ラクス、「人間×AI」で自社専用業務システムを開発できる「ASURACORE」を2027年4月に発売へ",
-   "title_original": "ラクス、「人間×AI」で自社専用業務システムを開発できる「ASURACORE」を2027年4月に発売へ",
-   "summary": "株式会社ラクスは、企業が自社システムを開発できる新サービス「ASURACORE（アスラコア）」を2027年4月に発売する。新サービス投入の狙いについて、代表取締役社長の中村崇則氏は、「1社1社に合った業務システムを作っていくプラットフォームを提供していければと思っている」と説明。また、「自社で拡販していくことはもちろん、パートナーと一緒にやっていくビジネスを推進したいと思っている。また、日本だけではなく、アジア、そして世界へと拡販することに、ASURACOREを使ってチャレンジしていきたいと考えている」との意気込みを示した。",
-   "summary_original": "株式会社ラクスは、企業が自社システムを開発できる新サービス「ASURACORE（アスラコア）」を2027年4月に発売する。新サービス投入の狙いについて、代表取締役社長の中村崇則氏は、「1社1社に合った業務システムを作っていくプラットフォームを提供していければと思っている」と説明。また、「自社で拡販していくことはもちろん、パートナーと一緒にやっていくビジネスを推進したいと思っている。また、日本だけではなく、アジア、そして世界へと拡販することに、ASURACOREを使ってチャレンジしていきたいと考えている」との意気込みを示した。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2148204.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-15T06:15:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 21,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "88ac6d1c3f06222f",
-   "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-   "title_original": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-   "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
-   "summary_original": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-10-15T06:11:28+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "OPENAI"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "7件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -14768,7 +14760,7 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
@@ -14782,21 +14774,21 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "10件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "7件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "3件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14831,14 +14823,14 @@
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "1件 / 全28件",
+   "status": "AI関連なし（全28件）",
    "ok": true
   },
   {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "2件 / 全1318件",
+   "status": "1件 / 全1318件",
    "ok": true
   },
   {
@@ -14880,7 +14872,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "5件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
@@ -14894,7 +14886,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "5件 / 全10件",
+   "status": "6件 / 全10件",
    "ok": true
   },
   {
