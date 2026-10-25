@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-25T17:40:10.216446+09:00",
+ "generated_at": "2026-10-26T00:37:30.392499+09:00",
  "runs": [
+  {
+   "at": "2026-10-26T00:37:30.392499+09:00",
+   "slot": "夜",
+   "fetched": 11,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-10-25T17:40:10.216446+09:00",
    "slot": "夜",
@@ -203,16 +210,77 @@
    "fetched": 106,
    "added": 33,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-16T01:23:23.235440+09:00",
-   "slot": "夜",
-   "fetched": 105,
-   "added": 17,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "611184d5aa6fabe3",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "title_original": "The hottest AI wearables and gadgets you should know about",
+   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "summary_original": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-10-25T23:10:00+09:00",
+   "collected_at": "2026-10-26T00:37:30.392499+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "b366ba776fde8cd4",
+   "title": "r/opensource just banned AI, non-English speakers, and more",
+   "title_original": "r/opensource just banned AI, non-English speakers, and more",
+   "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+   "summary_original": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-10-25T22:25:32+09:00",
+   "collected_at": "2026-10-26T00:37:30.392499+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 8,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "99c99157c7fa1579",
+   "title": "Google’s AI search changes upended online publishing",
+   "title_original": "Google’s AI search changes upended online publishing",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+   "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+   "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-10-25T21:00:00+09:00",
+   "collected_at": "2026-10-26T00:37:30.392499+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 9,
+   "priority": "reference",
+   "reasons": [
+    "GOOGLE"
+   ]
+  },
   {
    "id": "df0646a90c48a47c",
    "title": "AIも「自分の間違い」を認められない？　Claude Mythos 5、攻撃を正当化し続行",
@@ -14653,82 +14721,6 @@
     "MCKINSEY",
     "EY"
    ]
-  },
-  {
-   "id": "8b4d1c757ec05c2a",
-   "title": "【完全版】NotebookLMが進化…資料作成がド安定に「Gemini Notebook」徹底活用術",
-   "title_original": "【完全版】NotebookLMが進化…資料作成がド安定に「Gemini Notebook」徹底活用術",
-   "summary": "GoogleのNotebookLMが「Gemini Notebook」へ生まれ変わりました。名前が変わっただけではありません。ノートの内部でAIエージェントが動くようになり、Excel・Word・PowerPointといった編集できるファイルを、その場で作ってダウンロードできます。費用と難易度に対する成果が一番大きいAIサービスだと私は考えています。では、リニューアルで変わったのはどこで、業務のどこに入れると効くのか。実際にひと通り動かしながら、変わった4点と、資料作成などのアウトプットの再現性を跳ね上げる「Gemini Spark」との組み合わせまで整理します。",
-   "summary_original": "GoogleのNotebookLMが「Gemini Notebook」へ生まれ変わりました。名前が変わっただけではありません。ノートの内部でAIエージェントが動くようになり、Excel・Word・PowerPointといった編集できるファイルを、その場で作ってダウンロードできます。費用と難易度に対する成果が一番大きいAIサービスだと私は考えています。では、リニューアルで変わったのはどこで、業務のどこに入れると効くのか。実際にひと通り動かしながら、変わった4点と、資料作成などのアウトプットの再現性を跳ね上げる「Gemini Spark」との組み合わせまで整理します。",
-   "url": "https://www.sbbit.jp/article/cont1/187323?ref=rss",
-   "source_id": "sbbit",
-   "source_name": "ビジネス+IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-15T07:10:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 25,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "GOOGLE"
-   ]
-  },
-  {
-   "id": "0fe5be5828498be7",
-   "title": "チューリッヒ生命、査定業務にAI　マルチエージェントで回答精度向上",
-   "title_original": "チューリッヒ生命、査定業務にAI　マルチエージェントで回答精度向上",
-   "summary": "チューリッヒ生命保険は2026年7月、新契約の引き受け可否を判断する査定業務をAI（人工知能）で支援するシステム「New Business 2.0」を導入した。査定者が扱う案件では、1件当たり約14分の査定時間を平均7分以下に短縮した。",
-   "summary_original": "チューリッヒ生命保険は2026年7月、新契約の引き受け可否を判断する査定業務をAI（人工知能）で支援するシステム「New Business 2.0」を導入した。査定者が扱う案件では、1件当たり約14分の査定時間を平均7分以下に短縮した。",
-   "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/100601512/",
-   "source_id": "nikkei_xtech",
-   "source_name": "日経クロステック",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-15T07:02:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 24,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "fac531d9033ff64e",
-   "title": "三菱UFJが勘定系刷新でAI駆動開発　仕様書やPL/Iのコード生成に適用",
-   "title_original": "三菱UFJが勘定系刷新でAI駆動開発　仕様書やPL/Iのコード生成に適用",
-   "summary": "勘定系刷新でAI駆動開発を始めた背景として、IT子会社の三菱UFJインフォメーションテクノロジー（MUIT）の斉藤賢哉デジタルイノベーション本部本部長は、ここ1年ほどのAIコーディング支援ツールの進化を挙げる。",
-   "summary_original": "勘定系刷新でAI駆動開発を始めた背景として、IT子会社の三菱UFJインフォメーションテクノロジー（MUIT）の斉藤賢哉デジタルイノベーション本部本部長は、ここ1年ほどのAIコーディング支援ツールの進化を挙げる。",
-   "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/100601513/",
-   "source_id": "nikkei_xtech",
-   "source_name": "日経クロステック",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-15T07:01:00+09:00",
-   "collected_at": "2026-10-15T09:23:49.808766+09:00",
-   "slot": "朝",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 29,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "一次情報・重要メディア",
-    "三菱"
-   ]
   }
  ],
  "slot": "夜",
@@ -14737,7 +14729,7 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14751,14 +14743,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14779,7 +14771,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -14870,7 +14862,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "5件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -14884,7 +14876,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "3件 / 全10件",
+   "status": "4件 / 全10件",
    "ok": true
   },
   {
