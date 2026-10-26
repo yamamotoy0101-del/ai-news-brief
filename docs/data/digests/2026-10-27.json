@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T04:30:16.297759+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 8,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、GOOGLE、NVIDIA",
+   "item": {
+    "id": "4d3a769a28bbddd9",
+    "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+    "url": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+    "source_name": "Publickey",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 29
+   }
+  },
+  {
+   "point": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、ANTHROPIC、AMAZON",
+   "item": {
+    "id": "8d6b6f60f40a0ec4",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "source_name": "TechCrunch (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 25
+   }
+  },
+  {
+   "point": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzie",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア、ANTHROPIC",
+   "item": {
+    "id": "f7b9bc5b7e40a63d",
+    "title": "Will the real Anthropic please stand up",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent r",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI、AMAZON",
+   "item": {
+    "id": "0f715e1693d7c6b7",
+    "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "62326578878251f2",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves throu",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、AMAZON",
+   "item": {
+    "id": "e5e4c3ae2b7984fd",
+    "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 16
+   }
+  }
+ ],
+ "watchlist": []
+}
