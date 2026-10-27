@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T03:52:07.902983+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 12,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbi",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、EY、AMAZON",
+   "item": {
+    "id": "10659eb70d41a8da",
+    "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC",
+   "item": {
+    "id": "cbf465a12e8a8455",
+    "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+    "url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+    "source_name": "Publickey",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 22
+   }
+  },
+  {
+   "point": "オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま...",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、GOOGLE",
+   "item": {
+    "id": "282580dcc22b0bc7",
+    "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
+    "url": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
+    "source_name": "Publickey",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 21
+   }
+  },
+  {
+   "point": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-l",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、AMAZON",
+   "item": {
+    "id": "2f7df4450dee9eaf",
+    "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise it",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC",
+   "item": {
+    "id": "5d9174dd4f1a7b53",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "source_name": "The Verge (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 16
+   }
+  },
+  {
+   "point": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tun",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、AMAZON",
+   "item": {
+    "id": "1caf0a8b5ac4be62",
+    "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+    "url": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 16
+   }
+  }
+ ],
+ "watchlist": []
+}
