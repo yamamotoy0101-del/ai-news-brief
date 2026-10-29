@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T04:08:41.816866+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 8,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア、OPENAI",
+   "item": {
+    "id": "7bf0065ceb1646f5",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source_name": "OpenAI News",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 22
+   }
+  },
+  {
+   "point": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores it",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、NVIDIA、AMAZON",
+   "item": {
+    "id": "415c05d3f517e27e",
+    "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、MICROSOFT",
+   "item": {
+    "id": "45b4ef0b726f6d16",
+    "title": "Microsoft’s AI future has fewer jobs",
+    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 19
+   }
+  },
+  {
+   "point": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have tol",
+   "so_what": "（自動要約なし）スコアの根拠: NVIDIA",
+   "item": {
+    "id": "a9493e03c65cfd3b",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.",
+   "so_what": "（自動要約なし）スコアの根拠: NEC、NVIDIA",
+   "item": {
+    "id": "1112027d5901b6f1",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source_name": "NVIDIA Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesti",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "066f3bd17c5f1eff",
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 13
+   }
+  }
+ ],
+ "watchlist": []
+}
