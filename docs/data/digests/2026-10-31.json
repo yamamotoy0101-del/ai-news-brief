@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T03:46:59.941499+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "AI(人工知能)を用いた攻撃が増え、サイバーリスクが高まる中、企業は対策に急ぐ。こうした変化を受け、OpenAIとアクセンチュアは、2026年10月から日本の中堅・大手企業を対象としたサイバーセキュリティーのオファリングを始めた。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、アクセンチュア、OPENAI",
+   "item": {
+    "id": "62c3010ca4516e49",
+    "title": "アクセンチュアがOpenAIのセキュリティー基盤導入を支援、中堅企業も照準",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12135/",
+    "source_name": "日経クロステック",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 44
+   }
+  },
+  {
+   "point": "デジタル庁は2026年10月30日、ガバメントAI（人工知能）基盤「源内」に国会答弁作成を支援するアプリのプロトタイプ版を追加し、政府職員の約18万人が利用できるようになったと発表した。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、デジタル庁",
+   "item": {
+    "id": "6b0627b07b91e610",
+    "title": "ガバメントAI基盤「源内」、18万人に国会答弁作成支援アプリを試験提供",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03450/",
+    "source_name": "日経クロステック",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 39
+   }
+  },
+  {
+   "point": "AI（人工知能）に質問したいが、うまく言葉にできないため、質問ができなかった経験はないだろうか。そんなときに便利なのが、米OpenAI（オープンAI）の「ChatGPT」や米Google（グーグル）の「Gemini」といったAIのスマートフォン（スマホ）アプリに搭載されたカメラ機能だ。スマホのカメラで目の前の物を映すと",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、OPENAI、GOOGLE",
+   "item": {
+    "id": "981028480e5fc338",
+    "title": "スマホをかざしながら問題の解決策を知る、AIアプリのカメラ機能",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/102600069/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 36
+   }
+  },
+  {
+   "point": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、OPENAI",
+   "item": {
+    "id": "6c0faa129b900931",
+    "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に　Pro 200プランの「半減」は撤回　経緯まとめ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
+    "source_name": "ITmedia AI+",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、OPENAI",
+   "item": {
+    "id": "567bd84687a05c86",
+    "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+    "source_name": "ITmedia AI+",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "高度なAI技術を手がける企業が、各国のスパイ活動の舞台となっている。米紙The New York Timesは10月29日（現地時間）、米NVIDIAの最高経営責任者（CEO）ジェンスン・フアン氏が、中国のスパイ活動の標的になっていた可能性があると報じた。米政府は、同氏と「親密な関係」を築いていたデータセンター企業の幹",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NVIDIA",
+   "item": {
+    "id": "8cf628c2cf764faa",
+    "title": "NVIDIAフアンCEOと「親密」な取引先幹部は中国のスパイ工作員か--米紙報道",
+    "url": "https://japan.cnet.com/article/35254187/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 32
+   }
+  }
+ ],
+ "watchlist": []
+}
