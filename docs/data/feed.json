@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T18:54:05.278057+09:00",
+ "generated_at": "2026-11-01T01:52:49.481443+09:00",
  "runs": [
+  {
+   "at": "2026-11-01T01:52:49.481443+09:00",
+   "slot": "夜",
+   "fetched": 52,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-10-31T18:54:05.278057+09:00",
    "slot": "夜",
@@ -203,16 +210,57 @@
    "fetched": 124,
    "added": 45,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-22T01:41:27.636650+09:00",
-   "slot": "夜",
-   "fetched": 112,
-   "added": 19,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "c10fef6ec8169f82",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "title_original": "OpenAI reportedly lowers funding target for new round",
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "summary_original": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-01T01:12:55+09:00",
+   "collected_at": "2026-11-01T01:52:49.481443+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "ed0268fa6e325c7b",
+   "title": "I built an AI Tamagotchi before Meta could",
+   "title_original": "I built an AI Tamagotchi before Meta could",
+   "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+   "summary_original": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-01T01:05:00+09:00",
+   "collected_at": "2026-11-01T01:52:49.481443+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 8,
+   "priority": "reference",
+   "reasons": [
+    "META"
+   ]
+  },
   {
    "id": "c6b2d3ea79170b2a",
    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -14690,55 +14738,6 @@
    "reasons": [
     "NVIDIA"
    ]
-  },
-  {
-   "id": "f298fb1604b9d5d4",
-   "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-   "title_original": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-   "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
-   "summary_original": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
-   "url": "https://blogs.nvidia.com/blog/dsx-power/",
-   "source_id": "nvidia",
-   "source_name": "NVIDIA Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-10-22T14:00:25+09:00",
-   "collected_at": "2026-10-22T17:52:16.903190+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "NEC",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "8ed037559253241d",
-   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-   "title_original": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-   "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
-   "summary_original": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
-   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-   "source_id": "nvidia",
-   "source_name": "NVIDIA Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-10-22T14:00:23+09:00",
-   "collected_at": "2026-10-22T17:52:16.903190+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 12,
-   "priority": "reference",
-   "reasons": [
-    "NVIDIA"
-   ]
   }
  ],
  "slot": "夜",
@@ -14747,28 +14746,28 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "14件 / 全20件",
+   "status": "7件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "6件 / 全50件",
+   "status": "3件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "8件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -14782,28 +14781,28 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "9件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "11件 / 全30件",
+   "status": "6件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "7件 / 全15件",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14831,14 +14830,14 @@
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "2件 / 全34件",
+   "status": "AI関連なし（全34件）",
    "ok": true
   },
   {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "3件 / 全1341件",
+   "status": "2件 / 全1341件",
    "ok": true
   },
   {
@@ -14880,7 +14879,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "13件 / 全20件",
+   "status": "12件 / 全20件",
    "ok": true
   },
   {
@@ -14908,7 +14907,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "4件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
