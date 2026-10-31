@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-10-31T10:28:44.340051+09:00",
+ "generated_at": "2026-10-31T18:54:05.278057+09:00",
  "runs": [
+  {
+   "at": "2026-10-31T18:54:05.278057+09:00",
+   "slot": "夜",
+   "fetched": 94,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-10-31T10:28:44.340051+09:00",
    "slot": "朝",
@@ -202,13 +209,6 @@
    "slot": "夜",
    "fetched": 112,
    "added": 19,
-   "enriched": 0
-  },
-  {
-   "at": "2026-10-21T17:49:42.906398+09:00",
-   "slot": "夜",
-   "fetched": 145,
-   "added": 38,
    "enriched": 0
   }
  ],
@@ -14741,13 +14741,13 @@
    ]
   }
  ],
- "slot": "朝",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "15件 / 全20件",
+   "status": "14件 / 全20件",
    "ok": true
   },
   {
@@ -14768,21 +14768,21 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "6件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "5件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "10件 / 全30件",
+   "status": "9件 / 全30件",
    "ok": true
   },
   {
@@ -14796,14 +14796,14 @@
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "8件 / 全15件",
+   "status": "7件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "4件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14838,7 +14838,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "4件 / 全1341件",
+   "status": "3件 / 全1341件",
    "ok": true
   },
   {
@@ -14852,7 +14852,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "5件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14866,7 +14866,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "2件 / 全18件",
+   "status": "1件 / 全18件",
    "ok": true
   },
   {
@@ -14880,7 +14880,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "18件 / 全20件",
+   "status": "13件 / 全20件",
    "ok": true
   },
   {
