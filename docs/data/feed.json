@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-01T19:44:46.188347+09:00",
+ "generated_at": "2026-11-02T02:40:31.438740+09:00",
  "runs": [
+  {
+   "at": "2026-11-02T02:40:31.438740+09:00",
+   "slot": "夜",
+   "fetched": 10,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-11-01T19:44:46.188347+09:00",
    "slot": "夜",
@@ -203,16 +210,31 @@
    "fetched": 118,
    "added": 46,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-23T01:42:11.242903+09:00",
-   "slot": "夜",
-   "fetched": 108,
-   "added": 19,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "5550af9d96a9d675",
+   "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+   "title_original": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+   "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...",
+   "summary_original": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...",
+   "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-02T02:40:31.438740+09:00",
+   "collected_at": "2026-11-02T02:40:31.438740+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "05736c1de9c55ffd",
    "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
@@ -14713,30 +14735,6 @@
     "政策・規制カテゴリ",
     "一次情報・重要メディア"
    ]
-  },
-  {
-   "id": "f81a60cd53592c67",
-   "title": "チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」　デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け",
-   "title_original": "チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」　デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け",
-   "summary": "チームみらいの党首、安野貴博氏はAIを使ったサイバー攻撃に「一刻も早く対策を講じるべき」と警鐘を鳴らした。",
-   "summary_original": "チームみらいの党首、安野貴博氏はAIを使ったサイバー攻撃に「一刻も早く対策を講じるべき」と警鐘を鳴らした。",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-22T16:20:52+09:00",
-   "collected_at": "2026-10-22T17:52:16.903190+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
   }
  ],
  "slot": "夜",
@@ -14745,14 +14743,14 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
@@ -14766,7 +14764,7 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14808,7 +14806,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "AI関連なし（全15件）",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -14878,7 +14876,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "5件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
