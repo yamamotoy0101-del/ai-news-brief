@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T03:29:40.257435+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 9,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "デジタル庁が10月30日に公表した政府職員の生成AI利用状況調査で、生成AIを使える職員に仕事が集中し、かえって負担が増えるという声が寄せられた。週1〜2回以上使う回答者の過半数が、AIを導入した業務で週1時間以上の短縮を実感した一方、AIの回答の確認や指示文の作成に手間がかかるとの指摘もあった。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、デジタル庁",
+   "item": {
+    "id": "68c5e6ebd13adaa2",
+    "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も",
+    "url": "https://japan.cnet.com/article/35254236/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 36
+   }
+  },
+  {
+   "point": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI、ANTHROPIC、MICROSOFT",
+   "item": {
+    "id": "05736c1de9c55ffd",
+    "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+    "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+    "source_name": "ITmedia AI+",
+    "category": "その他",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "米Anthropicは米国時間10月30日、生成AI「Claude」の月額200ドルプラン「Max 20x」を「Ultra」に改称し、認証済みアカウントの5時間ごとの利用量制限を撤廃すると発表した。同日から既存契約者の大半を対象に適用を始めた。1週間単位の利用上限は維持する。",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC",
+   "item": {
+    "id": "6cbec7017226b74f",
+    "title": "Claude、月額200ドルの「Ultra」で5時間制限撤廃　週間上限は維持",
+    "url": "https://japan.cnet.com/article/35254252/",
+    "source_name": "CNET Japan",
+    "category": "その他",
+    "region": "domestic",
+    "score": 19
+   }
+  },
+  {
+   "point": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "e07dacdb45dcc75e",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 18
+   }
+  },
+  {
+   "point": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI",
+   "item": {
+    "id": "c10fef6ec8169f82",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "5550af9d96a9d675",
+    "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+    "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+    "source_name": "Publickey",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 16
+   }
+  }
+ ],
+ "watchlist": []
+}
