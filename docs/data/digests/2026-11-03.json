@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T07:26:49.487827+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 12,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、OPENAI",
+   "item": {
+    "id": "19244c7aa2063fd3",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source_name": "OpenAI News",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 31
+   }
+  },
+  {
+   "point": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to ",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、ANTHROPIC",
+   "item": {
+    "id": "a437782712b76522",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agenti",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "1126d665d2600e09",
+    "title": "Raising the quality of insights in agentic analytics",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to ",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "dc6c7ef2ed74ce88",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript renderin",
+   "so_what": "（自動要約なし）スコアの根拠: META、AMAZON",
+   "item": {
+    "id": "195c284d0de53e7f",
+    "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 14
+   }
+  },
+  {
+   "point": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multi",
+   "so_what": "（自動要約なし）スコアの根拠: AMAZON",
+   "item": {
+    "id": "3e4765c6fd3b0d54",
+    "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 13
+   }
+  }
+ ],
+ "watchlist": []
+}
