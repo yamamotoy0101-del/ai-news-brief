@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T05:14:41.767501+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 17,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、ANTHROPIC",
+   "item": {
+    "id": "a4abd1e2a1c1fb27",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 28
+   }
+  },
+  {
+   "point": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's po",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI",
+   "item": {
+    "id": "32791f69eb2c329e",
+    "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、GOOGLE",
+   "item": {
+    "id": "adafdd4764cb9dbb",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "source_name": "Google DeepMind",
+    "category": "企業導入",
+    "region": "global",
+    "score": 25
+   }
+  },
+  {
+   "point": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "36315b3cb5b626b9",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on A",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、AMAZON",
+   "item": {
+    "id": "74c9b2e03867b173",
+    "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE",
+   "item": {
+    "id": "ba273efe94abcde6",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 17
+   }
+  }
+ ],
+ "watchlist": []
+}
