@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-03T12:25:07.969246+09:00",
+ "generated_at": "2026-11-03T20:15:08.307928+09:00",
  "runs": [
+  {
+   "at": "2026-11-03T20:15:08.307928+09:00",
+   "slot": "夜",
+   "fetched": 63,
+   "added": 6,
+   "enriched": 0
+  },
   {
    "at": "2026-11-03T12:25:07.969246+09:00",
    "slot": "昼",
@@ -203,16 +210,157 @@
    "fetched": 50,
    "added": 1,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-24T17:21:27.277649+09:00",
-   "slot": "夜",
-   "fetched": 87,
-   "added": 0,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "0e022216c2cb50c8",
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "title_original": "How “reverse game theory” could keep AI agents in check",
+   "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+   "summary_original": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "source_id": "mit_tr_ai",
+   "source_name": "MIT Technology Review (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-03T19:43:41+09:00",
+   "collected_at": "2026-11-03T20:15:08.307928+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 32,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "一次情報・重要メディア",
+    "EY"
+   ]
+  },
+  {
+   "id": "08b710f1e7801fa8",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "title_original": "Heimstaden is changing residential real estate management with AI",
+   "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "summary_original": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "url": "https://openai.com/index/heimstaden",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-11-03T17:00:00+09:00",
+   "collected_at": "2026-11-03T20:15:08.307928+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 27,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "一次情報・重要メディア",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "0947affcb4cc06db",
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "title_original": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "summary_original": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-03T16:20:00+09:00",
+   "collected_at": "2026-11-03T20:15:08.307928+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "4d836f21a02fa461",
+   "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "title_original": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
+   "summary_original": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
+   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+   "source_id": "nvidia",
+   "source_name": "NVIDIA Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-11-03T16:00:12+09:00",
+   "collected_at": "2026-11-03T20:15:08.307928+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 12,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "a6e20d8d1eb18238",
+   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "title_original": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+   "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "source_id": "mit_tr_ai",
+   "source_name": "MIT Technology Review (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "政策・規制",
+   "published_at": "2026-11-03T13:18:47+09:00",
+   "collected_at": "2026-11-03T20:15:08.307928+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 35,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "一次情報・重要メディア",
+    "EY"
+   ]
+  },
+  {
+   "id": "4ed35bdfdb651ac6",
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "title_original": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "summary_original": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-03T12:30:00+09:00",
+   "collected_at": "2026-11-03T20:15:08.307928+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 15,
+   "priority": "reference",
+   "reasons": [
+    "GOOGLE"
+   ]
+  },
   {
    "id": "968f14d53faf7f9a",
    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
@@ -14591,153 +14739,15 @@
    "score": 16,
    "priority": "reference",
    "reasons": []
-  },
-  {
-   "id": "584473cf8bec4efa",
-   "title": "リコージャパン、「RICOH オンプレLLMスターターキット」のサーバーレンタルプランを提供",
-   "title_original": "リコージャパン、「RICOH オンプレLLMスターターキット」のサーバーレンタルプランを提供",
-   "summary": "リコージャパンは、オンプレミス環境での生成AI活用を導入から運用までワンストップで支援する「RICOH オンプレLLMスターターキット」において、GPUサーバーを月額で利用できるサーバーレンタルプランの提供を10月22日から開始した。",
-   "summary_original": "リコージャパンは、オンプレミス環境での生成AI活用を導入から運用までワンストップで支援する「RICOH オンプレLLMスターターキット」において、GPUサーバーを月額で利用できるサーバーレンタルプランの提供を10月22日から開始した。",
-   "url": "https://japan.zdnet.com/article/35253878/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-23T12:37:00+09:00",
-   "collected_at": "2026-10-23T17:47:24.470434+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "1eeae8eac7e196f1",
-   "title": "ウイングアーク1st、AIコストを抑制するデータ活用基盤「DataTetra」を提供",
-   "title_original": "ウイングアーク1st、AIコストを抑制するデータ活用基盤「DataTetra」を提供",
-   "summary": "ウイングアーク１ｓｔは、企業のAI利用を前提に設計した新たなデータ活用基盤ソリューション「DataTetra（データテトラ）」を発表し、10月21日より順次提供を開始した。",
-   "summary_original": "ウイングアーク１ｓｔは、企業のAI利用を前提に設計した新たなデータ活用基盤ソリューション「DataTetra（データテトラ）」を発表し、10月21日より順次提供を開始した。",
-   "url": "https://japan.zdnet.com/article/35253877/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-10-23T12:25:00+09:00",
-   "collected_at": "2026-10-23T17:47:24.470434+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "35fe791daa2fba8c",
-   "title": "MetaのAI秘書アプリ「Muse」日本上陸　米国で話題沸騰　スケジュール管理やメール送信も代行",
-   "title_original": "MetaのAI秘書アプリ「Muse」日本上陸　米国で話題沸騰　スケジュール管理やメール送信も代行",
-   "summary": "Metaは10月23日、利用者の指示に応じて旅行の予約やメールの送信などを代行するAIエージェント「Muse」の日本での提供を開始した。",
-   "summary_original": "Metaは10月23日、利用者の指示に応じて旅行の予約やメールの送信などを代行するAIエージェント「Muse」の日本での提供を開始した。",
-   "url": "https://japan.cnet.com/article/35253873/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-10-23T12:11:00+09:00",
-   "collected_at": "2026-10-23T17:47:24.470434+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 14,
-   "priority": "reference",
-   "reasons": [
-    "META"
-   ]
-  },
-  {
-   "id": "2c4b3d1c2ff726a5",
-   "title": "PLAUDE、eSIMイヤホン「Plaude One」日本発売へ　AIが耳に常駐　スマホ不要",
-   "title_original": "PLAUDE、eSIMイヤホン「Plaude One」日本発売へ　AIが耳に常駐　スマホ不要",
-   "summary": "PLAUDは10月21日、イヤホン型のAIデバイス「Plaud One」を2026年内に日本で発売すると発表した。価格は4万4000円。充電ケースにeSIMを内蔵し、スマートフォンがなくても録音データのアップロードやAIエージェントの呼び出しができる。",
-   "summary_original": "PLAUDは10月21日、イヤホン型のAIデバイス「Plaud One」を2026年内に日本で発売すると発表した。価格は4万4000円。充電ケースにeSIMを内蔵し、スマートフォンがなくても録音データのアップロードやAIエージェントの呼び出しができる。",
-   "url": "https://japan.cnet.com/article/35253844/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-10-23T12:10:00+09:00",
-   "collected_at": "2026-10-23T17:47:24.470434+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "e523a0665c2f523f",
-   "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査",
-   "title_original": "“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査",
-   "summary": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。",
-   "summary_original": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。",
-   "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-23T12:00:00+09:00",
-   "collected_at": "2026-10-23T17:47:24.470434+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 16,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "644c45b64bdb662a",
-   "title": "「MCPの知識を証明する」認定資格がスタート、エンジニアに問われる“5つの領域”",
-   "title_original": "「MCPの知識を証明する」認定資格がスタート、エンジニアに問われる“5つの領域”",
-   "summary": "Linux Foundation傘下のAgentic AI Foundationは、MCPの理解度を測る認定資格「MCPA」を新設した。MCPの公式な認定資格は初めてとなる。",
-   "summary_original": "Linux Foundation傘下のAgentic AI Foundationは、MCPの理解度を測る認定資格「MCPA」を新設した。MCPの公式な認定資格は初めてとなる。",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news027.html",
-   "source_id": "atmarkit",
-   "source_name": "＠IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-10-23T12:00:00+09:00",
-   "collected_at": "2026-10-23T17:47:24.470434+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
   }
  ],
- "slot": "昼",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "9件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -14751,49 +14761,49 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "8件 / 全50件",
+   "status": "7件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "6件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "6件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "7件 / 全15件",
+   "status": "6件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "3件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14828,7 +14838,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "7件 / 全1348件",
+   "status": "8件 / 全1349件",
    "ok": true
   },
   {
@@ -14856,14 +14866,14 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "AI関連なし（全18件）",
+   "status": "1件 / 全18件",
    "ok": true
   },
   {
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "3件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
