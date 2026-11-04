@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T05:30:31.629643+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 13,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State ",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "dda2b2db6c67fba6",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 28
+   }
+  },
+  {
+   "point": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential ",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NEC、AMAZON",
+   "item": {
+    "id": "5dcd8c391f4dae8c",
+    "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+    "url": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 28
+   }
+  },
+  {
+   "point": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、EY",
+   "item": {
+    "id": "472484bded0ab565",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to a",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、AMAZON",
+   "item": {
+    "id": "c5387dca01dcfd3e",
+    "title": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexib",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "bb779f39a67b00cc",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE",
+   "item": {
+    "id": "ac5380eefb5a465e",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 17
+   }
+  }
+ ],
+ "watchlist": []
+}
