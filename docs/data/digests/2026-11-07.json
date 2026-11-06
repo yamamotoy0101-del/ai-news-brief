@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T05:02:22.817988+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 15,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "fc8f30aee8f3f7ca",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "ef57b5d475853af9",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G networ",
+   "so_what": "（自動要約なし）スコアの根拠: EY、NEC、NVIDIA",
+   "item": {
+    "id": "2b3eb4eb79de73e7",
+    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+    "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+    "source_name": "NVIDIA Blog",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they g",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、EY、AMAZON",
+   "item": {
+    "id": "aa3a68bb9ff6c15d",
+    "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes thro",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、AMAZON",
+   "item": {
+    "id": "bc2d0068f56d93e1",
+    "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+    "url": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roa",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "22815b4f725ebdf4",
+    "title": "Big Tech lost big in the 2026 election",
+    "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 20
+   }
+  }
+ ],
+ "watchlist": []
+}
