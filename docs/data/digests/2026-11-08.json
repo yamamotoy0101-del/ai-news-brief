@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T03:13:22.341529+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State ",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NIST、NVIDIA",
+   "item": {
+    "id": "1bc7ba2a28c4372d",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "今週の米中間選挙で、民主党は上下両院の多数派を奪還した。激戦州での相次ぐ勝利を受け、有権者やテック業界の批評家の間では、こんな問いが浮かんでいる。今回の選挙は「AI選挙」だったのか。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "fadd174fc52a4460",
+    "title": "米民主党の勝利で巨大テック規制か　焦点はプライバシーとデータセンター",
+    "url": "https://japan.cnet.com/article/35254527/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "Googleは、ソフトウェアの脆弱性（セキュリティー上の欠陥）を発見・修正するAI「CodeMender」を強化した。脆弱性の検証に使う隔離環境や、調査するファイルの範囲を選べるようにしたと、11月4日付の公式ブログで発表した。CodeMenderは現在、プレビュー版として提供している。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、GOOGLE",
+   "item": {
+    "id": "6ef4f5170f2a91db",
+    "title": "Google、脆弱性修正AI「CodeMender」を強化　Gemini 4 Argonなど複数AIモデルを使用",
+    "url": "https://japan.cnet.com/article/35254533/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 25
+   }
+  },
+  {
+   "point": "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "f0ab78f35232f3fd",
+    "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+    "source_name": "ITmedia AI+",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 24
+   }
+  },
+  {
+   "point": "AIで提案書の作成や情報収集は効率化できても、それだけで営業成績は上がるのか。AIを導入した営業現場で今、問われているのは、ツールを使いこなす力だけではない。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "19abb401f6a3d114",
+    "title": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+    "source_name": "ITmedia AI+",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 24
+   }
+  },
+  {
+   "point": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "fc8f30aee8f3f7ca",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  }
+ ],
+ "watchlist": []
+}
