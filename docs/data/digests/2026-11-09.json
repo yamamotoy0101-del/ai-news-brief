@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T03:26:31.040102+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 9,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NIST、NVIDIA",
+   "item": {
+    "id": "2c93e9013ac15b4c",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "source_name": "TechCrunch (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 33
+   }
+  },
+  {
+   "point": "AnthropicのAIモデルは、正解を判定しやすい課題での性能向上が、従来の約2倍のペースに速まった可能性がある。AIの能力やリスクを研究するMETRが11月5日、調査報告書を公開した。METRは、性能向上が加速した主な要因はAIを使った研究開発にあるとみるが、推定には大きな不確実性があるとしている。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ANTHROPIC",
+   "item": {
+    "id": "9299143abbf110b6",
+    "title": "Claudeの性能向上ペース、約2倍に加速--「AIを使ってAIを開発」が要因か",
+    "url": "https://japan.cnet.com/article/35254548/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 31
+   }
+  },
+  {
+   "point": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing ",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、EY",
+   "item": {
+    "id": "ae06ecf7187204d4",
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This e",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ",
+   "item": {
+    "id": "055e03fe8fc4b1cc",
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 20
+   }
+  },
+  {
+   "point": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「M...",
+   "so_what": "（自動要約なし）",
+   "item": {
+    "id": "5afc868cfa87abfd",
+    "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+    "url": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+    "source_name": "Publickey",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 16
+   }
+  },
+  {
+   "point": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+   "so_what": "（自動要約なし）スコアの根拠: GOOGLE",
+   "item": {
+    "id": "a81f960ca3c8f813",
+    "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+    "source_name": "ITmedia AI+",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 15
+   }
+  }
+ ],
+ "watchlist": []
+}
