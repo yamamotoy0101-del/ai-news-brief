@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-08T19:42:07.570092+09:00",
+ "generated_at": "2026-11-09T02:39:25.267465+09:00",
  "runs": [
+  {
+   "at": "2026-11-09T02:39:25.267465+09:00",
+   "slot": "夜",
+   "fetched": 11,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-11-08T19:42:07.570092+09:00",
    "slot": "夜",
@@ -203,16 +210,56 @@
    "fetched": 127,
    "added": 43,
    "enriched": 0
-  },
-  {
-   "at": "2026-10-30T03:04:53.959927+09:00",
-   "slot": "夜",
-   "fetched": 123,
-   "added": 20,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "ae06ecf7187204d4",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "title_original": "Elvis and Eminem rights holders are suing Suno",
+   "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+   "summary_original": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-09T02:23:19+09:00",
+   "collected_at": "2026-11-09T02:39:25.267465+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "EY"
+   ]
+  },
+  {
+   "id": "5afc868cfa87abfd",
+   "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+   "title_original": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+   "summary": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「M...",
+   "summary_original": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「M...",
+   "url": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-09T00:12:29+09:00",
+   "collected_at": "2026-11-09T02:39:25.267465+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "1ca49a6a2624f084",
    "title": "Meta「Muse」、会話で自分専用ツールを作成　予定表や買い物管理など",
@@ -14661,56 +14708,6 @@
     "MICROSOFT",
     "NVIDIA"
    ]
-  },
-  {
-   "id": "d9d3119199806147",
-   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-   "title_original": "Voice AI in vogue: Nvidia releases new open transcription model",
-   "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-   "summary_original": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-10-29T00:00:00+09:00",
-   "collected_at": "2026-10-29T02:56:26.125707+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 15,
-   "priority": "reference",
-   "reasons": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "75e2017ed4c5a2ec",
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-   "summary_original": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "企業導入",
-   "published_at": "2026-10-28T22:15:00+09:00",
-   "collected_at": "2026-10-29T10:40:53.086715+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 27,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
   }
  ],
  "slot": "夜",
@@ -14726,7 +14723,7 @@
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
@@ -14740,7 +14737,7 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14754,14 +14751,14 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -14782,7 +14779,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "AI関連なし（全15件）",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -14852,7 +14849,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "3件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14866,7 +14863,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
