@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T08:06:45.786578+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 27,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for fo",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、EY",
+   "item": {
+    "id": "7f47f4f4451cddf7",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 35
+   }
+  },
+  {
+   "point": "日本企業などに対するサイバー攻撃が激化するなか、政府がいよいよ能動的サイバー防御も含めた対策に動き出す。政府は2026年11月6日、首相官邸で開いた第2回「サイバーセキュリティに関する関係閣僚会議」で「サイバーセキュリティ緊急対策パッケージ」を決めた。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "86be237653cad8cf",
+    "title": "AIサイバー攻撃に日本も官民で情報統合、政府の分析発信力が重要に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110902142/",
+    "source_name": "日経クロステック",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 33
+   }
+  },
+  {
+   "point": "Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、GOOGLE",
+   "item": {
+    "id": "513b9da302fe01fc",
+    "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
+    "url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+    "source_name": "Publickey",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 32
+   }
+  },
+  {
+   "point": "ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ソフトバンク",
+   "item": {
+    "id": "cd3fb21a31e476de",
+    "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
+    "url": "https://japan.cnet.com/article/35254620/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 31
+   }
+  },
+  {
+   "point": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the ",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、一次情報・重要メディア、EY",
+   "item": {
+    "id": "c4cbbe764314d6f0",
+    "title": "The backlash about data centers might really just be about electricity",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "AI（人工知能）ブームの過熱に伴い、IT市場は過去にない大音量で投資狂騒曲を奏でている。だが、10月中旬のAI関連株暴落の前後に、米ガートナーが発表した数本の調査結果からは、市場が冷徹な結果に直面する時期に入りつつあると読み取れる。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "627f52dca3d30d5e",
+    "title": "見えてきた2032年までのAI投資リスク、4兆ドル超を回収できるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00848/00199/",
+    "source_name": "日経クロステック",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 28
+   }
+  }
+ ],
+ "watchlist": []
+}
