@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T05:34:02.605252+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 16,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs -",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、OPENAI、ANTHROPIC、META",
+   "item": {
+    "id": "ec3f910d2a185a91",
+    "title": "Anthropic has its own AI-powered office suite now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "source_name": "The Verge (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 28
+   }
+  },
+  {
+   "point": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ag",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI、ANTHROPIC、GOOGLE",
+   "item": {
+    "id": "a14681e2ddce1255",
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "source_name": "The Verge (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "so_what": "（自動要約なし）スコアの根拠: OPENAI、GOOGLE",
+   "item": {
+    "id": "445fc6287a33b8c1",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its B",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、AMAZON",
+   "item": {
+    "id": "82110824f2abb129",
+    "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 23
+   }
+  },
+  {
+   "point": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected ",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC、NEC",
+   "item": {
+    "id": "af7403b4563990ca",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "source_name": "TechCrunch (AI)",
+    "category": "技術・モデル",
+    "region": "global",
+    "score": 22
+   }
+  },
+  {
+   "point": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "7ac1a3b2939bf58c",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 21
+   }
+  }
+ ],
+ "watchlist": []
+}
