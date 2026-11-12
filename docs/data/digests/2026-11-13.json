@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T06:01:21.991658+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 22,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant ",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、EY、OPENAI、AMAZON",
+   "item": {
+    "id": "83054ecb029e1c53",
+    "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 36
+   }
+  },
+  {
+   "point": "米NVIDIA（エヌビディア）は2026年11月12日（現地時間）、創業者であるジェンスン・ファンCEO（最高経営責任者）が辞任すると発表した。強烈なリーダーシップでエヌビディアを一時、時価総額世界1位まで導いたカリスマが、中国のスパイと疑われる女性やエヌビディア幹部との不倫行為によって退場する。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、NVIDIA",
+   "item": {
+    "id": "6dbf531f6ca25278",
+    "title": "NVIDIAジェンスン・ファンCEOが辞任、暫定CEOにクレスCFO　後任探し難航も",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12173/",
+    "source_name": "日経クロステック",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardroom",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、MICROSOFT",
+   "item": {
+    "id": "6343212a54f99ab7",
+    "title": "From AI ambition to business impact",
+    "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+    "source_name": "Microsoft AI Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation i",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、NVIDIA",
+   "item": {
+    "id": "830958e6e6f7f875",
+    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 25
+   }
+  },
+  {
+   "point": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NVIDIA",
+   "item": {
+    "id": "1d250e9233fe0f75",
+    "title": "Jensen Huang is out. What did China want from him?",
+    "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+   "so_what": "（自動要約なし）スコアの根拠: ROI、NVIDIA",
+   "item": {
+    "id": "1447c52b300c38a1",
+    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 24
+   }
+  }
+ ],
+ "watchlist": []
+}
