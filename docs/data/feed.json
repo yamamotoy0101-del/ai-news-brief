@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-13T20:26:43.924795+09:00",
+ "generated_at": "2026-11-14T04:15:17.159725+09:00",
  "runs": [
+  {
+   "at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "fetched": 116,
+   "added": 11,
+   "enriched": 0
+  },
   {
    "at": "2026-11-13T20:26:43.924795+09:00",
    "slot": "夜",
@@ -203,16 +210,249 @@
    "fetched": 93,
    "added": 43,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-04T04:07:20.643510+09:00",
-   "slot": "朝",
-   "fetched": 63,
-   "added": 20,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "773ec8d2db34b976",
+   "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+   "title_original": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+   "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
+   "summary_original": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-11-14T03:44:02+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "f17748102e2c4282",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+   "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "summary_original": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-11-14T03:40:30+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "e504c61a39ac2d49",
+   "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+   "title_original": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+   "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
+   "summary_original": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-11-14T03:01:15+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "4e379f6cb9d33e5a",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "title_original": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+   "summary_original": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-11-14T01:00:12+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "5bf4951adbe9698d",
+   "title": "Introducing ChatGPT Wallet",
+   "title_original": "Introducing ChatGPT Wallet",
+   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "summary_original": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-11-14T00:00:00+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "627c324df106de1b",
+   "title": "What&#8217;s really at stake in the Jensen Huang saga",
+   "title_original": "What&#8217;s really at stake in the Jensen Huang saga",
+   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+   "summary_original": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+   "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-13T23:47:16+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 3,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "cd9d1a105b69dd29",
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "title_original": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+   "summary_original": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-13T23:00:00+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "ece4b84db3e9cab7",
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "title_original": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+   "summary_original": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "source_id": "nvidia",
+   "source_name": "NVIDIA Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-11-13T22:00:42+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 8,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "e00ed907e42f1c2a",
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "title_original": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "summary_original": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-13T21:52:19+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "71dad9da95c2fbfe",
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "title_original": "Let’s talk about Jensen Huang’s many affairs!",
+   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+   "summary_original": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-13T21:00:00+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 9,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
   {
    "id": "ef293eb0491c479d",
    "title": "GMO、不正アクセスで約30.5億円の業績影響見込む　最先端AIで点検へ",
@@ -992,6 +1232,31 @@
     "OPENAI",
     "ANTHROPIC",
     "MICROSOFT"
+   ]
+  },
+  {
+   "id": "448359cebdc9c402",
+   "title": "Separating signal from noise: The always-on finance intelligence layer",
+   "title_original": "Separating signal from noise: The always-on finance intelligence layer",
+   "summary": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
+   "summary_original": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
+   "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
+   "source_id": "mckinsey",
+   "source_name": "McKinsey Insights",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-11-13T09:00:00+09:00",
+   "collected_at": "2026-11-14T04:15:17.159725+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "一次情報・重要メディア"
    ]
   },
   {
@@ -14490,281 +14755,15 @@
    "reasons": [
     "OPENAI"
    ]
-  },
-  {
-   "id": "aa3b92b87c68cd16",
-   "title": "Apple is reportedly cutting budgets for its internal AI usage",
-   "title_original": "Apple is reportedly cutting budgets for its internal AI usage",
-   "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-   "summary_original": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-05T10:26:22+09:00",
-   "collected_at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "127cef7f6bef4eb0",
-   "title": "米ディズニーランドでAIロボットが「インターン」--駐車誘導や3Dメガネ仕分けに挑戦",
-   "title_original": "米ディズニーランドでAIロボットが「インターン」--駐車誘導や3Dメガネ仕分けに挑戦",
-   "summary": "駐車を手助けするピクサーのロボットから、「スター・ウォーズ」の世界を歩き回るドロイドまで、米ディズニーランドの至る所でフィジカルAIが登場しつつある。",
-   "summary_original": "駐車を手助けするピクサーのロボットから、「スター・ウォーズ」の世界を歩き回るドロイドまで、米ディズニーランドの至る所でフィジカルAIが登場しつつある。",
-   "url": "https://japan.cnet.com/article/35254408/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-11-05T10:02:00+09:00",
-   "collected_at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "b58abbb270691035",
-   "title": "米国の有権者、3分の1がAIで選挙情報を検索--さまざまなリスクも",
-   "title_original": "米国の有権者、3分の1がAIで選挙情報を検索--さまざまなリスクも",
-   "summary": "米国では有権者の3分の1が投票すべき候補者を選ぶのにチャットボットを利用していたことがイェール大学の研究で判明した。AIによる情報提供が選挙判断に与える影響と、誤情報のリスクが浮き彫りになっている。",
-   "summary_original": "米国では有権者の3分の1が投票すべき候補者を選ぶのにチャットボットを利用していたことがイェール大学の研究で判明した。AIによる情報提供が選挙判断に与える影響と、誤情報のリスクが浮き彫りになっている。",
-   "url": "https://japan.zdnet.com/article/35254411/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-05T10:01:00+09:00",
-   "collected_at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "6f48c0cae1cfff64",
-   "title": "マルチベンダーのAIエージェント活用に向けて「ガバナンスの統一」に注力せよ",
-   "title_original": "マルチベンダーのAIエージェント活用に向けて「ガバナンスの統一」に注力せよ",
-   "summary": "企業において業務を自律的にこなすAIエージェントの活用が進むにつれ、その利用環境全体を統制していく「ガバナンス」の重要性が、これからますます高まっていくのではないか。",
-   "summary_original": "企業において業務を自律的にこなすAIエージェントの活用が進むにつれ、その利用環境全体を統制していく「ガバナンス」の重要性が、これからますます高まっていくのではないか。",
-   "url": "https://japan.zdnet.com/article/35254360/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-05T10:00:00+09:00",
-   "collected_at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "b16c55b319d1a9ff",
-   "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
-   "title_original": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
-   "summary": "",
-   "summary_original": "",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-11-05T09:58:31+09:00",
-   "collected_at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "1f9981de57006417",
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "title_original": "Flipsnack grows product signups with conversion optimization",
-   "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "summary_original": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "url": "https://openai.com/ads/customers/flipsnack",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-11-05T09:45:15+09:00",
-   "collected_at": "2026-11-06T11:10:18.180009+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 16,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "6d238b4696224ae8",
-   "title": "ニトリ、主要テーブル約2600本をAIで分析へ　独自ルールで名付けたデータをAIにどう理解させた？",
-   "title_original": "ニトリ、主要テーブル約2600本をAIで分析へ　独自ルールで名付けたデータをAIにどう理解させた？",
-   "summary": "データ基盤をBigQueryへ移したニトリは、データが増えたことによって一部の人しか恩恵を受けられない状況に陥った。会話型AIで誰でも分析できる環境を目指したが、壁になったのは社内独自の項目名だった。打開策は地道な作業の徹底だった。",
-   "summary_original": "データ基盤をBigQueryへ移したニトリは、データが増えたことによって一部の人しか恩恵を受けられない状況に陥った。会話型AIで誰でも分析できる環境を目指したが、壁になったのは社内独自の項目名だった。打開策は地道な作業の徹底だった。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news005.html",
-   "source_id": "itmedia_enterprise",
-   "source_name": "ITmedia エンタープライズ",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-05T09:20:00+09:00",
-   "collected_at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "7273c03a7949dfef",
-   "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
-   "title_original": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
-   "summary": "リコーと川崎重工業は、AIを活用した設計業務の知識資産活用に向け、戦略的パートナーシップを構築した。設計文書や図面に蓄積された知識に加え、熟練技術者の経験やノウハウなどの暗黙知をAIで整理／可視化し、技術継承と設計業務の生産性向上を目指す。",
-   "summary_original": "リコーと川崎重工業は、AIを活用した設計業務の知識資産活用に向け、戦略的パートナーシップを構築した。設計文書や図面に蓄積された知識に加え、熟練技術者の経験やノウハウなどの暗黙知をAIで整理／可視化し、技術継承と設計業務の生産性向上を目指す。",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-05T09:00:00+09:00",
-   "collected_at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 29,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "一次情報・重要メディア",
-    "生産性"
-   ]
-  },
-  {
-   "id": "94a3afa0c9d26244",
-   "title": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
-   "title_original": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
-   "summary": "AI presents an opportunity for technology vendors to reinvent their sales channels. This comprehensive overhaul would require five key moves.",
-   "summary_original": "AI presents an opportunity for technology vendors to reinvent their sales channels. This comprehensive overhaul would require five key moves.",
-   "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth",
-   "source_id": "mckinsey",
-   "source_name": "McKinsey Insights",
-   "lang": "en",
-   "region": "global",
-   "category": "コンサル・組織",
-   "published_at": "2026-11-05T09:00:00+09:00",
-   "collected_at": "2026-11-06T04:33:13.036750+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 29,
-   "priority": "watch",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "一次情報・重要メディア",
-    "EY"
-   ]
-  },
-  {
-   "id": "c0d7b0808284d182",
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "title_original": "Franklin Templeton uses OpenAI to support investment research",
-   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "summary_original": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "url": "https://openai.com/index/franklin-templeton",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-05T09:00:00+09:00",
-   "collected_at": "2026-11-06T11:10:18.180009+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 24,
-   "priority": "watch",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
-  },
-  {
-   "id": "59b8c2e1478e235a",
-   "title": "How AI can help unlock insurance growth in Latin America",
-   "title_original": "How AI can help unlock insurance growth in Latin America",
-   "summary": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers reach even more customers and operate more efficiently.",
-   "summary_original": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers reach even more customers and operate more efficiently.",
-   "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
-   "source_id": "mckinsey",
-   "source_name": "McKinsey Insights",
-   "lang": "en",
-   "region": "global",
-   "category": "コンサル・組織",
-   "published_at": "2026-11-05T09:00:00+09:00",
-   "collected_at": "2026-11-06T04:33:13.036750+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "一次情報・重要メディア"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "19件 / 全20件",
+   "status": "12件 / 全20件",
    "ok": true
   },
   {
@@ -14778,7 +14777,7 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "13件 / 全50件",
+   "status": "8件 / 全50件",
    "ok": true
   },
   {
@@ -14799,7 +14798,7 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "16件 / 全30件",
+   "status": "10件 / 全30件",
    "ok": true
   },
   {
@@ -14813,14 +14812,14 @@
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "9件 / 全15件",
+   "status": "7件 / 全15件",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "3件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14848,14 +14847,14 @@
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "1件 / 全41件",
+   "status": "AI関連なし（全41件）",
    "ok": true
   },
   {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "4件 / 全1385件",
+   "status": "3件 / 全1386件",
    "ok": true
   },
   {
@@ -14883,7 +14882,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "1件 / 全18件",
+   "status": "2件 / 全18件",
    "ok": true
   },
   {
@@ -14897,7 +14896,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "19件 / 全20件",
+   "status": "17件 / 全20件",
    "ok": true
   },
   {
@@ -14911,7 +14910,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "8件 / 全10件",
+   "status": "9件 / 全10件",
    "ok": true
   },
   {
