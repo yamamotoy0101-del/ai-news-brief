@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T03:48:34.225875+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 21,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "今年5月、米Metaが8000人の人員削減を始めたとき、それは何か不吉なことが起きる前触れのように思えた。FacebookやInstagram、WhatsAppを傘下に持つ同社は、メタバース構想の頓挫や、数十億ドル規模の訴訟での敗訴など、すでに大きなつまずきを経験していた。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、人員削減、META",
+   "item": {
+    "id": "ac96ba6a61dd3e96",
+    "title": "AIブームで進む「テック業界の人員削減」、小売・金融への波及に懸念",
+    "url": "https://japan.cnet.com/article/35254866/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 35
+   }
+  },
+  {
+   "point": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI",
+   "item": {
+    "id": "b08cefd9996dfc5a",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part tw",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、OPENAI",
+   "item": {
+    "id": "d46b516a4c8344dc",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 26
+   }
+  },
+  {
+   "point": "グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。",
+   "so_what": "（自動要約なし）スコアの根拠: ROI、GOOGLE",
+   "item": {
+    "id": "8b394e1bb922d0c1",
+    "title": "Gemini、Google Walletと連携して家計を分析--サブスクの値上げも検出",
+    "url": "https://japan.cnet.com/article/35254868/",
+    "source_name": "CNET Japan",
+    "category": "その他",
+    "region": "domestic",
+    "score": 24
+   }
+  },
+  {
+   "point": "ダイナーの一角から、AI時代の主役「NVIDIA」を生み出したジェンスン・フアン氏。“皿洗い”から億万長者へと至った半生を振り返る。",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア、NVIDIA",
+   "item": {
+    "id": "360d40e70480d157",
+    "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+    "source_name": "ITmedia AI+",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 23
+   }
+  },
+  {
+   "point": "海の熱で発電し、海水で冷却する。スタートアップのDrogueが、陸上の電力網に頼らない洋上のAIデータセンターを目指している。トヨタ自動車のベンチャーキャピタルであるToyota Venturesも、同社を出資先として紹介している。",
+   "so_what": "（自動要約なし）スコアの根拠: トヨタ",
+   "item": {
+    "id": "bf21904255a3419c",
+    "title": "海の熱でAIデータセンターを動かす--トヨタ系VCも出資するDrogueの構想",
+    "url": "https://japan.cnet.com/article/35254874/",
+    "source_name": "CNET Japan",
+    "category": "投資・M&A",
+    "region": "domestic",
+    "score": 22
+   }
+  }
+ ],
+ "watchlist": []
+}
