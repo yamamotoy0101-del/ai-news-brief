@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-15T20:24:05.514375+09:00",
+ "generated_at": "2026-11-16T03:30:48.539883+09:00",
  "runs": [
+  {
+   "at": "2026-11-16T03:30:48.539883+09:00",
+   "slot": "夜",
+   "fetched": 13,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-11-15T20:24:05.514375+09:00",
    "slot": "夜",
@@ -203,16 +210,77 @@
    "fetched": 136,
    "added": 53,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-06T04:33:13.036750+09:00",
-   "slot": "朝",
-   "fetched": 97,
-   "added": 24,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "d37507138ececb6b",
+   "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+   "title_original": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+   "summary": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...",
+   "summary_original": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...",
+   "url": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-16T00:31:49+09:00",
+   "collected_at": "2026-11-16T03:30:48.539883+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 12,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "feb7cbdee400e995",
+   "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+   "title_original": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+   "summary": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
+   "summary_original": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...",
+   "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+   "source_id": "publickey",
+   "source_name": "Publickey",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-16T00:30:19+09:00",
+   "collected_at": "2026-11-16T03:30:48.539883+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "4c525e5e54fa3645",
+   "title": "An overview of Jensen Huang’s messy days",
+   "title_original": "An overview of Jensen Huang’s messy days",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+   "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+   "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-15T22:00:00+09:00",
+   "collected_at": "2026-11-16T03:30:48.539883+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 9,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
   {
    "id": "e2871409ebecba84",
    "title": "コードはすべてAI--非プログラマーの筆者がiPhoneアプリをApp Storeで公開するまでの13日間",
@@ -14682,77 +14750,6 @@
    "score": 5,
    "priority": "reference",
    "reasons": []
-  },
-  {
-   "id": "c9efcd5ee343666e",
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "title_original": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-   "summary_original": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-   "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-05T23:42:00+09:00",
-   "collected_at": "2026-11-06T04:33:13.036750+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "588776d5fd509bfe",
-   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "title_original": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-   "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
-   "summary_original": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
-   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-   "source_id": "nvidia",
-   "source_name": "NVIDIA Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "政策・規制",
-   "published_at": "2026-11-05T23:00:34+09:00",
-   "collected_at": "2026-11-06T04:33:13.036750+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 24,
-   "priority": "watch",
-   "reasons": [
-    "政策・規制カテゴリ",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "5ea6f104b1e8466c",
-   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "title_original": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-   "summary_original": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-05T23:00:00+09:00",
-   "collected_at": "2026-11-06T04:33:13.036750+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 15,
-   "priority": "reference",
-   "reasons": [
-    "NVIDIA"
-   ]
   }
  ],
  "slot": "夜",
@@ -14824,7 +14821,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "AI関連なし（全15件）",
+   "status": "2件 / 全15件",
    "ok": true
   },
   {
@@ -14908,7 +14905,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "2件 / 全10件",
+   "status": "3件 / 全10件",
    "ok": true
   },
   {
