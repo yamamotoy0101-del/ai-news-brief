@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-15T02:41:53.113177+09:00",
+ "generated_at": "2026-11-15T10:41:16.007360+09:00",
  "runs": [
+  {
+   "at": "2026-11-15T10:41:16.007360+09:00",
+   "slot": "朝",
+   "fetched": 32,
+   "added": 4,
+   "enriched": 0
+  },
   {
    "at": "2026-11-15T02:41:53.113177+09:00",
    "slot": "夜",
@@ -203,16 +210,106 @@
    "fetched": 99,
    "added": 21,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-05T11:09:05.788616+09:00",
-   "slot": "昼",
-   "fetched": 115,
-   "added": 40,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "cdf34d438f124e67",
+   "title": "Where was Nvidia’s security team?",
+   "title_original": "Where was Nvidia’s security team?",
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+   "summary_original": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-15T09:08:07+09:00",
+   "collected_at": "2026-11-15T10:41:16.007360+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "c0fc906cc6901c56",
+   "title": "PHP重大脆弱性は「始まり」に過ぎない？　2年前の兆候が示す“次の危機”",
+   "title_original": "PHP重大脆弱性は「始まり」に過ぎない？　2年前の兆候が示す“次の危機”",
+   "summary": "PHPの重大な脆弱性「php2shell」は、実は2024年の段階で問題の兆候が見つかっていました。それでも修正は進まず、約2年後に重大な脅威として表面化しました。その背景にあったのは何でしょうか。AIが脆弱性を見つける速度を高める今、問題を修正できない組織は何を失うのでしょうか。",
+   "summary_original": "PHPの重大な脆弱性「php2shell」は、実は2024年の段階で問題の兆候が見つかっていました。それでも修正は進まず、約2年後に重大な脅威として表面化しました。その背景にあったのは何でしょうか。AIが脆弱性を見つける速度を高める今、問題を修正できない組織は何を失うのでしょうか。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/15/news001.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-15T08:00:00+09:00",
+   "collected_at": "2026-11-15T10:41:16.007360+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 22,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ"
+   ]
+  },
+  {
+   "id": "31a1e3caef3d6121",
+   "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+   "title_original": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+   "summary": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。",
+   "summary_original": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。",
+   "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+   "source_id": "itmedia_news",
+   "source_name": "ITmedia NEWS",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-11-15T07:15:24+09:00",
+   "collected_at": "2026-11-15T10:41:16.007360+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 32,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "9a736294c460795d",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "title_original": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "summary_original": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-15T06:41:22+09:00",
+   "collected_at": "2026-11-15T10:41:16.007360+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 15,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
   {
    "id": "b08cefd9996dfc5a",
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -14659,106 +14756,9 @@
     "コンサル・組織カテゴリ",
     "EY"
    ]
-  },
-  {
-   "id": "b8c0e66ba85503fb",
-   "title": "Big Tech’s big AI buildout will not end until someone stops it",
-   "title_original": "Big Tech’s big AI buildout will not end until someone stops it",
-   "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]",
-   "summary_original": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-05T19:45:00+09:00",
-   "collected_at": "2026-11-05T20:24:52.915161+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 10,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "53c56afbaf05f856",
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "title_original": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-   "summary_original": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-11-05T18:00:00+09:00",
-   "collected_at": "2026-11-06T04:33:13.036750+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
-  },
-  {
-   "id": "43861cb4798928e3",
-   "title": "「脆弱性報告数が別次元に」　Mythos一般公開を恐れる前に、推奨される7つの優先対策",
-   "title_original": "「脆弱性報告数が別次元に」　Mythos一般公開を恐れる前に、推奨される7つの優先対策",
-   "summary": "Anthropicは、サイバー脅威アクターがAIモデルを用いて攻撃を加速させている状況を受け、企業のセキュリティチームが取るべき対策をまとめたブログ記事を公開した。",
-   "summary_original": "Anthropicは、サイバー脅威アクターがAIモデルを用いて攻撃を加速させている状況を受け、企業のセキュリティチームが取るべき対策をまとめたブログ記事を公開した。",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news040.html",
-   "source_id": "atmarkit",
-   "source_name": "＠IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-05T17:15:00+09:00",
-   "collected_at": "2026-11-05T20:24:52.915161+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 26,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "ANTHROPIC"
-   ]
-  },
-  {
-   "id": "300d91101f21ec1d",
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "title_original": "Merge builds product and business tools with OpenAI technology",
-   "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "summary_original": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-11-05T17:00:00+09:00",
-   "collected_at": "2026-11-06T11:10:18.180009+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -14778,7 +14778,7 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
@@ -14792,28 +14792,28 @@
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "11件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14855,7 +14855,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "2件 / 全1387件",
+   "status": "1件 / 全1387件",
    "ok": true
   },
   {
@@ -14883,7 +14883,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "1件 / 全18件",
+   "status": "AI関連なし（全18件）",
    "ok": true
   },
   {
@@ -14897,7 +14897,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "8件 / 全20件",
+   "status": "9件 / 全20件",
    "ok": true
   },
   {
@@ -14911,7 +14911,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "6件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
