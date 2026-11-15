@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T04:26:30.454927+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 11,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NVIDIA",
+   "item": {
+    "id": "31a1e3caef3d6121",
+    "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+    "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+    "source_name": "ITmedia NEWS",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 32
+   }
+  },
+  {
+   "point": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI",
+   "item": {
+    "id": "b08cefd9996dfc5a",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part tw",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、OPENAI",
+   "item": {
+    "id": "d46b516a4c8344dc",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 26
+   }
+  },
+  {
+   "point": "PHPの重大な脆弱性「php2shell」は、実は2024年の段階で問題の兆候が見つかっていました。それでも修正は進まず、約2年後に重大な脅威として表面化しました。その背景にあったのは何でしょうか。AIが脆弱性を見つける速度を高める今、問題を修正できない組織は何を失うのでしょうか。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ",
+   "item": {
+    "id": "c0fc906cc6901c56",
+    "title": "PHP重大脆弱性は「始まり」に過ぎない？　2年前の兆候が示す“次の危機”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/15/news001.html",
+    "source_name": "＠IT",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 22
+   }
+  },
+  {
+   "point": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a comp",
+   "so_what": "（自動要約なし）スコアの根拠: NVIDIA",
+   "item": {
+    "id": "cdf34d438f124e67",
+    "title": "Where was Nvidia’s security team?",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 17
+   }
+  },
+  {
+   "point": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "so_what": "（自動要約なし）スコアの根拠: NVIDIA",
+   "item": {
+    "id": "2a2bfff1121f561b",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "source_name": "TechCrunch (AI)",
+    "category": "投資・M&A",
+    "region": "global",
+    "score": 17
+   }
+  }
+ ],
+ "watchlist": []
+}
