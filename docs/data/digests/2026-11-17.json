@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T07:59:15.391218+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition ",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、NVIDIA",
+   "item": {
+    "id": "21a6fc2b55ffdb4f",
+    "title": "The open-source movement wants Jensen Huang back",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 32
+   }
+  },
+  {
+   "point": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misre",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、一次情報・重要メディア、OPENAI",
+   "item": {
+    "id": "ea6ee25fa2b6781e",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 31
+   }
+  },
+  {
+   "point": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、EY、OPENAI",
+   "item": {
+    "id": "d0b83026be95e613",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、EY、OPENAI",
+   "item": {
+    "id": "5f72fbdc79b9385d",
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "source_name": "The Verge (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 30
+   }
+  },
+  {
+   "point": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、OPENAI",
+   "item": {
+    "id": "773cc78ee17a9631",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "source_name": "TechCrunch (AI)",
+    "category": "リスク・ガバナンス",
+    "region": "global",
+    "score": 26
+   }
+  },
+  {
+   "point": "AX（Agent Experience、エージェント体験）とは、AI（人工知能）エージェントにとっての使いやすさを指す言葉である。人間にとっての使いやすさを表す「UX（User Experience、ユーザー体験）」になぞらえたもので、AIが目的に合ったWebサイトやソフトウエアを探し当て、その機能を正しく操作できるか",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "e7cd8188dd16cfcf",
+    "title": "AIエージェントにとっての使いやすさ「AX」、人間前提の設計に見直し迫る",
+    "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/110400331/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  }
+ ],
+ "watchlist": []
+}
