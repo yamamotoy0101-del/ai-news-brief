@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T06:31:54.761538+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 20,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its ",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、OPENAI、ANTHROPIC",
+   "item": {
+    "id": "d4ec4820484976f5",
+    "title": "Remember the frontier AI pause? Chip companies don’t either",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 33
+   }
+  },
+  {
+   "point": "AIは核兵器以上の脅威を国際秩序にもたらすのか。そんな問いが現実味を帯びてきた。米中の技術覇権競争が激化する中、各国は安全性への懸念を抱えながらも開発競争から降りられないジレンマを抱える。人類滅亡論まで飛び出す超知能の脅威。急変化する時代を経済安全保障の専門家が読み解く。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "4ecf84ea90347544",
+    "title": "米国に「悪魔の選択」迫るAI競争　減速なら中国優位、加速でも人類滅亡危機",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03671/111300008/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "前回までで承認申請フローが完成しました。全体として、想定する動作となっているかを確認します。テストペインで新しいテストセッションを開始し、「承認申請したい」と入力します。このキーワードで、承認申請トピックに処理が移ります。それに伴い、「申請区分」「社員番号」「領収書」が順に尋ねられます。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "0d617b4d3b6620e6",
+    "title": "Copilot Studioで作った承認申請AIエージェント、どうやってテストするか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03827/111200004/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "米Cognition（コグニション）は2026年4月、日本法人であるCognition AI Japan（コグニションAIジャパン）を設立し、正井拓己氏が日本法人社長兼ゼネラルマネージャーに就任した。ソフトウエア開発向け自律型AI（人工知能）エージェント「Devin」を日本で展開するべく、直販ビジネスの促進やFDEに相",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "6599e0152707e36d",
+    "title": "直販とFDEで「Devin」を伸ばす、Cognition日本法人の正井社長が語る普及策",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02893/111700018/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "中国インターネット検索最大手の百度（バイドゥ）は2026年9月21日、オフィス作業向けに設計された対話型の生成AI（人工知能）サービス「庫庫AI」の海外版「Kooko」の海外ユーザー数が1年で1000万人を突破し、世界で約200の国と地域のユーザーに利用されていると発表した。庫庫AIおよびKookoのグローバルでのユー",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "b82ac7a8b24bc143",
+    "title": "バイドゥのオフィスAI「Kooko」、海外展開1年で1000万人突破",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02653/111300088/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "最近、保育園に通っている息子から質問攻めを受けている。きっかけは、動物や恐竜などが1対1で戦う動画コンテンツに息子がハマったことだ。例えば、大型トカゲとイノシシが戦い、どちらかが相手を倒すという内容である。中にはドラゴンなど、架空の生き物同士が対戦するエピソードもある。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "75e5550b12281dd3",
+    "title": "生成AIで進化する音声アシスタント、活躍機会の増加で存在感を高められるか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/111302150/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  }
+ ],
+ "watchlist": []
+}
