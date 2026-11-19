@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T06:43:58.741841+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 15,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders t",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、META",
+   "item": {
+    "id": "d9d2fba47fd34f0c",
+    "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough ",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NVIDIA、AMAZON",
+   "item": {
+    "id": "448d198a6d06442b",
+    "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 27
+   }
+  },
+  {
+   "point": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、ACCENTURE、AMAZON",
+   "item": {
+    "id": "7e4679faa3409569",
+    "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 26
+   }
+  },
+  {
+   "point": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、MICROSOFT",
+   "item": {
+    "id": "0b9c0dc10fb773ec",
+    "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+    "url": "https://www.publickey1.jp/blog/26/database_hubai.html",
+    "source_name": "Publickey",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI Lea",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、AMAZON",
+   "item": {
+    "id": "e04b4e930bcdca98",
+    "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、GOOGLE",
+   "item": {
+    "id": "6d6821f501bbce2e",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "source_name": "TechCrunch (AI)",
+    "category": "企業導入",
+    "region": "global",
+    "score": 20
+   }
+  }
+ ],
+ "watchlist": []
+}
