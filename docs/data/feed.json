@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-20T21:03:30.192176+09:00",
+ "generated_at": "2026-11-21T04:39:00.831816+09:00",
  "runs": [
+  {
+   "at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "fetched": 125,
+   "added": 11,
+   "enriched": 0
+  },
   {
    "at": "2026-11-20T21:03:30.192176+09:00",
    "slot": "夜",
@@ -203,16 +210,198 @@
    "fetched": 129,
    "added": 41,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-11T04:22:14.841452+09:00",
-   "slot": "朝",
-   "fetched": 110,
-   "added": 31,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "321bf9e3c390a636",
+   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "title_original": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+   "summary_original": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-21T04:32:08+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "dc26abff63441211",
+   "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+   "title_original": "How Standard Bank Group automates AI risk assessment for generative AI",
+   "summary": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence.",
+   "summary_original": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-11-21T04:28:56+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "AMAZON"
+   ]
+  },
+  {
+   "id": "3a0cb236fd3220da",
+   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "title_original": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+   "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+   "summary_original": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-21T03:50:19+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 5,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "2fdd7a0916ab501f",
+   "title": "The most misunderstood graph in AI just got a major update",
+   "title_original": "The most misunderstood graph in AI just got a major update",
+   "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+   "summary_original": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source_id": "mit_tr_ai",
+   "source_name": "MIT Technology Review (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-11-21T03:15:15+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 29,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "一次情報・重要メディア",
+    "EY"
+   ]
+  },
+  {
+   "id": "859ee3ec8c206bcf",
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "title_original": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+   "summary_original": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-21T01:34:13+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "f0e77c900b9f7797",
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "title_original": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+   "summary_original": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-20T23:55:44+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "912ce9389b493fc3",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "title_original": "Six AI-powered gadgets that could make your home office smarter",
+   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "summary_original": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-20T23:00:00+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "779ccf54081cfd88",
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "title_original": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+   "summary_original": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-20T21:30:47+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "ROI"
+   ]
+  },
   {
    "id": "5bb5772428bcce76",
    "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
@@ -259,6 +448,32 @@
    "priority": "watch",
    "reasons": [
     "ROI",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "3ea993db7e3c60d1",
+   "title": "Combatting adversarial distillation",
+   "title_original": "Combatting adversarial distillation",
+   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "summary_original": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "政策・規制",
+   "published_at": "2026-11-20T19:00:00+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 34,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "一次情報・重要メディア",
     "OPENAI"
    ]
   },
@@ -1114,6 +1329,32 @@
    ]
   },
   {
+   "id": "1b0708bc9f02eaf1",
+   "title": "Physical AI is breaking out of the box",
+   "title_original": "Physical AI is breaking out of the box",
+   "summary": "As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.",
+   "summary_original": "As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.",
+   "url": "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box",
+   "source_id": "mckinsey",
+   "source_name": "McKinsey Insights",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-11-20T09:00:00+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 29,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "一次情報・重要メディア",
+    "EY"
+   ]
+  },
+  {
    "id": "0f70f5d35b47bae4",
    "title": "Hitachi Digital、AIエージェントによる開発・実装・運用のライフサイクル全体を統制する「HARC Compose」を発表",
    "title_original": "Hitachi Digital、AIエージェントによる開発・実装・運用のライフサイクル全体を統制する「HARC Compose」を発表",
@@ -1185,6 +1426,31 @@
    "priority": "reference",
    "reasons": [
     "コンサル・組織カテゴリ",
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "f4784c30400364a2",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "title_original": "Can AI help scientists identify promising drug candidates?",
+   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "summary_original": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-11-20T09:00:00+09:00",
+   "collected_at": "2026-11-21T04:39:00.831816+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
     "一次情報・重要メディア"
    ]
   },
@@ -1386,8 +1652,8 @@
    "id": "a22c687c439c6aed",
    "title": "Apple is hiring engineers to build its own AI agent",
    "title_original": "Apple is hiring engineers to build its own AI agent",
-   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
-   "summary_original": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]",
+   "summary_original": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]",
    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
    "source_id": "verge_ai",
    "source_name": "The Verge (AI)",
@@ -14576,294 +14842,29 @@
     "リスク・ガバナンスカテゴリ",
     "一次情報・重要メディア"
    ]
-  },
-  {
-   "id": "589f276410d3736b",
-   "title": "中国、AIとの「親密さ」を規制へ--AIに相談する中国人の実態と不安",
-   "title_original": "中国、AIとの「親密さ」を規制へ--AIに相談する中国人の実態と不安",
-   "summary": "中国で7月、AI交流サービスを規制する規則「人工智能擬人化互動服務管理暫行方法」が施行された。「未成年に対するAIバーチャルパートナーの提供を禁止し、社会的交流の代替や、依存への誘導をサービスの目標としない。人間ではなくAIと交流していることを明記する」といった内容だ。",
-   "summary_original": "中国で7月、AI交流サービスを規制する規則「人工智能擬人化互動服務管理暫行方法」が施行された。「未成年に対するAIバーチャルパートナーの提供を禁止し、社会的交流の代替や、依存への誘導をサービスの目標としない。人間ではなくAIと交流していることを明記する」といった内容だ。",
-   "url": "https://japan.zdnet.com/article/35254663/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "政策・規制",
-   "published_at": "2026-11-13T07:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 28,
-   "priority": "watch",
-   "reasons": [
-    "政策・規制カテゴリ"
-   ]
-  },
-  {
-   "id": "f0000c9e47c40d79",
-   "title": "AIの攻撃はAIで守る、AI SOC実現へ　規制業種を縛る「3つの壁」をTrellixはどう超えるのか",
-   "title_original": "AIの攻撃はAIで守る、AI SOC実現へ　規制業種を縛る「3つの壁」をTrellixはどう超えるのか",
-   "summary": "AIを悪用した攻撃でセキュリティアラートは激増し、人手の分析では追い付かない。だが標的になりやすい金融機関や官公庁ほど、AIによる運用の自動化に踏み切れない事情を抱える。Trellixが発表した新製品は、その壁をどう崩すのか。",
-   "summary_original": "AIを悪用した攻撃でセキュリティアラートは激増し、人手の分析では追い付かない。だが標的になりやすい金融機関や官公庁ほど、AIによる運用の自動化に踏み切れない事情を抱える。Trellixが発表した新製品は、その壁をどう崩すのか。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news019.html",
-   "source_id": "itmedia_enterprise",
-   "source_name": "ITmedia エンタープライズ",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "政策・規制",
-   "published_at": "2026-11-13T07:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 26,
-   "priority": "watch",
-   "reasons": [
-    "政策・規制カテゴリ"
-   ]
-  },
-  {
-   "id": "1147955127a90cd5",
-   "title": "「Siri AI」、エージェント化へ前進か--ターナス新CEOが開発加速を要求",
-   "title_original": "「Siri AI」、エージェント化へ前進か--ターナス新CEOが開発加速を要求",
-   "summary": "アップルの新CEOターナス氏は、「Siri」のAIエージェント化を含むAI戦略の加速を推進しているという。AI分野で出遅れたアップルだが、プライバシー重視の姿勢を武器に巻き返しを狙う。",
-   "summary_original": "アップルの新CEOターナス氏は、「Siri」のAIエージェント化を含むAI戦略の加速を推進しているという。AI分野で出遅れたアップルだが、プライバシー重視の姿勢を武器に巻き返しを狙う。",
-   "url": "https://japan.zdnet.com/article/35254768/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T07:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "13836730cc914f5b",
-   "title": "AIエージェントにIT運用を任せてよいか--自律型運用を安全に実装するための設計原則",
-   "title_original": "AIエージェントにIT運用を任せてよいか--自律型運用を安全に実装するための設計原則",
-   "summary": "クラウドやオンプレミス、SaaS などが混在する複雑なIT 環境において、従来の「障害が起きてから対応する」IT 運用には限界が見え始めている。本連載では、IT 資産・依存関係の可視化、AIOps による障害予防、AIエージェントを活用した自律型運用をテーマに、IT 運用を「障害対応型」から「予防型」「自律型」へ進化させるための考え方と実践方法を解説する。",
-   "summary_original": "クラウドやオンプレミス、SaaS などが混在する複雑なIT 環境において、従来の「障害が起きてから対応する」IT 運用には限界が見え始めている。本連載では、IT 資産・依存関係の可視化、AIOps による障害予防、AIエージェントを活用した自律型運用をテーマに、IT 運用を「障害対応型」から「予防型」「自律型」へ進化させるための考え方と実践方法を解説する。",
-   "url": "https://japan.zdnet.com/article/35254175/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-13T07:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 21,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "5df124cb71f05146",
-   "title": "AIに仕事は“奪われない”が、生まれなくなる――Gartnerが予測する2030年の雇用",
-   "title_original": "AIに仕事は“奪われない”が、生まれなくなる――Gartnerが予測する2030年の雇用",
-   "summary": "「AIに仕事を奪われるのではないか」。こうした不安が広がる中、GartnerはAIが2030年までに雇用に与える影響の予測を発表した。AIは雇用を減らすのか、増やすのか。そして、失職よりも見過ごされがちな影響とは何か。",
-   "summary_original": "「AIに仕事を奪われるのではないか」。こうした不安が広がる中、GartnerはAIが2030年までに雇用に与える影響の予測を発表した。AIは雇用を減らすのか、増やすのか。そして、失職よりも見過ごされがちな影響とは何か。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news014.html",
-   "source_id": "itmedia_enterprise",
-   "source_name": "ITmedia エンタープライズ",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "コンサル・組織",
-   "published_at": "2026-11-13T07:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 20,
-   "priority": "reference",
-   "reasons": [
-    "コンサル・組織カテゴリ"
-   ]
-  },
-  {
-   "id": "ef451e8e07715173",
-   "title": "第6回　経営判断にも「サプライチェーン」がある--情報供給網を作り直せ",
-   "title_original": "第6回　経営判断にも「サプライチェーン」がある--情報供給網を作り直せ",
-   "summary": "本連載では、経営者の意思・目指す方向であるインテントを起点に、社内外の情報をリアルタイムに捉え、AIによって経営判断の質と速度を高める「AI経営」を考える。",
-   "summary_original": "本連載では、経営者の意思・目指す方向であるインテントを起点に、社内外の情報をリアルタイムに捉え、AIによって経営判断の質と速度を高める「AI経営」を考える。",
-   "url": "https://japan.zdnet.com/article/35254785/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-13T07:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "3403360ccc1df753",
-   "title": "Google’s new Gemini model is better at understanding complicated questions",
-   "title_original": "Google’s new Gemini model is better at understanding complicated questions",
-   "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
-   "summary_original": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-11-13T06:55:32+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 12,
-   "priority": "reference",
-   "reasons": [
-    "GOOGLE"
-   ]
-  },
-  {
-   "id": "cb86ca9a5a41005e",
-   "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
-   "title_original": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
-   "summary": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
-   "summary_original": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
-   "source_id": "aws_ml",
-   "source_name": "AWS Machine Learning Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-13T06:47:07+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": [
-    "AMAZON"
-   ]
-  },
-  {
-   "id": "153c224d22aa747f",
-   "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
-   "title_original": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
-   "summary": "NVIDIAは、東京都内で開催したAIエージェントの技術イベント「NVIDIA Agentic AI Day Japan 2026」において、日本語AIの開発を支援する2つの合成データセット「Nemotron-Personas-Finance-Japan」と「Nemotron-PII-Japan」について説明した。",
-   "summary_original": "NVIDIAは、東京都内で開催したAIエージェントの技術イベント「NVIDIA Agentic AI Day Japan 2026」において、日本語AIの開発を支援する2つの合成データセット「Nemotron-Personas-Finance-Japan」と「Nemotron-PII-Japan」について説明した。",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-11-13T06:45:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 25,
-   "priority": "watch",
-   "reasons": [
-    "一次情報・重要メディア",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "7bdc015a3d5f81cc",
-   "title": "マイクロソフトの「Outlook」で大規模障害--Microsoft 365、Copilotなどにも影響",
-   "title_original": "マイクロソフトの「Outlook」で大規模障害--Microsoft 365、Copilotなどにも影響",
-   "summary": "米Microsoftのメールサービス「Outlook」で日本時間11月13日、大規模な障害が発生した。障害監視サイト「Downdetector」には、同日午前3時15分までに13万件を超える障害報告が寄せられた。午前5時24分時点でも障害は続いており、Microsoftが原因の調査と復旧作業を進めている。",
-   "summary_original": "米Microsoftのメールサービス「Outlook」で日本時間11月13日、大規模な障害が発生した。障害監視サイト「Downdetector」には、同日午前3時15分までに13万件を超える障害報告が寄せられた。午前5時24分時点でも障害は続いており、Microsoftが原因の調査と復旧作業を進めている。",
-   "url": "https://japan.cnet.com/article/35254809/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-11-13T06:45:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 18,
-   "priority": "reference",
-   "reasons": [
-    "MICROSOFT"
-   ]
-  },
-  {
-   "id": "fc0f425d4885ad33",
-   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-   "title_original": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-   "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-   "summary_original": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-13T06:27:10+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 18,
-   "priority": "reference",
-   "reasons": [
-    "MICROSOFT"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "19件 / 全20件",
+   "status": "17件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "4件 / 全50件",
+   "status": "3件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "15件 / 全50件",
+   "status": "8件 / 全50件",
    "ok": true
   },
   {
@@ -14877,14 +14878,14 @@
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "11件 / 全20件",
+   "status": "10件 / 全20件",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "24件 / 全30件",
+   "status": "18件 / 全30件",
    "ok": true
   },
   {
@@ -14898,7 +14899,7 @@
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "9件 / 全15件",
+   "status": "8件 / 全15件",
    "ok": true
   },
   {
@@ -14940,7 +14941,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件 / 全1418件",
+   "status": "3件 / 全1420件",
    "ok": true
   },
   {
@@ -14975,14 +14976,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "AI関連なし（全10件）",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "12件 / 全20件",
+   "status": "14件 / 全20件",
    "ok": true
   },
   {
@@ -14996,7 +14997,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "10件 / 全10件",
+   "status": "9件 / 全10件",
    "ok": true
   },
   {
@@ -15010,7 +15011,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   }
  ]
