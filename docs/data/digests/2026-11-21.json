@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T06:27:02.820075+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "AIエージェントが人に代わって判断し、実行する時代が近づいている。その判断の確かさを左右するのは、AIが使うデータだ。PwC Japanが特許を取得した仕組みは、一度承認したら終わりの従来のガバナンスをどう変えるのか。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、PWC",
+   "item": {
+    "id": "4da52b5a1312de3e",
+    "title": "AIが使うデータは「今この瞬間」でも信頼できるか　PwCが特許を取得した仕組みとは",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news017.html",
+    "source_name": "ITmedia エンタープライズ",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 43
+   }
+  },
+  {
+   "point": "アクセンチュアは2026年11月20日に記者説明会を開き、「セキュリティーのアクセンチュア」を新たな旗印として打ち出した。日本法人の濱岡大社長が表明した。2026年9月までに株式の過半を取得したOTセキュリティー企業、米Dragos（ドラゴス）の技術や知見も生かし、日本企業向けのサービスを広げる。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、一次情報・重要メディア、アクセンチュア",
+   "item": {
+    "id": "53d14e2209796d75",
+    "title": "「セキュリティーのアクセンチュア」、日本で表明　M＆Aと人材でOT需要狙う",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12194/",
+    "source_name": "日経クロステック",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 37
+   }
+  },
+  {
+   "point": "日立製作所はOpenAIが主導する「Daybreak Defense Network」に参画する。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、日立、OPENAI",
+   "item": {
+    "id": "1deab91004b9909c",
+    "title": "日立製作所、OpenAI主導のセキュリティプログラムに参画",
+    "url": "https://japan.zdnet.com/article/35255238/",
+    "source_name": "ZDNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 35
+   }
+  },
+  {
+   "point": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、OPENAI",
+   "item": {
+    "id": "3ea993db7e3c60d1",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source_name": "OpenAI News",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 34
+   }
+  },
+  {
+   "point": "日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる。CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見据える戦略を語った。現場に入る精鋭チーム「FDE」を1年で3000人へ3倍増させ",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、日立",
+   "item": {
+    "id": "3d1b399678b2ae9e",
+    "title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+    "source_name": "ITmedia AI+",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 32
+   }
+  },
+  {
+   "point": "衣料品通販サイト「ZOZOTOWN」を手掛けるZOZOが、システム開発への生成AI活用を進めている。米Anthropic（アンソロピック）の「Claude Code」をはじめとする開発向けAIエージェントを、ZOZO及びグループ内の対象企業に所属するエンジニア全員が使用できる体制を整備した。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、ANTHROPIC",
+   "item": {
+    "id": "9dd1b9aa9eb4ae8d",
+    "title": "ZOZO、AI活用で開発完了数1.8倍　月200ドル上限でツールを自由選択",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12188/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 32
+   }
+  }
+ ],
+ "watchlist": []
+}
