@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-21T12:03:55.253911+09:00",
+ "generated_at": "2026-11-21T20:38:22.509085+09:00",
  "runs": [
+  {
+   "at": "2026-11-21T20:38:22.509085+09:00",
+   "slot": "夜",
+   "fetched": 71,
+   "added": 2,
+   "enriched": 0
+  },
   {
    "at": "2026-11-21T12:03:55.253911+09:00",
    "slot": "昼",
@@ -203,16 +210,55 @@
    "fetched": 108,
    "added": 11,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-11T20:23:03.741976+09:00",
-   "slot": "夜",
-   "fetched": 122,
-   "added": 28,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "de1478fd4afed47a",
+   "title": "AIは人並みに動画編集できる？　“バズる切り抜き”からガジェット開封動画まで2つのツールを試す",
+   "title_original": "AIは人並みに動画編集できる？　“バズる切り抜き”からガジェット開封動画まで2つのツールを試す",
+   "summary": "ネット動画では、長尺コンテンツから短い動画を大量に切り出す手法が主流になりつつある。ただ、必要なところを自分で拾い上げる編集は一朝一夕には身につかない。ならばAIに任せればいいのでは？ 長尺動画を自動で切り抜く「FlexClip」と、AIに指示して編集させる「CutBay」を試した。指示通りに動かないAIを鬼詰めしつつ、人間が編集した動画とも比べてみた。",
+   "summary_original": "ネット動画では、長尺コンテンツから短い動画を大量に切り出す手法が主流になりつつある。ただ、必要なところを自分で拾い上げる編集は一朝一夕には身につかない。ならばAIに任せればいいのでは？ 長尺動画を自動で切り抜く「FlexClip」と、AIに指示して編集させる「CutBay」を試した。指示通りに動かないAIを鬼詰めしつつ、人間が編集した動画とも比べてみた。",
+   "url": "https://www.itmedia.co.jp/news/article/2611/21/2000003387/",
+   "source_id": "itmedia_news",
+   "source_name": "ITmedia NEWS",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "その他",
+   "published_at": "2026-11-21T15:38:29+09:00",
+   "collected_at": "2026-11-21T20:38:22.509085+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "8b19c05b6040010b",
+   "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
+   "title_original": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
+   "summary": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
+   "summary_original": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-21T14:22:15+09:00",
+   "collected_at": "2026-11-21T20:38:22.509085+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
   {
    "id": "3628ce26a7979362",
    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
@@ -14790,70 +14836,22 @@
     "コンサル・組織カテゴリ",
     "一次情報・重要メディア"
    ]
-  },
-  {
-   "id": "37c8ecad4e48bba5",
-   "title": "ベリサーブ、フロンティアAI時代の脆弱性対応を支援する「サイバーセキュリティ強化ソリューション」",
-   "title_original": "ベリサーブ、フロンティアAI時代の脆弱性対応を支援する「サイバーセキュリティ強化ソリューション」",
-   "summary": "SCSKグループの株式会社ベリサーブは12日、攻撃者によるフロンティアAIの活用で脆弱性の発見・悪用が高速化する中において、企業システムの脆弱性対応から復旧体制整備までを一貫して支援する「サイバーセキュリティ強化ソリューション」を提供開始すると発表した。",
-   "summary_original": "SCSKグループの株式会社ベリサーブは12日、攻撃者によるフロンティアAIの活用で脆弱性の発見・悪用が高速化する中において、企業システムの脆弱性対応から復旧体制整備までを一貫して支援する「サイバーセキュリティ強化ソリューション」を提供開始すると発表した。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2155789.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T09:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 21,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "ebc444cb9748ffcb",
-   "title": "NTT、少ないデータから特定の専門性を有したLLMにチューニングする技術を開発　企業の業務マニュアルの学習などに新手法",
-   "title_original": "NTT、少ないデータから特定の専門性を有したLLMにチューニングする技術を開発　企業の業務マニュアルの学習などに新手法",
-   "summary": "NTT株式会社は11月12日、企業の業務マニュアルの知識を大規模言語モデル（LLM）に定着させるための新たなチューニング技術を開発したと発表した。",
-   "summary_original": "NTT株式会社は11月12日、企業の業務マニュアルの知識を大規模言語モデル（LLM）に定着させるための新たなチューニング技術を開発したと発表した。",
-   "url": "https://internet.watch.impress.co.jp/docs/news/2155928.html",
-   "source_id": "impress_internet",
-   "source_name": "INTERNET Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-11-13T08:30:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 17,
-   "priority": "reference",
-   "reasons": [
-    "NTT"
-   ]
   }
  ],
- "slot": "昼",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "17件 / 全20件",
+   "status": "12件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "4件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
@@ -14867,21 +14865,21 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "7件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "11件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "18件 / 全30件",
+   "status": "9件 / 全30件",
    "ok": true
   },
   {
@@ -14895,7 +14893,7 @@
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "8件 / 全15件",
+   "status": "5件 / 全15件",
    "ok": true
   },
   {
@@ -14909,7 +14907,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14951,7 +14949,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "16件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
@@ -14965,7 +14963,7 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "2件 / 全18件",
+   "status": "AI関連なし（全18件）",
    "ok": true
   },
   {
@@ -14979,7 +14977,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "14件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
@@ -14993,7 +14991,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "9件 / 全10件",
+   "status": "3件 / 全10件",
    "ok": true
   },
   {
