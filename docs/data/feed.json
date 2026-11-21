@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-21T20:38:22.509085+09:00",
+ "generated_at": "2026-11-22T03:44:36.480545+09:00",
  "runs": [
+  {
+   "at": "2026-11-22T03:44:36.480545+09:00",
+   "slot": "夜",
+   "fetched": 38,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-11-21T20:38:22.509085+09:00",
    "slot": "夜",
@@ -203,16 +210,78 @@
    "fetched": 134,
    "added": 55,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-12T04:16:59.684623+09:00",
-   "slot": "朝",
-   "fetched": 108,
-   "added": 11,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "6ccebafcdf30c270",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "title_original": "Here are the top AI agents that can live in your text messages",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "summary_original": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-22T02:00:00+09:00",
+   "collected_at": "2026-11-22T03:44:36.480545+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "dffab27fe8d5022c",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "title_original": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "summary_original": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-22T01:00:00+09:00",
+   "collected_at": "2026-11-22T03:44:36.480545+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 13,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "a9f34b76fcc6d54c",
+   "title": "Can Anthropic afford to put safety first?",
+   "title_original": "Can Anthropic afford to put safety first?",
+   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "summary_original": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "政策・規制",
+   "published_at": "2026-11-22T00:00:00+09:00",
+   "collected_at": "2026-11-22T03:44:36.480545+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 26,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "ANTHROPIC"
+   ]
+  },
   {
    "id": "de1478fd4afed47a",
    "title": "AIは人並みに動画編集できる？　“バズる切り抜き”からガジェット開封動画まで2つのツールを試す",
@@ -14758,84 +14827,6 @@
    "reasons": [
     "コンサル・組織カテゴリ"
    ]
-  },
-  {
-   "id": "57d4bdc8e95ac6a4",
-   "title": "Google、Gemini搭載のメガネを米韓で予約開始　395ドルからで12月10日発売へ",
-   "title_original": "Google、Gemini搭載のメガネを米韓で予約開始　395ドルからで12月10日発売へ",
-   "summary": "Googleは、Samsungらと共同開発したGemini対応スマートグラス「intelligent eyewear」の予約受付を米国と韓国で開始した。カメラとマイクを内蔵し、視界の情報を基にGeminiと音声で対話できる。外向きLEDや自動顔ぼかし機能など、周囲のプライバシーにも配慮されている。",
-   "summary_original": "Googleは、Samsungらと共同開発したGemini対応スマートグラス「intelligent eyewear」の予約受付を米国と韓国で開始した。カメラとマイクを内蔵し、視界の情報を基にGeminiと音声で対話できる。外向きLEDや自動顔ぼかし機能など、周囲のプライバシーにも配慮されている。",
-   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
-   "source_id": "itmedia_news",
-   "source_name": "ITmedia NEWS",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T09:30:33+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 36,
-   "priority": "must-read",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "EY",
-    "GOOGLE"
-   ]
-  },
-  {
-   "id": "48456385fe409d21",
-   "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
-   "title_original": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
-   "summary": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
-   "summary_original": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-11-13T09:08:39+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 36,
-   "priority": "must-read",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI",
-    "ANTHROPIC",
-    "MICROSOFT"
-   ]
-  },
-  {
-   "id": "448359cebdc9c402",
-   "title": "Separating signal from noise: The always-on finance intelligence layer",
-   "title_original": "Separating signal from noise: The always-on finance intelligence layer",
-   "summary": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
-   "summary_original": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
-   "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
-   "source_id": "mckinsey",
-   "source_name": "McKinsey Insights",
-   "lang": "en",
-   "region": "global",
-   "category": "コンサル・組織",
-   "published_at": "2026-11-13T09:00:00+09:00",
-   "collected_at": "2026-11-14T04:15:17.159725+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "一次情報・重要メディア"
-   ]
   }
  ],
  "slot": "夜",
@@ -14844,7 +14835,7 @@
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "12件 / 全20件",
+   "status": "5件 / 全20件",
    "ok": true
   },
   {
@@ -14858,42 +14849,42 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "7件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "9件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "10件 / 全30件",
+   "status": "7件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "5件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14935,7 +14926,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "3件 / 全1421件",
+   "status": "1件 / 全1421件",
    "ok": true
   },
   {
@@ -14949,7 +14940,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "6件 / 全20件",
+   "status": "5件 / 全20件",
    "ok": true
   },
   {
@@ -14991,7 +14982,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "3件 / 全10件",
+   "status": "4件 / 全10件",
    "ok": true
   },
   {
@@ -15005,7 +14996,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
