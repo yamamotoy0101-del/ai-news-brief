@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T05:12:53.615422+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 20,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicat",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、一次情報・重要メディア、EY",
+   "item": {
+    "id": "2fdd7a0916ab501f",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "source_name": "MIT Technology Review (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 29
+   }
+  },
+  {
+   "point": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、ROI",
+   "item": {
+    "id": "80c508e366c6fb4c",
+    "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+    "source_name": "ITmedia AI+",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 27
+   }
+  },
+  {
+   "point": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real lif",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、ANTHROPIC",
+   "item": {
+    "id": "a9f34b76fcc6d54c",
+    "title": "Can Anthropic afford to put safety first?",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 26
+   }
+  },
+  {
+   "point": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY",
+   "item": {
+    "id": "59fa562eab8a38b3",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source_name": "TechCrunch (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC",
+   "item": {
+    "id": "8a32ce7496cb7176",
+    "title": "Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ",
+    "url": "https://japan.cnet.com/article/35255245/",
+    "source_name": "CNET Japan",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 22
+   }
+  },
+  {
+   "point": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア",
+   "item": {
+    "id": "8b19c05b6040010b",
+    "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+    "source_name": "ITmedia AI+",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 19
+   }
+  }
+ ],
+ "watchlist": []
+}
