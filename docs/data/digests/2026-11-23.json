@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T05:26:52.420321+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 14,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real lif",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、ANTHROPIC",
+   "item": {
+    "id": "a9f34b76fcc6d54c",
+    "title": "Can Anthropic afford to put safety first?",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "source_name": "The Verge (AI)",
+    "category": "政策・規制",
+    "region": "global",
+    "score": 26
+   }
+  },
+  {
+   "point": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game u",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、EY、META",
+   "item": {
+    "id": "265c68ec3a4cc76b",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "source_name": "The Verge (AI)",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 24
+   }
+  },
+  {
+   "point": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected t",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、NEC、META",
+   "item": {
+    "id": "26e2979e9c83fed2",
+    "title": "Meta ads is now available in AWS Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+    "source_name": "AWS Machine Learning Blog",
+    "category": "企業導入",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "de5cd1a6d51dc917",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "source_name": "OpenAI News",
+    "category": "企業導入",
+    "region": "global",
+    "score": 21
+   }
+  },
+  {
+   "point": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+   "so_what": "（自動要約なし）スコアの根拠: ANTHROPIC",
+   "item": {
+    "id": "edec9f6e27999da2",
+    "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+    "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+    "source_name": "ITmedia AI+",
+    "category": "その他",
+    "region": "domestic",
+    "score": 19
+   }
+  },
+  {
+   "point": "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した。背景には、企業独自の判断基準に関わる課題があるようだ。",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア",
+   "item": {
+    "id": "c46d4c5bf987ca40",
+    "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+    "source_name": "ITmedia AI+",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 19
+   }
+  }
+ ],
+ "watchlist": []
+}
