@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-22T20:52:11.575859+09:00",
+ "generated_at": "2026-11-23T04:05:37.942167+09:00",
  "runs": [
+  {
+   "at": "2026-11-23T04:05:37.942167+09:00",
+   "slot": "朝",
+   "fetched": 15,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-11-22T20:52:11.575859+09:00",
    "slot": "夜",
@@ -203,16 +210,57 @@
    "fetched": 141,
    "added": 48,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-13T04:35:32.122526+09:00",
-   "slot": "朝",
-   "fetched": 119,
-   "added": 31,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "265c68ec3a4cc76b",
+   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "title_original": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+   "summary_original": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "コンサル・組織",
+   "published_at": "2026-11-23T02:25:20+09:00",
+   "collected_at": "2026-11-23T04:05:37.942167+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "コンサル・組織カテゴリ",
+    "EY",
+    "META"
+   ]
+  },
+  {
+   "id": "0f50037c76f25ff3",
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "title_original": "The vibe-coding revolution is coming to all the gadgets",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+   "summary_original": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+   "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-22T22:00:00+09:00",
+   "collected_at": "2026-11-23T04:05:37.942167+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 5,
+   "priority": "reference",
+   "reasons": []
+  },
   {
    "id": "26e2979e9c83fed2",
    "title": "Meta ads is now available in AWS Quick",
@@ -261,6 +309,31 @@
    "priority": "reference",
    "reasons": [
     "GOOGLE"
+   ]
+  },
+  {
+   "id": "de5cd1a6d51dc917",
+   "title": "Perplexity and Intelligence",
+   "title_original": "Perplexity and Intelligence",
+   "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "summary_original": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-11-22T09:00:00+09:00",
+   "collected_at": "2026-11-23T04:05:37.942167+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "一次情報・重要メディア"
    ]
   },
   {
@@ -14756,99 +14829,29 @@
     "企業導入カテゴリ",
     "AMAZON"
    ]
-  },
-  {
-   "id": "550a46fdad23a3d7",
-   "title": "虎柄ロボットに「阪神君」と命名　首相、フィジカルAIを体験　関連企業と意見交換",
-   "title_original": "虎柄ロボットに「阪神君」と命名　首相、フィジカルAIを体験　関連企業と意見交換",
-   "summary": "高市早苗首相は11月12日、機械を人工知能（AI）で自律的に動かす「フィジカルAI」の関連企業の代表らを官邸に招き、意見交換会を開いた。",
-   "summary_original": "高市早苗首相は11月12日、機械を人工知能（AI）で自律的に動かす「フィジカルAI」の関連企業の代表らを官邸に招き、意見交換会を開いた。",
-   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
-   "source_id": "itmedia_news",
-   "source_name": "ITmedia NEWS",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-11-13T12:38:07+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "8b118c50969f7526",
-   "title": "AIコンテンツを排除　心拍で証明する「実在する人間」だけのSNSが登場",
-   "title_original": "AIコンテンツを排除　心拍で証明する「実在する人間」だけのSNSが登場",
-   "summary": "フィットネストラッカー「WHOOP 5.0」を手がけるWHOOPは、アプリの新機能「WHOOP Humans」の提供を開始した。",
-   "summary_original": "フィットネストラッカー「WHOOP 5.0」を手がけるWHOOPは、アプリの新機能「WHOOP Humans」の提供を開始した。",
-   "url": "https://japan.cnet.com/article/35254830/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-11-13T12:20:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "145ceeda213ec2b7",
-   "title": "NVIDIAのファンCEOが辞任、カリスマ退場で「AIの中央銀行」はどう変わるか",
-   "title_original": "NVIDIAのファンCEOが辞任、カリスマ退場で「AIの中央銀行」はどう変わるか",
-   "summary": "米NVIDIA（エヌビディア）のジェンスン・ファンCEO（最高経営責任者）が辞任した。エヌビディアの取締役会は、中国のスパイとされる女性やエヌビディア幹部との不倫を受け、ファン氏の辞任を急いだ格好だ。「カリスマ」の退場は、ネオクラウド（新興クラウド企業）の信用不安や、米中間選挙の結果で揺れるAI（人工知能）ブームの転換点になる可能性がある。",
-   "summary_original": "米NVIDIA（エヌビディア）のジェンスン・ファンCEO（最高経営責任者）が辞任した。エヌビディアの取締役会は、中国のスパイとされる女性やエヌビディア幹部との不倫を受け、ファン氏の辞任を急いだ格好だ。「カリスマ」の退場は、ネオクラウド（新興クラウド企業）の信用不安や、米中間選挙の結果で揺れるAI（人工知能）ブームの転換点になる可能性がある。",
-   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12174/",
-   "source_id": "nikkei_xtech",
-   "source_name": "日経クロステック",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T12:10:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 34,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "一次情報・重要メディア",
-    "NVIDIA"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "4件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
@@ -14925,7 +14928,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "AI関連なし（全1421件）",
+   "status": "1件 / 全1422件",
    "ok": true
   },
   {
@@ -14939,7 +14942,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "3件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14981,7 +14984,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "3件 / 全10件",
    "ok": true
   },
   {
