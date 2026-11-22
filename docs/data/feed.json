@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-22T11:01:15.938330+09:00",
+ "generated_at": "2026-11-22T20:52:11.575859+09:00",
  "runs": [
+  {
+   "at": "2026-11-22T20:52:11.575859+09:00",
+   "slot": "夜",
+   "fetched": 18,
+   "added": 0,
+   "enriched": 0
+  },
   {
    "at": "2026-11-22T11:01:15.938330+09:00",
    "slot": "昼",
@@ -202,13 +209,6 @@
    "slot": "朝",
    "fetched": 119,
    "added": 31,
-   "enriched": 0
-  },
-  {
-   "at": "2026-11-12T20:42:59.235486+09:00",
-   "slot": "夜",
-   "fetched": 124,
-   "added": 25,
    "enriched": 0
   }
  ],
@@ -14828,7 +14828,7 @@
    ]
   }
  ],
- "slot": "昼",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
@@ -14855,7 +14855,7 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14876,7 +14876,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "6件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
@@ -14939,7 +14939,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "6件 / 全20件",
+   "status": "3件 / 全20件",
    "ok": true
   },
   {
@@ -14960,14 +14960,14 @@
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "AI関連なし（全10件）",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "7件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -14981,7 +14981,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "3件 / 全10件",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
