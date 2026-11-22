@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-22T03:44:36.480545+09:00",
+ "generated_at": "2026-11-22T11:01:15.938330+09:00",
  "runs": [
+  {
+   "at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "fetched": 32,
+   "added": 8,
+   "enriched": 0
+  },
   {
    "at": "2026-11-22T03:44:36.480545+09:00",
    "slot": "夜",
@@ -203,16 +210,199 @@
    "fetched": 124,
    "added": 25,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-12T11:47:28.154147+09:00",
-   "slot": "昼",
-   "fetched": 134,
-   "added": 55,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "26e2979e9c83fed2",
+   "title": "Meta ads is now available in AWS Quick",
+   "title_original": "Meta ads is now available in AWS Quick",
+   "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
+   "summary_original": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
+   "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+   "source_id": "aws_ml",
+   "source_name": "AWS Machine Learning Blog",
+   "lang": "en",
+   "region": "global",
+   "category": "企業導入",
+   "published_at": "2026-11-22T10:59:13+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ",
+    "NEC",
+    "META"
+   ]
+  },
+  {
+   "id": "b36490365b12f401",
+   "title": "Google検索トップに「AIモード」の履歴　PC版で中断した調べ物を再開",
+   "title_original": "Google検索トップに「AIモード」の履歴　PC版で中断した調べ物を再開",
+   "summary": "パソコン版Google検索のトップページから、AIモードで中断した調べ物を再開できるようになる。Google検索の製品担当バイスプレジデント、Robby Stein氏は11月19日（米国時間）、Xへの投稿で、世界で順次提供すると明らかにした。折りたためるサイドバーに最近のやりとりが並び、選ぶと続けて質問できる。",
+   "summary_original": "パソコン版Google検索のトップページから、AIモードで中断した調べ物を再開できるようになる。Google検索の製品担当バイスプレジデント、Robby Stein氏は11月19日（米国時間）、Xへの投稿で、世界で順次提供すると明らかにした。折りたためるサイドバーに最近のやりとりが並び、選ぶと続けて質問できる。",
+   "url": "https://japan.cnet.com/article/35255268/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "その他",
+   "published_at": "2026-11-22T10:22:00+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "GOOGLE"
+   ]
+  },
+  {
+   "id": "edec9f6e27999da2",
+   "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+   "title_original": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+   "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+   "summary_original": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+   "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "その他",
+   "published_at": "2026-11-22T08:21:31+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "776a02daa8114f21",
+   "title": "若手こそ「Linux」を学ぶべきなのはなぜ？　AI時代に「エンジニアとして生き残る方法」",
+   "title_original": "若手こそ「Linux」を学ぶべきなのはなぜ？　AI時代に「エンジニアとして生き残る方法」",
+   "summary": "AIの普及によって若手エンジニアの業務や“成長の前提”が変わりつつあります。企業から必要とされるエンジニアになるには、何を学べばよいのでしょうか。3つの調査から、そのヒントを探ります。",
+   "summary_original": "AIの普及によって若手エンジニアの業務や“成長の前提”が変わりつつあります。企業から必要とされるエンジニアになるには、何を学べばよいのでしょうか。3つの調査から、そのヒントを探ります。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/22/news001.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-22T08:00:00+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 11,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "fbddeeb5d60cc2f9",
+   "title": "リーマン予想の証明、Lean開発者らが「正しい」と声明　Claudeを使って発見",
+   "title_original": "リーマン予想の証明、Lean開発者らが「正しい」と声明　Claudeを使って発見",
+   "summary": "生成AI「Claude」を使って数学の難問「リーマン予想」を証明したとする研究成果について、数学の証明をコンピューターで検証するプログラミング言語「Lean」と数学ライブラリー「Mathlib」の開発コミュニティーは11月21日、証明は正しいとする共同声明を発表した。約1700万行のコードを複数の方法で検証し、リーマン予想そのものを証明していると確認した。",
+   "summary_original": "生成AI「Claude」を使って数学の難問「リーマン予想」を証明したとする研究成果について、数学の証明をコンピューターで検証するプログラミング言語「Lean」と数学ライブラリー「Mathlib」の開発コミュニティーは11月21日、証明は正しいとする共同声明を発表した。約1700万行のコードを複数の方法で検証し、リーマン予想そのものを証明していると確認した。",
+   "url": "https://japan.cnet.com/article/35255270/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-22T06:39:00+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 16,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "f3487ac9886e909d",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "title_original": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "summary_original": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-22T06:37:10+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 18,
+   "priority": "reference",
+   "reasons": [
+    "ROI"
+   ]
+  },
+  {
+   "id": "a1abc1ba2744afcb",
+   "title": "A tale of two Nvidias",
+   "title_original": "A tale of two Nvidias",
+   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "summary_original": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-22T06:07:42+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
+  {
+   "id": "c46d4c5bf987ca40",
+   "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
+   "title_original": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
+   "summary": "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した。背景には、企業独自の判断基準に関わる課題があるようだ。",
+   "summary_original": "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した。背景には、企業独自の判断基準に関わる課題があるようだ。",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-22T06:00:00+09:00",
+   "collected_at": "2026-11-22T11:01:15.938330+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "一次情報・重要メディア"
+   ]
+  },
   {
    "id": "6ccebafcdf30c270",
    "title": "Here are the top AI agents that can live in your text messages",
@@ -14636,206 +14826,15 @@
     "一次情報・重要メディア",
     "NVIDIA"
    ]
-  },
-  {
-   "id": "e0d35d99ebbf1a20",
-   "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
-   "title_original": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
-   "summary": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
-   "summary_original": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
-   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-11-13T12:00:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 20,
-   "priority": "reference",
-   "reasons": [
-    "GOOGLE"
-   ]
-  },
-  {
-   "id": "a67eef77fa5218b9",
-   "title": "「AI特化“ネオクラウド”の8割が消える」　553兆円の減損リスクが暴く、巨額AI投資の“不都合な真実”",
-   "title_original": "「AI特化“ネオクラウド”の8割が消える」　553兆円の減損リスクが暴く、巨額AI投資の“不都合な真実”",
-   "summary": "Gartnerは、AIプロバイダーが現在のペースで設備投資を続けると、2030年末までに3.5兆ドルを超えるAIインフラへの支出が減損リスクにさらされる可能性があると予測した。",
-   "summary_original": "Gartnerは、AIプロバイダーが現在のペースで設備投資を続けると、2030年末までに3.5兆ドルを超えるAIインフラへの支出が減損リスクにさらされる可能性があると予測した。",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news032.html",
-   "source_id": "atmarkit",
-   "source_name": "＠IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T12:00:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 20,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "118464fa21f4da0d",
-   "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
-   "title_original": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
-   "summary": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
-   "summary_original": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-11-13T10:44:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "567e2647b6cf465c",
-   "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
-   "title_original": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
-   "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。",
-   "summary_original": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
-   "source_id": "itmedia_ai",
-   "source_name": "ITmedia AI+",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-13T10:22:05+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 26,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "一次情報・重要メディア"
-   ]
-  },
-  {
-   "id": "a1e3dc0607bb9575",
-   "title": "「AI時代にもスマートフォンはデバイスとして重要」とクアルコムCEO",
-   "title_original": "「AI時代にもスマートフォンはデバイスとして重要」とクアルコムCEO",
-   "summary": "Qualcommのクリスティアーノ・アモンCEOは、AI眼鏡など新しい端末が普及してもスマートフォンはなくならず、利用者に代わって作業するAIエージェントや周辺機器を支える「処理のハブ」になるとの見方を示した。",
-   "summary_original": "Qualcommのクリスティアーノ・アモンCEOは、AI眼鏡など新しい端末が普及してもスマートフォンはなくならず、利用者に代わって作業するAIエージェントや周辺機器を支える「処理のハブ」になるとの見方を示した。",
-   "url": "https://japan.cnet.com/article/35254813/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "その他",
-   "published_at": "2026-11-13T10:15:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "77ba549c1d704ed4",
-   "title": "SAP CEOに「マルチベンダーAIエージェントのガバナンスの在り方」を聞いてみた",
-   "title_original": "SAP CEOに「マルチベンダーAIエージェントのガバナンスの在り方」を聞いてみた",
-   "summary": "今回は、SAP CEO Christian Klein氏と、デル・テクノロジーズ 代表取締役社長 Jon Robottom氏の「明言」を紹介する。",
-   "summary_original": "今回は、SAP CEO Christian Klein氏と、デル・テクノロジーズ 代表取締役社長 Jon Robottom氏の「明言」を紹介する。",
-   "url": "https://japan.zdnet.com/article/35254805/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T10:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "dd5286911f2d8260",
-   "title": "PR： AI時代の「時間との戦い」に挑むテクマトリックス　Palo Alto Networks製品を自社で使い倒した知見で販売パートナーを支援",
-   "title_original": "PR： AI時代の「時間との戦い」に挑むテクマトリックス　Palo Alto Networks製品を自社で使い倒した知見で販売パートナーを支援",
-   "summary": "AIを駆使した攻撃の自動化・高速化に、従来の枠組みの対策では追い付けなくなっている。2009年からPalo Alto Networks製品を扱うテクマトリックスは、自社で先行導入した製品の運用知見を武器に販売パートナーを支援する。日本企業の課題と、Platformizationを現実の対策に落とし込む支援について聞いた。",
-   "summary_original": "AIを駆使した攻撃の自動化・高速化に、従来の枠組みの対策では追い付けなくなっている。2009年からPalo Alto Networks製品を扱うテクマトリックスは、自社で先行導入した製品の運用知見を武器に販売パートナーを支援する。日本企業の課題と、Platformizationを現実の対策に落とし込む支援について聞いた。",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news003.html",
-   "source_id": "atmarkit",
-   "source_name": "＠IT",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-13T10:00:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 18,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
-  },
-  {
-   "id": "4d22b79fc6122a5c",
-   "title": "「私たちの知るERPは終わった」　NetSuite創業者が示す、画面を操作せずAIに任せる働き方",
-   "title_original": "「私たちの知るERPは終わった」　NetSuite創業者が示す、画面を操作せずAIに任せる働き方",
-   "summary": "ERPベンダーの創業者が、なぜ「ERPの終わり」を宣言したのか。AIが賢くなるだけでは足りないとOracle NetSuiteは言う。決算や承認ルールの作成をAIに任せながら、人が主導権を握り続ける仕組みとは。",
-   "summary_original": "ERPベンダーの創業者が、なぜ「ERPの終わり」を宣言したのか。AIが賢くなるだけでは足りないとOracle NetSuiteは言う。決算や承認ルールの作成をAIに任せながら、人が主導権を握り続ける仕組みとは。",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news015.html",
-   "source_id": "itmedia_enterprise",
-   "source_name": "ITmedia エンタープライズ",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "コンサル・組織",
-   "published_at": "2026-11-13T09:45:00+09:00",
-   "collected_at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 20,
-   "priority": "reference",
-   "reasons": [
-    "コンサル・組織カテゴリ"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "昼",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "5件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
@@ -14863,21 +14862,21 @@
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "3件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "7件 / 全30件",
+   "status": "6件 / 全30件",
    "ok": true
   },
   {
@@ -14926,7 +14925,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件 / 全1421件",
+   "status": "AI関連なし（全1421件）",
    "ok": true
   },
   {
@@ -14940,7 +14939,7 @@
    "id": "aws_ml",
    "name": "AWS Machine Learning Blog",
    "region": "global",
-   "status": "5件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
@@ -14968,7 +14967,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "6件 / 全20件",
+   "status": "7件 / 全20件",
    "ok": true
   },
   {
@@ -14982,7 +14981,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "4件 / 全10件",
+   "status": "3件 / 全10件",
    "ok": true
   },
   {
