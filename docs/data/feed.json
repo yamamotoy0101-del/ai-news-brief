@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-23T04:05:37.942167+09:00",
+ "generated_at": "2026-11-23T11:26:15.239236+09:00",
  "runs": [
+  {
+   "at": "2026-11-23T11:26:15.239236+09:00",
+   "slot": "昼",
+   "fetched": 22,
+   "added": 6,
+   "enriched": 0
+  },
   {
    "at": "2026-11-23T04:05:37.942167+09:00",
    "slot": "朝",
@@ -203,16 +210,156 @@
    "fetched": 140,
    "added": 24,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-13T11:30:02.142589+09:00",
-   "slot": "昼",
-   "fetched": 141,
-   "added": 48,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "914bb147d0bf37ce",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "title_original": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "summary_original": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-23T10:25:53+09:00",
+   "collected_at": "2026-11-23T11:26:15.239236+09:00",
+   "slot": "昼",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "ANTHROPIC"
+   ]
+  },
+  {
+   "id": "017c7f6b5634e608",
+   "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+   "title_original": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+   "summary": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+   "summary_original": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+   "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "政策・規制",
+   "published_at": "2026-11-23T07:49:18+09:00",
+   "collected_at": "2026-11-23T11:26:15.239236+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 34,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "bb33dd300acca1d8",
+   "title": "Microsoftが4万8000ドルを支払った脆弱性　文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
+   "title_original": "Microsoftが4万8000ドルを支払った脆弱性　文書1つでCopilotを乗っ取る「ChatMate」攻撃とは",
+   "summary": "一見無害な文書を「Microsoft 365 Copilot」にアップロードするだけで、攻撃者はそのCopilotに直接命令を出せるようになる。セキュリティ企業Rubrikがそんな攻撃手法を実証した。脆弱性は既に修正されたが、AIアシスタントはなぜ、どのように乗っ取られたのか。",
+   "summary_original": "一見無害な文書を「Microsoft 365 Copilot」にアップロードするだけで、攻撃者はそのCopilotに直接命令を出せるようになる。セキュリティ企業Rubrikがそんな攻撃手法を実証した。脆弱性は既に修正されたが、AIアシスタントはなぜ、どのように乗っ取られたのか。",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2611/23/news001.html",
+   "source_id": "itmedia_enterprise",
+   "source_name": "ITmedia エンタープライズ",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-23T07:00:00+09:00",
+   "collected_at": "2026-11-23T11:26:15.239236+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 30,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "MICROSOFT"
+   ]
+  },
+  {
+   "id": "3760cb64f4a93fed",
+   "title": "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査",
+   "title_original": "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査",
+   "summary": "AIエージェントを利用する買い物客は、平均的な購入者より8％多く支出するほか、1回の注文当たりの購入商品数も23％多いことが新たな調査で明らかになった。",
+   "summary_original": "AIエージェントを利用する買い物客は、平均的な購入者より8％多く支出するほか、1回の注文当たりの購入商品数も23％多いことが新たな調査で明らかになった。",
+   "url": "https://japan.zdnet.com/article/35255207/",
+   "source_id": "zdnet_jp",
+   "source_name": "ZDNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-11-23T07:00:00+09:00",
+   "collected_at": "2026-11-23T11:26:15.239236+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "05744626c0d61baf",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "title_original": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "summary_original": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-23T06:14:07+09:00",
+   "collected_at": "2026-11-23T11:26:15.239236+09:00",
+   "slot": "昼",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "7442d7021af8ccaa",
+   "title": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
+   "title_original": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
+   "summary": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+   "summary_original": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+   "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+   "source_id": "itmedia_ai",
+   "source_name": "ITmedia AI+",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-23T06:00:00+09:00",
+   "collected_at": "2026-11-23T11:26:15.239236+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 30,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "一次情報・重要メディア"
+   ]
+  },
   {
    "id": "265c68ec3a4cc76b",
    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -14680,178 +14827,29 @@
    "reasons": [
     "企業導入カテゴリ"
    ]
-  },
-  {
-   "id": "ea9b7108d4a2b51f",
-   "title": "Google、Gemini搭載AI眼鏡を予約開始--395ドルから、海外で12月発売",
-   "title_original": "Google、Gemini搭載AI眼鏡を予約開始--395ドルから、海外で12月発売",
-   "summary": "Googleは米国時間11月12日、AI「Gemini」を搭載する眼鏡型端末「Intelligent Eyewear」の予約受付を米国と韓国で開始したと発表した。価格はWarby Parkerのモデルが395ドルから、Gentle Monsterのモデルが449ドルから。12月10日にオンラインと店舗で発売する。発表では日本での販売予定に言及していない。",
-   "summary_original": "Googleは米国時間11月12日、AI「Gemini」を搭載する眼鏡型端末「Intelligent Eyewear」の予約受付を米国と韓国で開始したと発表した。価格はWarby Parkerのモデルが395ドルから、Gentle Monsterのモデルが449ドルから。12月10日にオンラインと店舗で発売する。発表では日本での販売予定に言及していない。",
-   "url": "https://japan.cnet.com/article/35254834/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "コンサル・組織",
-   "published_at": "2026-11-13T14:20:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 33,
-   "priority": "watch",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "EY",
-    "GOOGLE"
-   ]
-  },
-  {
-   "id": "2b93bd2bef341623",
-   "title": "S&J、AIとセキュリティ専門家の知見を組み合わせた「WebアプリソースコードAI診断」を提供",
-   "title_original": "S&J、AIとセキュリティ専門家の知見を組み合わせた「WebアプリソースコードAI診断」を提供",
-   "summary": "S&J株式会社は12日、AIによるサイバー攻撃の高度化・高速化に対応するため、AIによるソースコード解析とセキュリティエンジニアの知見を組み合わせた「WebアプリソースコードAI診断」の提供を開始した。",
-   "summary_original": "S&J株式会社は12日、AIによるサイバー攻撃の高度化・高速化に対応するため、AIによるソースコード解析とセキュリティエンジニアの知見を組み合わせた「WebアプリソースコードAI診断」の提供を開始した。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2155852.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T14:00:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "fdba6d3bb80663aa",
-   "title": "NVIDIAのCEO辞任で露呈した「絶大な権力」の代償　企業が学ぶべき教訓とは",
-   "title_original": "NVIDIAのCEO辞任で露呈した「絶大な権力」の代償　企業が学ぶべき教訓とは",
-   "summary": "テクノロジー業界の関係者や評論家たちは、NVIDIAはジェンスン・フアン氏のCEO辞任を乗り切れるが、CEOにはより一層の説明責任が求められる時期に来ていると語った。",
-   "summary_original": "テクノロジー業界の関係者や評論家たちは、NVIDIAはジェンスン・フアン氏のCEO辞任を乗り切れるが、CEOにはより一層の説明責任が求められる時期に来ていると語った。",
-   "url": "https://japan.cnet.com/article/35254832/",
-   "source_id": "cnet_jp",
-   "source_name": "CNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-13T13:02:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 27,
-   "priority": "watch",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "9369c124f24a4299",
-   "title": "AI Shift、電話応対を支援するAIエージェント「AI Worker VoiceAgent」に応対品質の評価・改善案生成の自動化機能を追加",
-   "title_original": "AI Shift、電話応対を支援するAIエージェント「AI Worker VoiceAgent」に応対品質の評価・改善案生成の自動化機能を追加",
-   "summary": "サイバーエージェントグループの株式会社AI Shiftは12日、電話応対を自動化する音声AIエージェント「AI Worker VoiceAgent」において、AIが実際の通話ログから応対品質を自動で評価し、改善案を導き出す新機能を追加したと発表した。先行導入した企業では、聞き直しが必要な通話が約4割減少したとしている。",
-   "summary_original": "サイバーエージェントグループの株式会社AI Shiftは12日、電話応対を自動化する音声AIエージェント「AI Worker VoiceAgent」において、AIが実際の通話ログから応対品質を自動で評価し、改善案を導き出す新機能を追加したと発表した。先行導入した企業では、聞き直しが必要な通話が約4割減少したとしている。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2155826.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-13T13:00:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 25,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "サイバーエージェント"
-   ]
-  },
-  {
-   "id": "a093b854a2d36eb3",
-   "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
-   "title_original": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
-   "summary": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。",
-   "summary_original": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。",
-   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
-   "source_id": "itmedia_news",
-   "source_name": "ITmedia NEWS",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "技術・モデル",
-   "published_at": "2026-11-13T12:55:31+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "パナソニック"
-   ]
-  },
-  {
-   "id": "32ec93400125b627",
-   "title": "日本のAI導入企業は半数超に--「労働力不足の切り札」と期待される次世代テクノロジーとは",
-   "title_original": "日本のAI導入企業は半数超に--「労働力不足の切り札」と期待される次世代テクノロジーとは",
-   "summary": "アマゾンジャパンは、Amazon Web Services（AWS）調査「2026年、日本のAIの未来を切り拓く（Unlocking Japan's AI Potential 2026）」の結果を発表した。調査の対象は、日本のビジネスリーダー1000人と一般市民1000人。",
-   "summary_original": "アマゾンジャパンは、Amazon Web Services（AWS）調査「2026年、日本のAIの未来を切り拓く（Unlocking Japan's AI Potential 2026）」の結果を発表した。調査の対象は、日本のビジネスリーダー1000人と一般市民1000人。",
-   "url": "https://japan.zdnet.com/article/35254828/",
-   "source_id": "zdnet_jp",
-   "source_name": "ZDNET Japan",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-13T12:55:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 24,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "AMAZON"
-   ]
   }
  ],
- "slot": "朝",
+ "slot": "昼",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "4件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "AI関連なし（全50件）",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "1件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
@@ -14872,7 +14870,7 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "AI関連なし（全30件）",
+   "status": "1件 / 全30件",
    "ok": true
   },
   {
@@ -14970,7 +14968,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "4件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
