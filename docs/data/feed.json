@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-23T11:26:15.239236+09:00",
+ "generated_at": "2026-11-23T22:31:50.717075+09:00",
  "runs": [
+  {
+   "at": "2026-11-23T22:31:50.717075+09:00",
+   "slot": "夜",
+   "fetched": 11,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-11-23T11:26:15.239236+09:00",
    "slot": "昼",
@@ -203,16 +210,33 @@
    "fetched": 116,
    "added": 11,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "fetched": 140,
-   "added": 24,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "106e5d1cffec6462",
+   "title": "Meta Muse can do your Black Friday shopping at Walmart",
+   "title_original": "Meta Muse can do your Black Friday shopping at Walmart",
+   "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
+   "summary_original": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-23T20:00:00+09:00",
+   "collected_at": "2026-11-23T22:31:50.717075+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 2,
+   "priority": "reference",
+   "reasons": [
+    "META"
+   ]
+  },
   {
    "id": "914bb147d0bf37ce",
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -14803,39 +14827,15 @@
     "ANTHROPIC",
     "GOOGLE"
    ]
-  },
-  {
-   "id": "f62ee615a633897f",
-   "title": "アドバンスト・メディア、小規模コンタクトセンター向けのAI音声認識ソリューション「AmiVoice CommSuite Lite」を提供",
-   "title_original": "アドバンスト・メディア、小規模コンタクトセンター向けのAI音声認識ソリューション「AmiVoice CommSuite Lite」を提供",
-   "summary": "株式会社アドバンスト・メディアは11日、9席以下の小規模コンタクトセンターや電話問い合わせ窓口向けに、AI音声認識ソリューション「AmiVoice CommSuite Lite」の提供を開始すると発表した。",
-   "summary_original": "株式会社アドバンスト・メディアは11日、9席以下の小規模コンタクトセンターや電話問い合わせ窓口向けに、AI音声認識ソリューション「AmiVoice CommSuite Lite」の提供を開始すると発表した。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2155505.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-13T15:00:00+09:00",
-   "collected_at": "2026-11-13T20:26:43.924795+09:00",
-   "slot": "夜",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
   }
  ],
- "slot": "昼",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "4件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
@@ -14849,14 +14849,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "1件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14877,7 +14877,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14926,7 +14926,7 @@
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "1件 / 全1422件",
+   "status": "AI関連なし（全1422件）",
    "ok": true
   },
   {
@@ -14968,7 +14968,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "6件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
