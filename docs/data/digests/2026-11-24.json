@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T10:09:19.584174+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "生成AIの業務利用が拡大し、リスクを管理する「AIガバナンス」の重要性が高まっている。一方で多くの企業がリスク評価やルール整備に課題を抱える。AIの安全な活用を支える国際規格「ISO/IEC 42001」の枠組みとソフトバンクの認証事例を交え、組織に求められる管理体制の構築について解説する。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ISO/IEC 42001、ソフトバンク",
+   "item": {
+    "id": "af232b1c2e3d1899",
+    "title": "生成AI時代のAIガバナンス--ISO/IEC42001が導く信頼できるAIの実装",
+    "url": "https://japan.zdnet.com/article/35255217/",
+    "source_name": "ZDNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 41
+   }
+  },
+  {
+   "point": "Claudeを全社展開し、事業向けシステム開発に生かすサイバーエージェントとメルカリ。他の大手AI（人工知能）企業に比べて、アンソロピックの企業重視の姿勢に注目した。今後はモデルの性能向上よりもAIエージェントの管理・運用機能の拡充に期待する。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、全社、サイバーエージェント",
+   "item": {
+    "id": "02a4620e655deb72",
+    "title": "サイバーにメルカリ　活用企業の本音",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111500581/111500003/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 38
+   }
+  },
+  {
+   "point": "ソフトバンクグループは11月23日、傘下の英半導体設計大手Armのレネ・ハース最高経営責任者（CEO）が、12月1日付でソフトバンクグループの取締役副会長を兼務すると発表した。ハース氏はArmと2033年まで有効な新契約を結び、同社のCEOを続ける。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、ソフトバンク、NVIDIA",
+   "item": {
+    "id": "b252f56b25c38a46",
+    "title": "ArmハースCEO、ソフトバンクG副会長を兼務へ　一時はNVIDIAフアンの後継CEO候補にも",
+    "url": "https://japan.cnet.com/article/35255306/",
+    "source_name": "CNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 35
+   }
+  },
+  {
+   "point": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、一次情報・重要メディア、EY、OPENAI",
+   "item": {
+    "id": "1d0c151fefed0dea",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "source_name": "OpenAI News",
+    "category": "コンサル・組織",
+    "region": "global",
+    "score": 35
+   }
+  },
+  {
+   "point": "NVIDIAは、11月12日に退任したジェンスン・フアン氏の社長兼CEOおよび取締役への復帰を発表した。取締役会は米政府高官の意見を踏まえ、国家安全保障上のリスクはないと判断したという。トランプ大統領はCNBCの取材に対し、取締役会へ直接復帰を働きかけたことを認め、ウォーレン上院議員は「無謀な決定」と批判している。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NVIDIA",
+   "item": {
+    "id": "9fadfb6813e8075b",
+    "title": "NVIDIA、フアン氏のCEO復帰を発表　トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+    "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
+    "source_name": "ITmedia NEWS",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 32
+   }
+  },
+  {
+   "point": "米エヌビディアは11月23日（現地時間）、共同創業者のジェンスン・フアン氏が最高経営責任者（CEO）に復帰したと発表した。米証券取引委員会（SEC）への提出書類によると、復帰は前日の22日付。取締役会は米政府高官の意見も踏まえて復帰を決めた。フアン氏は今月、複数の不倫関係が報じられた後、CEOを辞任していた。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、NVIDIA",
+   "item": {
+    "id": "ba1583633228baa2",
+    "title": "ジェンスン・フアン氏、NVIDIAのCEOに復帰　トランプ氏「我々は天才を守らなければならない」",
+    "url": "https://japan.cnet.com/article/35255304/",
+    "source_name": "CNET Japan",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 32
+   }
+  }
+ ],
+ "watchlist": []
+}
