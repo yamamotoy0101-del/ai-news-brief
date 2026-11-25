@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-25T13:50:31.590365+09:00",
+ "generated_at": "2026-11-25T22:22:51.223616+09:00",
  "runs": [
+  {
+   "at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "fetched": 80,
+   "added": 8,
+   "enriched": 0
+  },
   {
    "at": "2026-11-25T13:50:31.590365+09:00",
    "slot": "昼",
@@ -203,16 +210,204 @@
    "fetched": 13,
    "added": 3,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-15T20:24:05.514375+09:00",
-   "slot": "夜",
-   "fetched": 10,
-   "added": 1,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "570b39bfa866a172",
+   "title": "AI is straining America’s open records systems",
+   "title_original": "AI is straining America’s open records systems",
+   "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+   "summary_original": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+   "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "source_id": "mit_tr_ai",
+   "source_name": "MIT Technology Review (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "政策・規制",
+   "published_at": "2026-11-25T19:00:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 28,
+   "priority": "watch",
+   "reasons": [
+    "政策・規制カテゴリ",
+    "一次情報・重要メディア"
+   ]
+  },
+  {
+   "id": "6af47c24f2096440",
+   "title": "SB OAI Japan、侵入口を診断する新サービス--初期侵入リスクを可視化",
+   "title_original": "SB OAI Japan、侵入口を診断する新サービス--初期侵入リスクを可視化",
+   "summary": "SB OAI Japanは、AIを活用したサイバーセキュリティ対策サービスPatching as a Service（PaaS）の新メニューとして、「侵入可否診断」の提供を開始した。",
+   "summary_original": "SB OAI Japanは、AIを活用したサイバーセキュリティ対策サービスPatching as a Service（PaaS）の新メニューとして、「侵入可否診断」の提供を開始した。",
+   "url": "https://japan.zdnet.com/article/35255401/",
+   "source_id": "zdnet_jp",
+   "source_name": "ZDNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-25T17:30:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 23,
+   "priority": "reference",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ"
+   ]
+  },
+  {
+   "id": "32fdd260c384e1eb",
+   "title": "トヨタの数年をかけたゼロトラスト改革、行く手を阻んだ最大の壁とは？",
+   "title_original": "トヨタの数年をかけたゼロトラスト改革、行く手を阻んだ最大の壁とは？",
+   "summary": "生成AIによってサイバー攻撃は、人の速度で対処できる時代ではなくなった。とはいえゼロトラストやSASEを導入すれば解決するわけでもない。トヨタ自動車が4年以上かけて進めた“脱境界防御”改革を基に、AI時代のサイバーレジリエンスに必要な考え方を語った。",
+   "summary_original": "生成AIによってサイバー攻撃は、人の速度で対処できる時代ではなくなった。とはいえゼロトラストやSASEを導入すれば解決するわけでもない。トヨタ自動車が4年以上かけて進めた“脱境界防御”改革を基に、AI時代のサイバーレジリエンスに必要な考え方を語った。",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news026.html",
+   "source_id": "atmarkit",
+   "source_name": "＠IT",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-11-25T17:15:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 24,
+   "priority": "watch",
+   "reasons": [
+    "企業導入カテゴリ",
+    "トヨタ"
+   ]
+  },
+  {
+   "id": "58f04c20e3fa924a",
+   "title": "Zendesk、シート数課金を廃止し「成果ベース課金」へ転換",
+   "title_original": "Zendesk、シート数課金を廃止し「成果ベース課金」へ転換",
+   "summary": "Zendeskは、AIを軸とした新コンセプト「Outcome AIプラットフォーム」と、従来のシート数課金を廃止する新価格戦略「Zendesk Unlimited」を発表した。AIが業務の主役となる時代に向け、外部AIとの連携基盤も刷新する。",
+   "summary_original": "Zendeskは、AIを軸とした新コンセプト「Outcome AIプラットフォーム」と、従来のシート数課金を廃止する新価格戦略「Zendesk Unlimited」を発表した。AIが業務の主役となる時代に向け、外部AIとの連携基盤も刷新する。",
+   "url": "https://japan.zdnet.com/article/35255343/",
+   "source_id": "zdnet_jp",
+   "source_name": "ZDNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-11-25T17:14:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 21,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "ed1e8039c07e0be9",
+   "title": "アマチュア天文家がAIで惑星探し　約1900万個の恒星データから候補49件",
+   "title_original": "アマチュア天文家がAIで惑星探し　約1900万個の恒星データから候補49件",
+   "summary": "2人のアマチュア天文家が、NASAの公開観測データをAIで分析し、太陽系外惑星の候補を見つけた。約1900万個の恒星を調べた1人は、候補49件のうち有力な1件を研究者に提出した。",
+   "summary_original": "2人のアマチュア天文家が、NASAの公開観測データをAIで分析し、太陽系外惑星の候補を見つけた。約1900万個の恒星を調べた1人は、候補49件のうち有力な1件を研究者に提出した。",
+   "url": "https://japan.cnet.com/article/35255399/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "技術・モデル",
+   "published_at": "2026-11-25T17:10:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 14,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "b376310b90514062",
+   "title": "富士通がOpenAIのサイバー防御パートナーに参画、脆弱性診断の新サービス",
+   "title_original": "富士通がOpenAIのサイバー防御パートナーに参画、脆弱性診断の新サービス",
+   "summary": "富士通は2026年11月25日、米OpenAI（オープンAI）のサイバー防御パートナープログラム「Daybreak Defense Network」に参画したと発表した。オープンAIのサイバー防御技術「OpenAI Daybreak」を活用した脆弱性診断サービスの提供を始めた。",
+   "summary_original": "富士通は2026年11月25日、米OpenAI（オープンAI）のサイバー防御パートナープログラム「Daybreak Defense Network」に参画したと発表した。オープンAIのサイバー防御技術「OpenAI Daybreak」を活用した脆弱性診断サービスの提供を始めた。",
+   "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03487/",
+   "source_id": "nikkei_xtech",
+   "source_name": "日経クロステック",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-25T16:50:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 41,
+   "priority": "must-read",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "一次情報・重要メディア",
+    "OPENAI",
+    "富士通"
+   ]
+  },
+  {
+   "id": "f09ff11ec0c6d661",
+   "title": "CTC、システム稼働状況を自動分析する「StageCrew」に熟練者の暗黙知を文書化するAIインタビュー機能を追加",
+   "title_original": "CTC、システム稼働状況を自動分析する「StageCrew」に熟練者の暗黙知を文書化するAIインタビュー機能を追加",
+   "summary": "伊藤忠テクノソリューションズ株式会社（以下、CTC）は24日、システムの稼働状況を自動分析するクラウドサービス「StageCrew」に、熟練者が持つ暗黙知を引き出して文書化するAIインタビュー機能を追加したと発表した。",
+   "summary_original": "伊藤忠テクノソリューションズ株式会社（以下、CTC）は24日、システムの稼働状況を自動分析するクラウドサービス「StageCrew」に、熟練者が持つ暗黙知を引き出して文書化するAIインタビュー機能を追加したと発表した。",
+   "url": "https://cloud.watch.impress.co.jp/docs/news/2158847.html",
+   "source_id": "impress_cloud",
+   "source_name": "クラウド Watch",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-11-25T16:39:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
+  {
+   "id": "846fbacc0328d275",
+   "title": "NVIDIA、SSDへの過剰な書き込みの不具合を修正　GeForceドライバー621.40を公開",
+   "title_original": "NVIDIA、SSDへの過剰な書き込みの不具合を修正　GeForceドライバー621.40を公開",
+   "summary": "NVIDIAはソフトウェアのアップデートを公開したが、問題が完全に解消したかどうかは不明だ。",
+   "summary_original": "NVIDIAはソフトウェアのアップデートを公開したが、問題が完全に解消したかどうかは不明だ。",
+   "url": "https://japan.cnet.com/article/35255388/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "その他",
+   "published_at": "2026-11-25T15:05:00+09:00",
+   "collected_at": "2026-11-25T22:22:51.223616+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 15,
+   "priority": "reference",
+   "reasons": [
+    "NVIDIA"
+   ]
+  },
   {
    "id": "c83805d88441c5d2",
    "title": "富士通、通院時の「足」スムーズに--AIで交通予約を自動化する実証実験",
@@ -14652,230 +14847,36 @@
    "reasons": [
     "NVIDIA"
    ]
-  },
-  {
-   "id": "bd7cc537cd570a59",
-   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-   "title_original": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-   "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, […]",
-   "summary_original": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, […]",
-   "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-   "source_id": "verge_ai",
-   "source_name": "The Verge (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "その他",
-   "published_at": "2026-11-17T03:43:35+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 9,
-   "priority": "reference",
-   "reasons": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "21a6fc2b55ffdb4f",
-   "title": "The open-source movement wants Jensen Huang back",
-   "title_original": "The open-source movement wants Jensen Huang back",
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-   "summary_original": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-   "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-   "source_id": "mit_tr_ai",
-   "source_name": "MIT Technology Review (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "政策・規制",
-   "published_at": "2026-11-17T03:38:47+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 32,
-   "priority": "watch",
-   "reasons": [
-    "政策・規制カテゴリ",
-    "一次情報・重要メディア",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "9567fc17c1fdcddf",
-   "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-   "title_original": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-   "summary": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data.",
-   "summary_original": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data.",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
-   "source_id": "aws_ml",
-   "source_name": "AWS Machine Learning Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "政策・規制",
-   "published_at": "2026-11-17T03:16:07+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "政策・規制カテゴリ",
-    "AMAZON"
-   ]
-  },
-  {
-   "id": "adc690e60e2014e6",
-   "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-   "title_original": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-   "summary_original": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-   "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-17T03:11:10+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 23,
-   "priority": "reference",
-   "reasons": [
-    "OPENAI",
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "030a040e02b27922",
-   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-   "title_original": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-   "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-   "summary_original": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "リスク・ガバナンス",
-   "published_at": "2026-11-17T02:36:43+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 20,
-   "priority": "reference",
-   "reasons": [
-    "リスク・ガバナンスカテゴリ"
-   ]
-  },
-  {
-   "id": "b4d0f21c2c604500",
-   "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
-   "title_original": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
-   "summary": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applications on AWS.",
-   "summary_original": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applications on AWS.",
-   "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/",
-   "source_id": "aws_ml",
-   "source_name": "AWS Machine Learning Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-11-17T02:29:29+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 11,
-   "priority": "reference",
-   "reasons": [
-    "AMAZON"
-   ]
-  },
-  {
-   "id": "d3a67d4f7f1ae331",
-   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "title_original": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-   "summary_original": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-17T02:10:00+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 7,
-   "priority": "reference",
-   "reasons": []
-  },
-  {
-   "id": "7157ce3b54a8a376",
-   "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
-   "title_original": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
-   "summary": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn millions of controlled manufacturing documents into grounded, cited answers.",
-   "summary_original": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn millions of controlled manufacturing documents into grounded, cited answers.",
-   "url": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/",
-   "source_id": "aws_ml",
-   "source_name": "AWS Machine Learning Blog",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-17T02:04:11+09:00",
-   "collected_at": "2026-11-17T06:40:48.600340+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 13,
-   "priority": "reference",
-   "reasons": [
-    "AMAZON"
-   ]
   }
  ],
- "slot": "昼",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "20件 / 全20件",
+   "status": "13件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "7件 / 全50件",
+   "status": "3件 / 全50件",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "8件 / 全50件",
+   "status": "5件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
@@ -14889,7 +14890,7 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "12件 / 全30件",
+   "status": "10件 / 全30件",
    "ok": true
   },
   {
@@ -14903,7 +14904,7 @@
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "9件 / 全15件",
+   "status": "7件 / 全15件",
    "ok": true
   },
   {
@@ -14938,14 +14939,14 @@
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "1件 / 全31件",
+   "status": "1件 / 全29件",
    "ok": true
   },
   {
    "id": "openai",
    "name": "OpenAI News",
    "region": "global",
-   "status": "3件 / 全1430件",
+   "status": "1件 / 全1430件",
    "ok": true
   },
   {
@@ -14973,21 +14974,21 @@
    "id": "nvidia",
    "name": "NVIDIA Blog",
    "region": "global",
-   "status": "1件 / 全18件",
+   "status": "AI関連なし（全18件）",
    "ok": true
   },
   {
    "id": "mit_tr_ai",
    "name": "MIT Technology Review (AI)",
    "region": "global",
-   "status": "2件 / 全10件",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "18件 / 全20件",
+   "status": "12件 / 全20件",
    "ok": true
   },
   {
@@ -15001,7 +15002,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "10件 / 全10件",
+   "status": "5件 / 全10件",
    "ok": true
   },
   {
@@ -15015,7 +15016,7 @@
    "id": "mckinsey",
    "name": "McKinsey Insights",
    "region": "global",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   }
  ]
