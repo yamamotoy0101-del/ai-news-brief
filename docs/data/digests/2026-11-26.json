@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T07:40:40.605056+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 19,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "生成AIで会議の議事録作りは簡単になったが、その議事録に誰も目を通さない……そんな悩みを抱えるビジネスパーソンは少なくないだろう。サイバーエージェントは議事録の「グラフィック化」、ソフトバンクは「漫画化」で課題解決を試みている。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア、ソフトバンク、サイバーエージェント",
+   "item": {
+    "id": "36cc0f9c8b0cc353",
+    "title": "ソフトバンク、議事録をAIで漫画に　「誰も見ない」解消",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03671/111600009/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "在庫補充の例では、AIで需要を予測するだけでは仕事は変わりませんでした。何を在庫と数えるのかを確かめ、補充案を担当者が判断できる形で示し、承認と発注につなぐ必要がありました。新しい技術の力を引き出すには、仕事の流れも組み直さなければなりません。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "d3a0ba3448440036",
+    "title": "FDEは産業革命時代の据え付け技師、技術が仕事の進め方を変える",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03820/111000003/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 26
+   }
+  },
+  {
+   "point": "継続学習は、AIが次の段階へ進むための条件と目されている。現在のAIを支えるLLM（大規模言語モデル）は、深層学習の中核技術「Transformer」を基礎にして、急速に性能を上げた。今、その構造そのものに手を加える研究が出ている。鍵は「人間の睡眠」だ。",
+   "so_what": "（自動要約なし）スコアの根拠: 一次情報・重要メディア、GOOGLE",
+   "item": {
+    "id": "75b4cf188d7f4304",
+    "title": "GoogleはAIを「眠らせる」、記憶に弱いTransformer改良　継続学習の実現へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03794/111700004/",
+    "source_name": "日経クロステック",
+    "category": "技術・モデル",
+    "region": "domestic",
+    "score": 25
+   }
+  },
+  {
+   "point": "第3回では、感情分析アプリに必要な感情分析のためのプロンプトとライブラリollamaを使い、Qwen3.5をPythonで制御するプログラムの基礎を解説します。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、一次情報・重要メディア",
+   "item": {
+    "id": "80b5c234644205a7",
+    "title": "PythonでQwen3.5を制御し、OpenPyXLでExcelにまとめる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03796/101400003/",
+    "source_name": "日経クロステック",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 24
+   }
+  },
+  {
+   "point": "AIがコードを書くことは、もはや珍しくなくなった。だが、コード作成の高速化だけでは、開発全体の生産性を真に引き上げることはできない。先進企業はAIエージェントをどのように開発現場に取り入れ、生産性向上につなげているのか。開発のボトルネックがシフトする中、日本企業のソフトウェア開発はどのような変革を迫られているのか。AI",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、生産性",
+   "item": {
+    "id": "14d330d2fe178481",
+    "title": "AIコーディングで人月モデル崩壊――AI駆動開発「Devin」に見る、本当の“AIの生産性”計測法",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/26/news012.html",
+    "source_name": "＠IT",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 23
+   }
+  },
+  {
+   "point": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ",
+   "item": {
+    "id": "59d6898173674e25",
+    "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+    "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+    "source_name": "Publickey",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 22
+   }
+  }
+ ],
+ "watchlist": []
+}
