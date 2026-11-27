@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T07:15:52.644461+09:00",
+ "generated_by": "score-only",
+ "candidate_count": 28,
+ "headline": "重要度スコア上位の記事（自動要約なし）",
+ "overview": "Claude APIが利用できなかったため、要約は生成していません。以下はキーワードベースの重要度スコアが高い順に並べた記事です。",
+ "highlights": [
+  {
+   "point": "今回は、IIJ 代表取締役 社長執行役員 Co-CEO ＆ COO 谷脇康彦氏と、PwC Japan ディレクター ピヴェット久美子氏の「明言」を紹介する。",
+   "so_what": "（自動要約なし）スコアの根拠: リスク・ガバナンスカテゴリ、PWC",
+   "item": {
+    "id": "4019596447725c81",
+    "title": "IIJ社長が説く「AIの活用・管理基盤およびガバナンスへの対応」",
+    "url": "https://japan.zdnet.com/article/35255468/",
+    "source_name": "ZDNET Japan",
+    "category": "リスク・ガバナンス",
+    "region": "domestic",
+    "score": 43
+   }
+  },
+  {
+   "point": "デジタル庁職員による生成AIの利用実績に関する資料を掲載しました",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、デジタル庁",
+   "item": {
+    "id": "8dd0a52a29d96a70",
+    "title": "デジタル庁職員による生成AIの利用実績に関する資料を掲載しました",
+    "url": "https://www.digital.go.jp/news/08ded405-ca03-48c7-9b92-6b8878854a74",
+    "source_name": "デジタル庁",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 39
+   }
+  },
+  {
+   "point": "ガバメントAIの具体化に向けたOpenAI社との連携協力について掲載しました",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、一次情報・重要メディア、OPENAI",
+   "item": {
+    "id": "b2f52d1fe6d94f0e",
+    "title": "ガバメントAIの具体化に向けたOpenAI社との連携協力について掲載しました",
+    "url": "https://www.digital.go.jp/news/e950673b-73eb-4f65-bf6a-339e4f0e7ef1",
+    "source_name": "デジタル庁",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 37
+   }
+  },
+  {
+   "point": "個人情報保護のため、全社売上高の約15％を占める自社ECサイトの閉店を決めたアゾンインターナショナル。AIによるサイバー攻撃の高度化をどう捉え、なぜ個人情報を「持たない」方針に転換したのか。経営陣に聞いた。",
+   "so_what": "（自動要約なし）スコアの根拠: 政策・規制カテゴリ、全社",
+   "item": {
+    "id": "ec982c33d1ee14f5",
+    "title": "顧客情報を守るため、売上15％の自社ECを閉店　ドールメーカーが明かした「決断」の背景",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
+    "source_name": "ITmedia NEWS",
+    "category": "政策・規制",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "デロイトが実施した調査で、企業における2026年のAI導入、活用状況が明らかになった。",
+   "so_what": "（自動要約なし）スコアの根拠: コンサル・組織カテゴリ、一次情報・重要メディア、デロイト",
+   "item": {
+    "id": "13633e8cad352b7a",
+    "title": "生成AI登場で人員増えた部門、減った部門は？　デロイト調査",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/27/2000003505/",
+    "source_name": "ITmedia AI+",
+    "category": "コンサル・組織",
+    "region": "domestic",
+    "score": 34
+   }
+  },
+  {
+   "point": "米NVIDIAのジェンスン・フアンCEOは11月24日の全社員向け会議で、米政権の意向で復帰したとの見方を否定し、取締役会が事実関係を調べて決めたと説明した。会議の音声を聞いた米メディアThe Handbasketが25日に発言録を公開した。",
+   "so_what": "（自動要約なし）スコアの根拠: 企業導入カテゴリ、全社、NVIDIA",
+   "item": {
+    "id": "2aa936ea57c13a7e",
+    "title": "NVIDIAフアン氏、「トランプ政権の意向でCEOに復帰した」との見方を否定",
+    "url": "https://japan.cnet.com/article/35255477/",
+    "source_name": "CNET Japan",
+    "category": "企業導入",
+    "region": "domestic",
+    "score": 33
+   }
+  }
+ ],
+ "watchlist": []
+}
