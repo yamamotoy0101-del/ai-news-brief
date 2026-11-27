@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-27T21:59:24.259267+09:00",
+ "generated_at": "2026-11-28T05:43:35.646030+09:00",
  "runs": [
+  {
+   "at": "2026-11-28T05:43:35.646030+09:00",
+   "slot": "朝",
+   "fetched": 66,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-11-27T21:59:24.259267+09:00",
    "slot": "夜",
@@ -203,16 +210,33 @@
    "fetched": 153,
    "added": 56,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-18T05:30:06.453276+09:00",
-   "slot": "朝",
-   "fetched": 120,
-   "added": 35,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "24644713102c0e39",
+   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "title_original": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+   "summary_original": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "source_id": "verge_ai",
+   "source_name": "The Verge (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "その他",
+   "published_at": "2026-11-27T23:00:00+09:00",
+   "collected_at": "2026-11-28T05:43:35.646030+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 6,
+   "priority": "reference",
+   "reasons": [
+    "ROI"
+   ]
+  },
   {
    "id": "ec982c33d1ee14f5",
    "title": "顧客情報を守るため、売上15％の自社ECを閉店　ドールメーカーが明かした「決断」の背景",
@@ -14801,39 +14825,15 @@
     "一次情報・重要メディア",
     "OPENAI"
    ]
-  },
-  {
-   "id": "4e7c94de1a3d2959",
-   "title": "ラクスの「楽楽請求」、AI-OCRでの読み取り結果をオペレーターが確認・補正するオプションを提供",
-   "title_original": "ラクスの「楽楽請求」、AI-OCRでの読み取り結果をオペレーターが確認・補正するオプションを提供",
-   "summary": "株式会社ラクスは、クラウド型請求書受領システム「楽楽請求」において、AI-OCRによる請求書の読み取り結果をオペレーターが確認・補正する有償オプション「入力代行オプション」の申し込み受付を12月15日より開始すると発表した。",
-   "summary_original": "株式会社ラクスは、クラウド型請求書受領システム「楽楽請求」において、AI-OCRによる請求書の読み取り結果をオペレーターが確認・補正する有償オプション「入力代行オプション」の申し込み受付を12月15日より開始すると発表した。",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2156999.html",
-   "source_id": "impress_cloud",
-   "source_name": "クラウド Watch",
-   "lang": "ja",
-   "region": "domestic",
-   "category": "企業導入",
-   "published_at": "2026-11-18T09:00:00+09:00",
-   "collected_at": "2026-11-18T12:33:37.259097+09:00",
-   "slot": "昼",
-   "translated": true,
-   "insight": "",
-   "confidence": "",
-   "score": 19,
-   "priority": "reference",
-   "reasons": [
-    "企業導入カテゴリ"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "16件 / 全20件",
+   "status": "7件 / 全20件",
    "ok": true
   },
   {
@@ -14847,14 +14847,14 @@
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "9件 / 全50件",
+   "status": "4件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "9件 / 全30件",
+   "status": "5件 / 全30件",
    "ok": true
   },
   {
@@ -14868,7 +14868,7 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "15件 / 全30件",
+   "status": "8件 / 全30件",
    "ok": true
   },
   {
@@ -14889,7 +14889,7 @@
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "1件 / 全20件",
    "ok": true
   },
   {
@@ -14980,7 +14980,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "1件 / 全10件",
+   "status": "2件 / 全10件",
    "ok": true
   },
   {
