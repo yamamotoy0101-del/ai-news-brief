@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-28T05:43:35.646030+09:00",
+ "generated_at": "2026-11-28T12:48:14.922566+09:00",
  "runs": [
+  {
+   "at": "2026-11-28T12:48:14.922566+09:00",
+   "slot": "昼",
+   "fetched": 63,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-11-28T05:43:35.646030+09:00",
    "slot": "朝",
@@ -203,16 +210,33 @@
    "fetched": 121,
    "added": 15,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-18T12:33:37.259097+09:00",
-   "slot": "昼",
-   "fetched": 153,
-   "added": 56,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "e0b68a59e9ae8030",
+   "title": "「空中ホログラム映像」で観光案内　アスカネット、温泉駅に導入",
+   "title_original": "「空中ホログラム映像」で観光案内　アスカネット、温泉駅に導入",
+   "summary": "アスカネットは11月25日、島根県松江市の松江しんじ湖温泉駅に、空中に浮かぶAI案内係と話せる観光案内システムを導入したと発表した。観光客は人物型のアバターに話しかけて、市内の観光スポットや飲食店、交通手段などを尋ねられる。",
+   "summary_original": "アスカネットは11月25日、島根県松江市の松江しんじ湖温泉駅に、空中に浮かぶAI案内係と話せる観光案内システムを導入したと発表した。観光客は人物型のアバターに話しかけて、市内の観光スポットや飲食店、交通手段などを尋ねられる。",
+   "url": "https://japan.cnet.com/article/35255514/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "企業導入",
+   "published_at": "2026-11-28T07:10:00+09:00",
+   "collected_at": "2026-11-28T12:48:14.922566+09:00",
+   "slot": "昼",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "企業導入カテゴリ"
+   ]
+  },
   {
    "id": "24644713102c0e39",
    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
@@ -14800,40 +14824,15 @@
     "一次情報・重要メディア",
     "OPENAI"
    ]
-  },
-  {
-   "id": "c7d3ecb006439a13",
-   "title": "Advancing chip design with OpenAI models",
-   "title_original": "Advancing chip design with OpenAI models",
-   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "summary_original": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-11-18T09:00:00+09:00",
-   "collected_at": "2026-11-19T05:01:35.785761+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
   }
  ],
- "slot": "朝",
+ "slot": "昼",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "7件 / 全20件",
+   "status": "6件 / 全20件",
    "ok": true
   },
   {
@@ -14875,7 +14874,7 @@
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "8件 / 全30件",
+   "status": "9件 / 全30件",
    "ok": true
   },
   {
@@ -14896,7 +14895,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "3件 / 全15件",
+   "status": "1件 / 全15件",
    "ok": true
   },
   {
@@ -14980,7 +14979,7 @@
    "id": "verge_ai",
    "name": "The Verge (AI)",
    "region": "global",
-   "status": "2件 / 全10件",
+   "status": "1件 / 全10件",
    "ok": true
   },
   {
