@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-28T12:48:14.922566+09:00",
+ "generated_at": "2026-11-28T21:12:08.142236+09:00",
  "runs": [
+  {
+   "at": "2026-11-28T21:12:08.142236+09:00",
+   "slot": "夜",
+   "fetched": 37,
+   "added": 1,
+   "enriched": 0
+  },
   {
    "at": "2026-11-28T12:48:14.922566+09:00",
    "slot": "昼",
@@ -203,16 +210,33 @@
    "fetched": 119,
    "added": 31,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-18T21:07:46.729999+09:00",
-   "slot": "夜",
-   "fetched": 121,
-   "added": 15,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "320a2e25d07559f9",
+   "title": "ChatGPTとCodex、12月から利用枠を共通化　Plus・Pro・Businessが対象",
+   "title_original": "ChatGPTとCodex、12月から利用枠を共通化　Plus・Pro・Businessが対象",
+   "summary": "米OpenAIは、12月から有料プラン「Plus」「Pro」「Business」でChatGPTとソフトウェア開発支援ツール「Codex」の利用枠を共通化すると、公式ヘルプで明らかにした。ChatGPTで使った分とCodexで使った分を、同じ枠から差し引く仕組みになる。",
+   "summary_original": "米OpenAIは、12月から有料プラン「Plus」「Pro」「Business」でChatGPTとソフトウェア開発支援ツール「Codex」の利用枠を共通化すると、公式ヘルプで明らかにした。ChatGPTで使った分とCodexで使った分を、同じ枠から差し引く仕組みになる。",
+   "url": "https://japan.cnet.com/article/35255534/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "その他",
+   "published_at": "2026-11-28T16:21:00+09:00",
+   "collected_at": "2026-11-28T21:12:08.142236+09:00",
+   "slot": "夜",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 19,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
   {
    "id": "e0b68a59e9ae8030",
    "title": "「空中ホログラム映像」で観光案内　アスカネット、温泉駅に導入",
@@ -14799,47 +14823,22 @@
     "一次情報・重要メディア",
     "OPENAI"
    ]
-  },
-  {
-   "id": "e683d40fba103b5f",
-   "title": "The Silent Consensus",
-   "title_original": "The Silent Consensus",
-   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "summary_original": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "url": "https://openai.com/index/the-silent-consensus",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "技術・モデル",
-   "published_at": "2026-11-18T09:00:00+09:00",
-   "collected_at": "2026-11-19T05:01:35.785761+09:00",
-   "slot": "朝",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 22,
-   "priority": "reference",
-   "reasons": [
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
   }
  ],
- "slot": "昼",
+ "slot": "夜",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "6件 / 全20件",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "3件 / 全50件",
+   "status": "2件 / 全50件",
    "ok": true
   },
   {
@@ -14853,35 +14852,35 @@
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "5件 / 全30件",
+   "status": "2件 / 全30件",
    "ok": true
   },
   {
    "id": "nikkei_xtech",
    "name": "日経クロステック",
    "region": "domestic",
-   "status": "7件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "8件 / 全30件",
+   "status": "4件 / 全30件",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "9件 / 全30件",
+   "status": "8件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "6件 / 全15件",
+   "status": "3件 / 全15件",
    "ok": true
   },
   {
@@ -14895,7 +14894,7 @@
    "id": "publickey",
    "name": "Publickey",
    "region": "domestic",
-   "status": "1件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
@@ -14965,7 +14964,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "2件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
