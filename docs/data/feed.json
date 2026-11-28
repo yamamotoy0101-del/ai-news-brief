@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-11-28T21:12:08.142236+09:00",
+ "generated_at": "2026-11-29T04:35:38.651606+09:00",
  "runs": [
+  {
+   "at": "2026-11-29T04:35:38.651606+09:00",
+   "slot": "朝",
+   "fetched": 7,
+   "added": 3,
+   "enriched": 0
+  },
   {
    "at": "2026-11-28T21:12:08.142236+09:00",
    "slot": "夜",
@@ -203,16 +210,80 @@
    "fetched": 156,
    "added": 66,
    "enriched": 0
-  },
-  {
-   "at": "2026-11-19T05:01:35.785761+09:00",
-   "slot": "朝",
-   "fetched": 119,
-   "added": 31,
-   "enriched": 0
   }
  ],
  "items": [
+  {
+   "id": "da0dc6110f1178a4",
+   "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+   "title_original": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+   "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+   "summary_original": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+   "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "投資・M&A",
+   "published_at": "2026-11-29T02:46:47+09:00",
+   "collected_at": "2026-11-29T04:35:38.651606+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 17,
+   "priority": "reference",
+   "reasons": [
+    "OPENAI"
+   ]
+  },
+  {
+   "id": "3973f080fe72e258",
+   "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+   "title_original": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+   "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+   "summary_original": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+   "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+   "source_id": "techcrunch_ai",
+   "source_name": "TechCrunch (AI)",
+   "lang": "en",
+   "region": "global",
+   "category": "技術・モデル",
+   "published_at": "2026-11-28T23:00:00+09:00",
+   "collected_at": "2026-11-29T04:35:38.651606+09:00",
+   "slot": "朝",
+   "translated": false,
+   "insight": "",
+   "confidence": "",
+   "score": 9,
+   "priority": "reference",
+   "reasons": []
+  },
+  {
+   "id": "e257d5c810dea171",
+   "title": "OpenAI、Appleを反訴　Appleが未発表端末の機密を入手し、取引先に圧力をかけたと主張",
+   "title_original": "OpenAI、Appleを反訴　Appleが未発表端末の機密を入手し、取引先に圧力をかけたと主張",
+   "summary": "米OpenAIなどは11月27日（現地時間）、Appleが元社員を再雇用してOpenAIの未発表端末の機密情報を入手し、両社に共通する取引先に圧力をかけて開発を妨げたとして、Appleを反訴した。Appleが7月に起こした営業秘密をめぐる訴訟で、米カリフォルニア州北部地区連邦地裁に反訴状を提出した。ロイターによると、Appleは同日の声明で、再雇用した社員を通じてOpenAIの機密情報を入手したことも、AI端末の製造をめぐる競争を妨げようとしたことも否定した。",
+   "summary_original": "米OpenAIなどは11月27日（現地時間）、Appleが元社員を再雇用してOpenAIの未発表端末の機密情報を入手し、両社に共通する取引先に圧力をかけて開発を妨げたとして、Appleを反訴した。Appleが7月に起こした営業秘密をめぐる訴訟で、米カリフォルニア州北部地区連邦地裁に反訴状を提出した。ロイターによると、Appleは同日の声明で、再雇用した社員を通じてOpenAIの機密情報を入手したことも、AI端末の製造をめぐる競争を妨げようとしたことも否定した。",
+   "url": "https://japan.cnet.com/article/35255544/",
+   "source_id": "cnet_jp",
+   "source_name": "CNET Japan",
+   "lang": "ja",
+   "region": "domestic",
+   "category": "リスク・ガバナンス",
+   "published_at": "2026-11-28T21:20:00+09:00",
+   "collected_at": "2026-11-29T04:35:38.651606+09:00",
+   "slot": "朝",
+   "translated": true,
+   "insight": "",
+   "confidence": "",
+   "score": 31,
+   "priority": "watch",
+   "reasons": [
+    "リスク・ガバナンスカテゴリ",
+    "OPENAI"
+   ]
+  },
   {
    "id": "320a2e25d07559f9",
    "title": "ChatGPTとCodex、12月から利用枠を共通化　Plus・Pro・Businessが対象",
@@ -14746,113 +14817,36 @@
    "reasons": [
     "NVIDIA"
    ]
-  },
-  {
-   "id": "9f7286d0bf416b1a",
-   "title": "Nvidia promises that revenue will keep soaring — for now",
-   "title_original": "Nvidia promises that revenue will keep soaring — for now",
-   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-   "summary_original": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-   "source_id": "techcrunch_ai",
-   "source_name": "TechCrunch (AI)",
-   "lang": "en",
-   "region": "global",
-   "category": "投資・M&A",
-   "published_at": "2026-11-18T09:16:50+09:00",
-   "collected_at": "2026-11-18T12:33:37.259097+09:00",
-   "slot": "昼",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 17,
-   "priority": "reference",
-   "reasons": [
-    "NVIDIA"
-   ]
-  },
-  {
-   "id": "6593f91a3f31e50f",
-   "title": "Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI",
-   "title_original": "Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI",
-   "summary": "How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders from HOCHTIEF PPP Solutions to learn about their innovation playbook.",
-   "summary_original": "How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders from HOCHTIEF PPP Solutions to learn about their innovation playbook.",
-   "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age",
-   "source_id": "mckinsey",
-   "source_name": "McKinsey Insights",
-   "lang": "en",
-   "region": "global",
-   "category": "コンサル・組織",
-   "published_at": "2026-11-18T09:00:00+09:00",
-   "collected_at": "2026-11-18T21:07:46.729999+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 37,
-   "priority": "must-read",
-   "reasons": [
-    "コンサル・組織カテゴリ",
-    "一次情報・重要メディア",
-    "MCKINSEY",
-    "EY"
-   ]
-  },
-  {
-   "id": "6cab9c8cd38347e3",
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "title_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "summary_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "source_id": "openai",
-   "source_name": "OpenAI News",
-   "lang": "en",
-   "region": "global",
-   "category": "企業導入",
-   "published_at": "2026-11-18T09:00:00+09:00",
-   "collected_at": "2026-11-18T21:07:46.729999+09:00",
-   "slot": "夜",
-   "translated": false,
-   "insight": "",
-   "confidence": "",
-   "score": 27,
-   "priority": "watch",
-   "reasons": [
-    "企業導入カテゴリ",
-    "一次情報・重要メディア",
-    "OPENAI"
-   ]
   }
  ],
- "slot": "夜",
+ "slot": "朝",
  "sources": [
   {
    "id": "itmedia_ai",
    "name": "ITmedia AI+",
    "region": "domestic",
-   "status": "2件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
    "id": "itmedia_enterprise",
    "name": "ITmedia エンタープライズ",
    "region": "domestic",
-   "status": "2件 / 全50件",
+   "status": "AI関連なし（全50件）",
    "ok": true
   },
   {
    "id": "itmedia_news",
    "name": "ITmedia NEWS",
    "region": "domestic",
-   "status": "4件 / 全50件",
+   "status": "1件 / 全50件",
    "ok": true
   },
   {
    "id": "atmarkit",
    "name": "＠IT",
    "region": "domestic",
-   "status": "2件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
@@ -14866,28 +14860,28 @@
    "id": "zdnet_jp",
    "name": "ZDNET Japan",
    "region": "domestic",
-   "status": "4件 / 全30件",
+   "status": "AI関連なし（全30件）",
    "ok": true
   },
   {
    "id": "cnet_jp",
    "name": "CNET Japan",
    "region": "domestic",
-   "status": "8件 / 全30件",
+   "status": "3件 / 全30件",
    "ok": true
   },
   {
    "id": "impress_cloud",
    "name": "クラウド Watch",
    "region": "domestic",
-   "status": "3件 / 全15件",
+   "status": "AI関連なし（全15件）",
    "ok": true
   },
   {
    "id": "impress_internet",
    "name": "INTERNET Watch",
    "region": "domestic",
-   "status": "1件 / 全20件",
+   "status": "AI関連なし（全20件）",
    "ok": true
   },
   {
@@ -14915,7 +14909,7 @@
    "id": "digital_agency",
    "name": "デジタル庁",
    "region": "domestic",
-   "status": "10件 / 全38件",
+   "status": "AI関連なし（全38件）",
    "ok": true
   },
   {
@@ -14964,7 +14958,7 @@
    "id": "techcrunch_ai",
    "name": "TechCrunch (AI)",
    "region": "global",
-   "status": "AI関連なし（全20件）",
+   "status": "2件 / 全20件",
    "ok": true
   },
   {
